@@ -12,6 +12,7 @@ import { Label } from "@/components/ui/label";
 import { Button } from "@/components/ui/button";
 import { useEffect, useState, useCallback } from "react";
 import { useRouter } from "next/navigation";
+import { Loader2 } from "lucide-react";
 import { useStore } from "@/lib/store";
 import questionsData from "@/lib/questions.json";
 
@@ -29,6 +30,7 @@ export default function QuizPage() {
   const [currentQuestionIndex, setCurrentQuestionIndex] = useState(0);
   const [timeLeft, setTimeLeft] = useState(300);
   const [quizActive, setQuizActive] = useState(true);
+  const [loading, setLoading] = useState(false);
 
   useEffect(() => {
     if (selectedInstruments.length > 0) {
@@ -42,6 +44,12 @@ export default function QuizPage() {
       setQuestions(combinedQuestions);
     }
   }, [selectedInstruments, setQuestions]);
+
+  const endQuiz = useCallback(() => {
+    setLoading(true);
+    setQuizActive(false);
+    router.push("/results");
+  }, [router]);
 
   useEffect(() => {
     if (!quizActive) return;
@@ -78,11 +86,6 @@ export default function QuizPage() {
       [currentQuestionIndex]: answer,
     });
   };
-
-  const endQuiz = useCallback(() => {
-    setQuizActive(false);
-    router.push("/results");
-  }, [router]);
 
   const formatTime = (seconds: number) => {
     const minutes = Math.floor(seconds / 60);
@@ -133,22 +136,26 @@ export default function QuizPage() {
           <Button
             variant="outline"
             onClick={handlePrevious}
-            disabled={currentQuestionIndex === 0 || !quizActive}
+            disabled={currentQuestionIndex === 0 || !quizActive || loading}
           >
             Previous
           </Button>
           <div className="flex gap-4">
             {currentQuestionIndex < questions.length - 1 ? (
-              <Button onClick={handleNext} disabled={!quizActive}>
+              <Button onClick={handleNext} disabled={!quizActive || loading}>
                 Next
               </Button>
             ) : (
               <Button
                 variant="destructive"
                 onClick={endQuiz}
-                disabled={!quizActive}
+                disabled={!quizActive || loading}
               >
-                Submit Quiz
+                {loading ? (
+                  <Loader2 className="mr-2 h-4 w-4 animate-spin" />
+                ) : (
+                  "Submit Quiz"
+                )}
               </Button>
             )}
           </div>

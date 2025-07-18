@@ -1,6 +1,7 @@
 "use client";
 import { useState } from "react";
 import { useRouter } from "next/navigation";
+import { Loader2 } from "lucide-react";
 import {
   Card,
   CardContent,
@@ -30,6 +31,7 @@ export default function Home() {
   const router = useRouter();
   const { setFullName, setSelectedInstruments } = useStore();
   const [name, setName] = useState("");
+  const [loading, setLoading] = useState(false);
   const [selectedInstrumentsState, setSelectedInstrumentsState] = useState<
     Instrument[]
   >([]);
@@ -43,6 +45,7 @@ export default function Home() {
   };
 
   const handleStartQuiz = () => {
+    setLoading(true);
     setFullName(name);
     setSelectedInstruments(selectedInstrumentsState);
     router.push("/quiz");
@@ -88,8 +91,16 @@ export default function Home() {
           </div>
         </CardContent>
         <CardFooter>
-          <Button onClick={handleStartQuiz} className="w-full">
-            Start Quiz
+          <Button
+            onClick={handleStartQuiz}
+            className="w-full"
+            disabled={loading}
+          >
+            {loading ? (
+              <Loader2 className="mr-2 h-4 w-4 animate-spin" />
+            ) : (
+              "Start Quiz"
+            )}
           </Button>
         </CardFooter>
       </Card>
