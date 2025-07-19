@@ -10,7 +10,8 @@ import { useStore } from "@/lib/store";
 
 const ResultsPage = () => {
   const router = useRouter();
-  const { name, questions, answers, reset, selectedInstruments } = useStore();
+  const { name, questions, answers, reset, selectedInstruments, difficulty } =
+    useStore();
   const [loading, setLoading] = useState(false);
   const [downloading, setDownloading] = useState(false);
   const resultsRef = useRef<HTMLDivElement>(null);
@@ -27,7 +28,12 @@ const ResultsPage = () => {
           headers: {
             "Content-Type": "application/json",
           },
-          body: JSON.stringify({ name, score, instruments: selectedInstruments }),
+          body: JSON.stringify({
+            name,
+            score,
+            instruments: selectedInstruments,
+            difficulty,
+          }),
         });
       } catch (error) {
         console.error("Failed to save score", error);
@@ -37,7 +43,7 @@ const ResultsPage = () => {
     if (name) {
       saveScore();
     }
-  }, [name, score, selectedInstruments]);
+  }, [name, score, selectedInstruments, difficulty]);
 
   const results = questions.map((question, index) => {
     const userAnswer = answers[index];
@@ -86,6 +92,7 @@ const ResultsPage = () => {
             <p className="text-xl">
               You scored {score} out of {questions.length}
             </p>
+            <p className="text-lg">Difficulty: {difficulty}</p>
           </div>
           <div className="space-y-4">
             {results.map((result, index) => (

@@ -13,6 +13,13 @@ import {
 import { Button } from "@/components/ui/button";
 import { Input } from "@/components/ui/input";
 import { Label } from "@/components/ui/label";
+import {
+  Select,
+  SelectContent,
+  SelectItem,
+  SelectTrigger,
+  SelectValue,
+} from "@/components/ui/select";
 import { Checkbox } from "@/components/ui/checkbox";
 import { useStore } from "../lib/store";
 import questions from "../lib/questions.json";
@@ -29,7 +36,7 @@ const instruments = Object.keys(questions) as Instrument[];
 
 export default function Home() {
   const router = useRouter();
-  const { setFullName, setSelectedInstruments } = useStore();
+  const { setFullName, setSelectedInstruments, setDifficulty } = useStore();
   const [name, setName] = useState("");
   const [loading, setLoading] = useState(false);
   const [selectedInstrumentsState, setSelectedInstrumentsState] = useState<
@@ -87,6 +94,19 @@ export default function Home() {
                   </div>
                 ))}
               </div>
+            </div>
+            <div className="flex flex-col space-y-1.5">
+              <Label>Select Difficulty</Label>
+              <Select onValueChange={setDifficulty}>
+                <SelectTrigger>
+                  <SelectValue placeholder="Select a difficulty" />
+                </SelectTrigger>
+                <SelectContent>
+                  <SelectItem value="Easy">Easy</SelectItem>
+                  <SelectItem value="Medium">Medium</SelectItem>
+                  <SelectItem value="Hard">Hard</SelectItem>
+                </SelectContent>
+              </Select>
             </div>
           </div>
         </CardContent>

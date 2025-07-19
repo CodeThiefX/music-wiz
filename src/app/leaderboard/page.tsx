@@ -25,6 +25,7 @@ type Score = {
   name: string;
   score: number;
   instruments: string[];
+  difficulty: string;
 };
 
 const instruments = ["All Instruments", ...Object.keys(questions)];
@@ -90,6 +91,7 @@ export default function Leaderboard() {
                 <TableHead className="w-[100px]">Rank</TableHead>
                 <TableHead>Name</TableHead>
                 <TableHead>Instruments</TableHead>
+                <TableHead>Difficulty</TableHead>
                 <TableHead className="text-right">Score</TableHead>
               </TableRow>
             </TableHeader>
@@ -99,6 +101,7 @@ export default function Leaderboard() {
                   <TableCell className="font-medium">{index + 1}</TableCell>
                   <TableCell>{score.name}</TableCell>
                   <TableCell>{score.instruments.join(", ")}</TableCell>
+                  <TableCell>{score.difficulty}</TableCell>
                   <TableCell className="text-right">{score.score}</TableCell>
                 </TableRow>
               ))}

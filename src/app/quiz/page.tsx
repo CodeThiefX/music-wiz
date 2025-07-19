@@ -21,12 +21,19 @@ type Question = {
   options: string[];
   answer: string;
   instrument: string;
+  difficulty: string;
 };
 
 export default function QuizPage() {
   const router = useRouter();
-  const { selectedInstruments, questions, setQuestions, setAnswers, answers } =
-    useStore();
+  const {
+    selectedInstruments,
+    difficulty,
+    questions,
+    setQuestions,
+    setAnswers,
+    answers,
+  } = useStore();
   const [currentQuestionIndex, setCurrentQuestionIndex] = useState(0);
   const [timeLeft, setTimeLeft] = useState(300);
   const [quizActive, setQuizActive] = useState(true);
@@ -41,9 +48,23 @@ export default function QuizPage() {
           ] || [];
         return instrumentQuestions.map((q) => ({ ...q, instrument }));
       });
-      setQuestions(combinedQuestions);
+
+      const filteredQuestions = combinedQuestions.filter(
+        (question) => question.difficulty === difficulty
+      );
+
+      // Fisher-Yates shuffle algorithm
+      for (let i = filteredQuestions.length - 1; i > 0; i--) {
+        const j = Math.floor(Math.random() * (i + 1));
+        [filteredQuestions[i], filteredQuestions[j]] = [
+          filteredQuestions[j],
+          filteredQuestions[i],
+        ];
+      }
+
+      setQuestions(filteredQuestions);
     }
-  }, [selectedInstruments, setQuestions]);
+  }, [selectedInstruments, difficulty, setQuestions]);
 
   const endQuiz = useCallback(() => {
     setLoading(true);

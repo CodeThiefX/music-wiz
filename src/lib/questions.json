@@ -3,17 +3,20 @@
     {
       "question": "How many lines are on a music staff?",
       "options": ["3", "4", "5", "6"],
-      "answer": "5"
+      "answer": "5",
+      "difficulty": "Easy"
     },
     {
       "question": "What clef does the clarinet usually read?",
       "options": ["Treble clef", "Bass clef", "Alto clef", "Tenor clef"],
-      "answer": "Treble clef"
+      "answer": "Treble clef",
+      "difficulty": "Easy"
     },
     {
       "question": "What are the names of the lines on the treble staff?",
       "options": ["E, G, B, D, F", "F, A, C, E", "G, B, D, F, A", "A, C, E, G"],
-      "answer": "E, G, B, D, F"
+      "answer": "E, G, B, D, F",
+      "difficulty": "Easy"
     },
     {
       "question": "What does a whole note look like?",
@@ -23,12 +26,14 @@
         "An open circle with a stem",
         "A filled circle with no stem"
       ],
-      "answer": "An open (hollow) circle with no stem"
+      "answer": "An open (hollow) circle with no stem",
+      "difficulty": "Easy"
     },
     {
       "question": "What is the time signature 4/4 also called?",
       "options": ["Common time", "Cut time", "Waltz time", "March time"],
-      "answer": "Common time"
+      "answer": "Common time",
+      "difficulty": "Easy"
     },
     {
       "question": "What does a sharp symbol (♯) do to a note?",
@@ -38,7 +43,8 @@
         "Raises it by a whole step",
         "Lowers it by a whole step"
       ],
-      "answer": "Raises it by a half step"
+      "answer": "Raises it by a half step",
+      "difficulty": "Easy"
     },
     {
       "question": "What is the musical term for soft?",
@@ -48,17 +54,20 @@
         "Mezzo piano (mp)",
         "Mezzo forte (mf)"
       ],
-      "answer": "Piano (p)"
+      "answer": "Piano (p)",
+      "difficulty": "Easy"
     },
     {
       "question": "How many beats does a half note get in 4/4 time?",
       "options": ["1 beat", "2 beats", "3 beats", "4 beats"],
-      "answer": "2 beats"
+      "answer": "2 beats",
+      "difficulty": "Easy"
     },
     {
       "question": "What is the name of the space notes in the treble clef?",
       "options": ["E, G, B, D, F", "F, A, C, E", "G, B, D, F, A", "A, C, E, G"],
-      "answer": "F, A, C, E"
+      "answer": "F, A, C, E",
+      "difficulty": "Easy"
     },
     {
       "question": "What does a bar line do?",
@@ -68,22 +77,26 @@
         "Changes the key signature",
         "Changes the time signature"
       ],
-      "answer": "Separates measures"
+      "answer": "Separates measures",
+      "difficulty": "Easy"
     },
     {
       "question": "What type of instrument is the clarinet?",
       "options": ["Woodwind", "Brass", "String", "Percussion"],
-      "answer": "Woodwind"
+      "answer": "Woodwind",
+      "difficulty": "Easy"
     },
     {
       "question": "What material is the clarinet reed usually made from?",
       "options": ["Cane", "Plastic", "Wood", "Metal"],
-      "answer": "Cane"
+      "answer": "Cane",
+      "difficulty": "Medium"
     },
     {
       "question": "How many pieces make up the clarinet?",
       "options": ["Three", "Four", "Five", "Six"],
-      "answer": "Five"
+      "answer": "Five",
+      "difficulty": "Easy"
     },
     {
       "question": "What is the mouthpiece of a clarinet used for?",
@@ -93,12 +106,14 @@
         "To change the pitch",
         "To project the sound"
       ],
-      "answer": "To produce sound using the reed"
+      "answer": "To produce sound using the reed",
+      "difficulty": "Easy"
     },
     {
       "question": "Which hand is placed on the top section of the clarinet?",
       "options": ["Left hand", "Right hand", "Both hands", "Either hand"],
-      "answer": "Left hand"
+      "answer": "Left hand",
+      "difficulty": "Easy"
     },
     {
       "question": "What is the lowest standard note a clarinet can play?",
@@ -108,7 +123,8 @@
         "G (below the staff)",
         "C (below the staff)"
       ],
-      "answer": "E (below the staff)"
+      "answer": "E (below the staff)",
+      "difficulty": "Medium"
     },
     {
       "question": "What is the bell of the clarinet for?",
@@ -118,34 +134,40 @@
         "To change the pitch",
         "To hold the instrument"
       ],
-      "answer": "To project the sound"
+      "answer": "To project the sound",
+      "difficulty": "Easy"
     },
     {
       "question": "What do you need to do before playing the reed?",
       "options": ["Moisten it", "Dry it", "Sand it", "Boil it"],
-      "answer": "Moisten it"
+      "answer": "Moisten it",
+      "difficulty": "Easy"
     },
     {
       "question": "What key is the B♭ clarinet in?",
       "options": ["B♭", "C", "E♭", "F"],
-      "answer": "B♭"
+      "answer": "B♭",
+      "difficulty": "Medium"
     },
     {
       "question": "What part connects the upper and lower joints of the clarinet?",
       "options": ["The bridge key", "The barrel", "The bell", "The ligature"],
-      "answer": "The bridge key"
+      "answer": "The bridge key",
+      "difficulty": "Hard"
     }
   ],
   "Saxophone": [
     {
       "question": "What is the name of the symbol that looks like an \"&\"?",
       "options": ["Treble clef", "Bass clef", "Alto clef", "Tenor clef"],
-      "answer": "Treble clef"
+      "answer": "Treble clef",
+      "difficulty": "Easy"
     },
     {
       "question": "How many beats does a whole rest last in 4/4 time?",
       "options": ["1 beat", "2 beats", "3 beats", "4 beats"],
-      "answer": "4 beats"
+      "answer": "4 beats",
+      "difficulty": "Easy"
     },
     {
       "question": "What does a flat symbol (♭) do to a note?",
@@ -155,12 +177,14 @@
         "Lowers it by a whole step",
         "Raises it by a whole step"
       ],
-      "answer": "Lowers it by a half step"
+      "answer": "Lowers it by a half step",
+      "difficulty": "Easy"
     },
     {
       "question": "What do you call the speed of music?",
       "options": ["Tempo", "Rhythm", "Dynamics", "Melody"],
-      "answer": "Tempo"
+      "answer": "Tempo",
+      "difficulty": "Easy"
     },
     {
       "question": "What is a bar in music?",
@@ -170,7 +194,8 @@
         "The end of a song",
         "A type of instrument"
       ],
-      "answer": "A group of beats separated by bar lines"
+      "answer": "A group of beats separated by bar lines",
+      "difficulty": "Easy"
     },
     {
       "question": "Which dynamic marking means “loud”?",
@@ -180,22 +205,26 @@
         "Mezzo forte (mf)",
         "Mezzo piano (mp)"
       ],
-      "answer": "Forte (f)"
+      "answer": "Forte (f)",
+      "difficulty": "Easy"
     },
     {
       "question": "What is the value of a quarter note?",
       "options": ["1 beat", "2 beats", "Half a beat", "4 beats"],
-      "answer": "1 beat"
+      "answer": "1 beat",
+      "difficulty": "Easy"
     },
     {
       "question": "What is the name for gradually getting louder?",
       "options": ["Crescendo", "Decrescendo", "Diminuendo", "Forte"],
-      "answer": "Crescendo"
+      "answer": "Crescendo",
+      "difficulty": "Easy"
     },
     {
       "question": "What note comes after G in the music alphabet?",
       "options": ["A", "H", "F", "B"],
-      "answer": "A"
+      "answer": "A",
+      "difficulty": "Easy"
     },
     {
       "question": "What is a measure?",
@@ -205,32 +234,38 @@
         "A rest",
         "A type of clef"
       ],
-      "answer": "A group of beats in a time signature"
+      "answer": "A group of beats in a time signature",
+      "difficulty": "Easy"
     },
     {
       "question": "What family does the saxophone belong to?",
       "options": ["Woodwind", "Brass", "String", "Percussion"],
-      "answer": "Woodwind"
+      "answer": "Woodwind",
+      "difficulty": "Easy"
     },
     {
       "question": "What is the curved part at the bottom of the alto saxophone called?",
       "options": ["The bow", "The bell", "The neck", "The body"],
-      "answer": "The bow"
+      "answer": "The bow",
+      "difficulty": "Medium"
     },
     {
       "question": "What material is most saxophones made of?",
       "options": ["Brass", "Wood", "Silver", "Plastic"],
-      "answer": "Brass"
+      "answer": "Brass",
+      "difficulty": "Easy"
     },
     {
       "question": "What do saxophones use to produce sound?",
       "options": ["A reed", "A mouthpiece", "Valves", "Strings"],
-      "answer": "A reed"
+      "answer": "A reed",
+      "difficulty": "Easy"
     },
     {
       "question": "What key is the alto saxophone in?",
       "options": ["E♭", "B♭", "C", "F"],
-      "answer": "E♭"
+      "answer": "E♭",
+      "difficulty": "Medium"
     },
     {
       "question": "How do you hold a saxophone?",
@@ -240,7 +275,8 @@
         "Between your knees",
         "On your shoulder"
       ],
-      "answer": "With a neck strap and both hands"
+      "answer": "With a neck strap and both hands",
+      "difficulty": "Easy"
     },
     {
       "question": "What is the name of the top curved piece on the saxophone?",
@@ -250,22 +286,26 @@
         "The mouthpiece",
         "The ligature"
       ],
-      "answer": "The neck (or crook)"
+      "answer": "The neck (or crook)",
+      "difficulty": "Medium"
     },
     {
       "question": "Which part vibrates to make sound on the saxophone?",
       "options": ["The reed", "The player's lips", "The keys", "The bell"],
-      "answer": "The reed"
+      "answer": "The reed",
+      "difficulty": "Easy"
     },
     {
       "question": "What is used to clean inside the saxophone after playing?",
       "options": ["A swab or pull-through", "A cloth", "Water", "A brush"],
-      "answer": "A swab or pull-through"
+      "answer": "A swab or pull-through",
+      "difficulty": "Easy"
     },
     {
       "question": "What size reed is best for beginners?",
       "options": ["1.5 or 2", "2.5 or 3", "3.5 or 4", "5"],
-      "answer": "1.5 or 2"
+      "answer": "1.5 or 2",
+      "difficulty": "Medium"
     }
   ],
   "Trumpet": [
@@ -277,7 +317,8 @@
         "Makes the note sharp",
         "Makes the note flat"
       ],
-      "answer": "Adds half the note's value"
+      "answer": "Adds half the note's value",
+      "difficulty": "Medium"
     },
     {
       "question": "What are the names of the first 5 notes in C major scale?",
@@ -287,7 +328,8 @@
         "A, B, C, D, E",
         "G, A, B, C, D"
       ],
-      "answer": "C, D, E, F, G"
+      "answer": "C, D, E, F, G",
+      "difficulty": "Easy"
     },
     {
       "question": "What is 3/4 time?",
@@ -297,7 +339,8 @@
         "3 notes per beat",
         "4 notes per beat"
       ],
-      "answer": "3 beats per measure"
+      "answer": "3 beats per measure",
+      "difficulty": "Easy"
     },
     {
       "question": "What is the musical term for very soft?",
@@ -307,7 +350,8 @@
         "Forte (f)",
         "Fortissimo (ff)"
       ],
-      "answer": "Pianissimo (pp)"
+      "answer": "Pianissimo (pp)",
+      "difficulty": "Easy"
     },
     {
       "question": "What does a repeat sign tell you to do?",
@@ -317,17 +361,20 @@
         "Play louder",
         "Play softer"
       ],
-      "answer": "Play the section again"
+      "answer": "Play the section again",
+      "difficulty": "Easy"
     },
     {
       "question": "What does a rest mean in music?",
       "options": ["A silence", "A long note", "A loud note", "A short note"],
-      "answer": "A silence"
+      "answer": "A silence",
+      "difficulty": "Easy"
     },
     {
       "question": "How many beats in a dotted half note?",
       "options": ["2 beats", "3 beats", "4 beats", "1.5 beats"],
-      "answer": "3 beats"
+      "answer": "3 beats",
+      "difficulty": "Medium"
     },
     {
       "question": "What does the word Allegro mean?",
@@ -337,42 +384,50 @@
         "At a walking pace",
         "Very slow"
       ],
-      "answer": "Fast and lively"
+      "answer": "Fast and lively",
+      "difficulty": "Easy"
     },
     {
       "question": "What symbol indicates silence for one beat?",
       "options": ["Quarter rest", "Half rest", "Whole rest", "Eighth rest"],
-      "answer": "Quarter rest"
+      "answer": "Quarter rest",
+      "difficulty": "Easy"
     },
     {
       "question": "What is the first line note of the treble clef?",
       "options": ["E", "F", "G", "D"],
-      "answer": "E"
+      "answer": "E",
+      "difficulty": "Easy"
     },
     {
       "question": "What type of instrument is the trumpet?",
       "options": ["Brass", "Woodwind", "String", "Percussion"],
-      "answer": "Brass"
+      "answer": "Brass",
+      "difficulty": "Easy"
     },
     {
       "question": "How many valves does a standard trumpet have?",
       "options": ["Two", "Three", "Four", "Five"],
-      "answer": "Three"
+      "answer": "Three",
+      "difficulty": "Easy"
     },
     {
       "question": "What is buzzing into the trumpet called?",
       "options": ["Embouchure", "Articulation", "Tonguing", "Breathing"],
-      "answer": "Embouchure"
+      "answer": "Embouchure",
+      "difficulty": "Medium"
     },
     {
       "question": "What part of the trumpet do you blow into?",
       "options": ["The mouthpiece", "The bell", "The valves", "The leadpipe"],
-      "answer": "The mouthpiece"
+      "answer": "The mouthpiece",
+      "difficulty": "Easy"
     },
     {
       "question": "What metal is the trumpet usually made from?",
       "options": ["Brass", "Silver", "Gold", "Wood"],
-      "answer": "Brass"
+      "answer": "Brass",
+      "difficulty": "Easy"
     },
     {
       "question": "What do valves do?",
@@ -382,12 +437,14 @@
         "Make the sound softer",
         "Hold the mouthpiece"
       ],
-      "answer": "Change the pitch by redirecting air"
+      "answer": "Change the pitch by redirecting air",
+      "difficulty": "Easy"
     },
     {
       "question": "What is the trumpet's written clef?",
       "options": ["Treble clef", "Bass clef", "Alto clef", "Tenor clef"],
-      "answer": "Treble clef"
+      "answer": "Treble clef",
+      "difficulty": "Easy"
     },
     {
       "question": "How do you make a sound on the trumpet?",
@@ -397,12 +454,14 @@
         "Press the valves",
         "Hit the trumpet"
       ],
-      "answer": "Buzz your lips into the mouthpiece"
+      "answer": "Buzz your lips into the mouthpiece",
+      "difficulty": "Easy"
     },
     {
       "question": "What key is the trumpet usually in?",
       "options": ["B♭", "C", "E♭", "F"],
-      "answer": "B♭"
+      "answer": "B♭",
+      "difficulty": "Medium"
     },
     {
       "question": "What do you use to clean the inside of the trumpet?",
@@ -412,7 +471,8 @@
         "A dry cloth",
         "A brush"
       ],
-      "answer": "Valve oil and cleaning snake"
+      "answer": "Valve oil and cleaning snake",
+      "difficulty": "Medium"
     }
   ],
   "Violin": [
@@ -424,7 +484,8 @@
         "Forte (loud)",
         "Piano (soft)"
       ],
-      "answer": "Mezzo forte (moderately loud)"
+      "answer": "Mezzo forte (moderately loud)",
+      "difficulty": "Easy"
     },
     {
       "question": "What is the musical term for gradually softer?",
@@ -434,17 +495,20 @@
         "Piano",
         "Pianissimo"
       ],
-      "answer": "Decrescendo or diminuendo"
+      "answer": "Decrescendo or diminuendo",
+      "difficulty": "Easy"
     },
     {
       "question": "What note comes after F in the music alphabet?",
       "options": ["G", "E", "A", "H"],
-      "answer": "G"
+      "answer": "G",
+      "difficulty": "Easy"
     },
     {
       "question": "How many beats are in a dotted quarter note?",
       "options": ["1 beat", "1.5 beats", "2 beats", "0.5 beats"],
-      "answer": "1.5 beats"
+      "answer": "1.5 beats",
+      "difficulty": "Medium"
     },
     {
       "question": "What does the symbol ♯ mean?",
@@ -454,7 +518,8 @@
         "Natural – cancel a sharp or flat",
         "Accent – play with emphasis"
       ],
-      "answer": "Sharp – raise the note"
+      "answer": "Sharp – raise the note",
+      "difficulty": "Easy"
     },
     {
       "question": "What is the symbol for a half rest?",
@@ -464,7 +529,8 @@
         "A squiggly line",
         "A dot"
       ],
-      "answer": "A small rectangle sitting on top of the middle line"
+      "answer": "A small rectangle sitting on top of the middle line",
+      "difficulty": "Easy"
     },
     {
       "question": "What are dynamics in music?",
@@ -474,7 +540,8 @@
         "The pitch of the music",
         "The rhythm of the music"
       ],
-      "answer": "The volume of the music"
+      "answer": "The volume of the music",
+      "difficulty": "Easy"
     },
     {
       "question": "What is a scale?",
@@ -484,7 +551,8 @@
         "A chord",
         "A rhythm pattern"
       ],
-      "answer": "A series of notes in order, usually 8"
+      "answer": "A series of notes in order, usually 8",
+      "difficulty": "Easy"
     },
     {
       "question": "What does “legato” mean?",
@@ -494,37 +562,44 @@
         "Play loudly",
         "Play softly"
       ],
-      "answer": "Play smoothly and connected"
+      "answer": "Play smoothly and connected",
+      "difficulty": "Easy"
     },
     {
       "question": "What is the first space note in treble clef?",
       "options": ["F", "A", "C", "E"],
-      "answer": "F"
+      "answer": "F",
+      "difficulty": "Easy"
     },
     {
       "question": "How many strings does a violin have?",
       "options": ["Four", "Five", "Six", "Seven"],
-      "answer": "Four"
+      "answer": "Four",
+      "difficulty": "Easy"
     },
     {
       "question": "What are the violin strings tuned to (from low to high)?",
       "options": ["G, D, A, E", "A, D, G, C", "E, A, D, G", "C, G, D, A"],
-      "answer": "G, D, A, E"
+      "answer": "G, D, A, E",
+      "difficulty": "Medium"
     },
     {
       "question": "What do you use to play the violin?",
       "options": ["A bow", "A pick", "Your fingers", "A slide"],
-      "answer": "A bow"
+      "answer": "A bow",
+      "difficulty": "Easy"
     },
     {
       "question": "What part of the violin rests on your shoulder?",
       "options": ["The shoulder rest", "The chin rest", "The body", "The neck"],
-      "answer": "The shoulder rest"
+      "answer": "The shoulder rest",
+      "difficulty": "Easy"
     },
     {
       "question": "What part of the violin do you press the strings on?",
       "options": ["Fingerboard", "Bridge", "Tailpiece", "Pegs"],
-      "answer": "Fingerboard"
+      "answer": "Fingerboard",
+      "difficulty": "Easy"
     },
     {
       "question": "What is rosin used for?",
@@ -534,12 +609,14 @@
         "To tune the violin",
         "To protect the violin"
       ],
-      "answer": "To make the bow grip the strings"
+      "answer": "To make the bow grip the strings",
+      "difficulty": "Easy"
     },
     {
       "question": "What type of instrument is the violin?",
       "options": ["String", "Woodwind", "Brass", "Percussion"],
-      "answer": "String"
+      "answer": "String",
+      "difficulty": "Easy"
     },
     {
       "question": "What is the scroll of the violin?",
@@ -549,7 +626,8 @@
         "The part that holds the strings",
         "The endpin"
       ],
-      "answer": "The decorative top of the violin neck"
+      "answer": "The decorative top of the violin neck",
+      "difficulty": "Medium"
     },
     {
       "question": "What size violin do most beginners use?",
@@ -559,7 +637,8 @@
         "1/8",
         "1/16"
       ],
-      "answer": "1/4, 1/2 or 3/4 depending on age/size"
+      "answer": "1/4, 1/2 or 3/4 depending on age/size",
+      "difficulty": "Medium"
     },
     {
       "question": "What does pizzicato mean?",
@@ -569,14 +648,16 @@
         "Play loudly",
         "Play softly"
       ],
-      "answer": "Pluck the strings with fingers"
+      "answer": "Pluck the strings with fingers",
+      "difficulty": "Medium"
     }
   ],
   "Trombone": [
     {
       "question": "How many beats does a whole note have in 4/4 time?",
       "options": ["2 beats", "3 beats", "4 beats", "1 beat"],
-      "answer": "4 beats"
+      "answer": "4 beats",
+      "difficulty": "Easy"
     },
     {
       "question": "What does a flat (♭) symbol mean?",
@@ -586,7 +667,8 @@
         "It cancels a sharp or flat",
         "It makes a note longer"
       ],
-      "answer": "It lowers a note by a half step"
+      "answer": "It lowers a note by a half step",
+      "difficulty": "Easy"
     },
     {
       "question": "What is the name of the music symbol that looks like a backward \"C\" with two dots?",
@@ -596,7 +678,8 @@
         "Alto clef (C clef)",
         "Tenor clef (C clef)"
       ],
-      "answer": "Bass clef (F clef)"
+      "answer": "Bass clef (F clef)",
+      "difficulty": "Easy"
     },
     {
       "question": "What is a rest?",
@@ -606,17 +689,20 @@
         "A symbol that means to play loudly",
         "A symbol that means to play softly"
       ],
-      "answer": "A symbol that means silence"
+      "answer": "A symbol that means silence",
+      "difficulty": "Easy"
     },
     {
       "question": "What is the musical term for gradually getting louder?",
       "options": ["Crescendo", "Decrescendo", "Diminuendo", "Forte"],
-      "answer": "Crescendo"
+      "answer": "Crescendo",
+      "difficulty": "Easy"
     },
     {
       "question": "What is the time signature that has 2 beats in a measure?",
       "options": ["2/4", "3/4", "4/4", "6/8"],
-      "answer": "2/4"
+      "answer": "2/4",
+      "difficulty": "Easy"
     },
     {
       "question": "What are dynamics in music?",
@@ -626,12 +712,14 @@
         "Pitch levels (e.g., high or low)",
         "Rhythm patterns"
       ],
-      "answer": "Volume levels (e.g., loud or soft)"
+      "answer": "Volume levels (e.g., loud or soft)",
+      "difficulty": "Easy"
     },
     {
       "question": "What note is on the second line of the bass clef staff?",
       "options": ["G", "B", "D", "F"],
-      "answer": "B"
+      "answer": "B",
+      "difficulty": "Easy"
     },
     {
       "question": "What does a staccato dot above or below a note mean?",
@@ -641,17 +729,20 @@
         "Play it with an accent",
         "Play it very loudly"
       ],
-      "answer": "Play it short and detached"
+      "answer": "Play it short and detached",
+      "difficulty": "Easy"
     },
     {
       "question": "What is the name for the group of five lines used in written music?",
       "options": ["Staff", "Scale", "Chord", "Measure"],
-      "answer": "Staff"
+      "answer": "Staff",
+      "difficulty": "Easy"
     },
     {
       "question": "What type of instrument is the trombone?",
       "options": ["Brass", "Woodwind", "String", "Percussion"],
-      "answer": "Brass"
+      "answer": "Brass",
+      "difficulty": "Easy"
     },
     {
       "question": "What is unique about how the trombone changes pitch?",
@@ -661,7 +752,8 @@
         "It uses strings instead of valves",
         "It doesn't change pitch"
       ],
-      "answer": "It uses a slide instead of valves"
+      "answer": "It uses a slide instead of valves",
+      "difficulty": "Medium"
     },
     {
       "question": "What clef does the trombone usually read?",
@@ -671,12 +763,14 @@
         "Alto clef",
         "Soprano clef"
       ],
-      "answer": "Bass clef (sometimes tenor)"
+      "answer": "Bass clef (sometimes tenor)",
+      "difficulty": "Medium"
     },
     {
       "question": "How many main slide positions does a trombone have?",
       "options": ["Five", "Six", "Seven", "Eight"],
-      "answer": "Seven"
+      "answer": "Seven",
+      "difficulty": "Medium"
     },
     {
       "question": "What do you call the part you buzz into?",
@@ -686,7 +780,8 @@
         "The slide",
         "The tuning slide"
       ],
-      "answer": "The mouthpiece"
+      "answer": "The mouthpiece",
+      "difficulty": "Easy"
     },
     {
       "question": "What is the purpose of the tuning slide?",
@@ -696,12 +791,14 @@
         "To make the sound louder",
         "To hold the instrument"
       ],
-      "answer": "To adjust the pitch"
+      "answer": "To adjust the pitch",
+      "difficulty": "Easy"
     },
     {
       "question": "What should you apply to the slide to keep it moving smoothly?",
       "options": ["Slide cream or slide oil", "Water", "Valve oil", "Grease"],
-      "answer": "Slide cream or slide oil"
+      "answer": "Slide cream or slide oil",
+      "difficulty": "Easy"
     },
     {
       "question": "What is the bell of the trombone used for?",
@@ -711,7 +808,8 @@
         "To hold the instrument",
         "To mute the sound"
       ],
-      "answer": "To project sound"
+      "answer": "To project sound",
+      "difficulty": "Easy"
     },
     {
       "question": "What is the first position on a trombone?",
@@ -721,24 +819,28 @@
         "Slide halfway out",
         "There is no first position"
       ],
-      "answer": "Slide all the way in"
+      "answer": "Slide all the way in",
+      "difficulty": "Easy"
     },
     {
       "question": "What key is the tenor trombone in?",
       "options": ["B♭", "C", "E♭", "F"],
-      "answer": "B♭"
+      "answer": "B♭",
+      "difficulty": "Medium"
     }
   ],
   "Euphonium": [
     {
       "question": "What does the term \"forte\" mean?",
       "options": ["Loud", "Soft", "Medium", "Fast"],
-      "answer": "Loud"
+      "answer": "Loud",
+      "difficulty": "Easy"
     },
     {
       "question": "What is the name of the sign that means to go back to the beginning?",
       "options": ["Repeat sign or Da Capo (D.C.)", "Fermata", "Coda", "Segno"],
-      "answer": "Repeat sign or Da Capo (D.C.)"
+      "answer": "Repeat sign or Da Capo (D.C.)",
+      "difficulty": "Easy"
     },
     {
       "question": "What are the names of the bass clef lines?",
@@ -748,17 +850,20 @@
         "F, A, C, E, G",
         "A, C, E, G, B"
       ],
-      "answer": "G, B, D, F, A"
+      "answer": "G, B, D, F, A",
+      "difficulty": "Easy"
     },
     {
       "question": "What note is on the first space of the bass clef?",
       "options": ["A", "C", "E", "G"],
-      "answer": "A"
+      "answer": "A",
+      "difficulty": "Easy"
     },
     {
       "question": "What note value equals two beats in 4/4 time?",
       "options": ["Half note", "Whole note", "Quarter note", "Eighth note"],
-      "answer": "Half note"
+      "answer": "Half note",
+      "difficulty": "Easy"
     },
     {
       "question": "What is a tie in music?",
@@ -768,7 +873,8 @@
         "A dot that adds value to a note",
         "A symbol for silence"
       ],
-      "answer": "A curved line that connects two of the same notes"
+      "answer": "A curved line that connects two of the same notes",
+      "difficulty": "Easy"
     },
     {
       "question": "What does the time signature 3/4 mean?",
@@ -778,7 +884,8 @@
         "3 notes per beat",
         "4 notes per beat"
       ],
-      "answer": "3 beats per measure"
+      "answer": "3 beats per measure",
+      "difficulty": "Easy"
     },
     {
       "question": "What does \"andante\" mean?",
@@ -788,7 +895,8 @@
         "Slow and stately",
         "Very fast"
       ],
-      "answer": "A walking pace"
+      "answer": "A walking pace",
+      "difficulty": "Easy"
     },
     {
       "question": "What is a slur?",
@@ -798,7 +906,8 @@
         "A dot that shortens a note",
         "A line that separates measures"
       ],
-      "answer": "A curved line connecting different notes to be played smoothly"
+      "answer": "A curved line connecting different notes to be played smoothly",
+      "difficulty": "Easy"
     },
     {
       "question": "What are bar lines used for?",
@@ -808,12 +917,14 @@
         "To show the key signature",
         "To mark the end of a piece"
       ],
-      "answer": "To divide music into measures"
+      "answer": "To divide music into measures",
+      "difficulty": "Easy"
     },
     {
       "question": "What family does the euphonium belong to?",
       "options": ["Brass", "Woodwind", "String", "Percussion"],
-      "answer": "Brass"
+      "answer": "Brass",
+      "difficulty": "Easy"
     },
     {
       "question": "What type of clef does euphonium music usually use?",
@@ -823,7 +934,8 @@
         "Alto clef",
         "Tenor clef"
       ],
-      "answer": "Bass clef (sometimes treble for British-style players)"
+      "answer": "Bass clef (sometimes treble for British-style players)",
+      "difficulty": "Medium"
     },
     {
       "question": "How many valves does a standard euphonium have?",
@@ -833,7 +945,8 @@
         "Four or five",
         "Five or six"
       ],
-      "answer": "Three or four"
+      "answer": "Three or four",
+      "difficulty": "Easy"
     },
     {
       "question": "What produces sound on the euphonium?",
@@ -843,7 +956,8 @@
         "Striking with a mallet",
         "Plucking a string"
       ],
-      "answer": "Buzzing into the mouthpiece"
+      "answer": "Buzzing into the mouthpiece",
+      "difficulty": "Easy"
     },
     {
       "question": "What is the euphonium shaped like?",
@@ -853,7 +967,8 @@
         "A straight horn",
         "A coiled snake"
       ],
-      "answer": "A small tuba"
+      "answer": "A small tuba",
+      "difficulty": "Medium"
     },
     {
       "question": "What does the fourth valve help with?",
@@ -863,12 +978,14 @@
         "Making the sound louder",
         "Changing the timbre"
       ],
-      "answer": "Better intonation and access to lower notes"
+      "answer": "Better intonation and access to lower notes",
+      "difficulty": "Hard"
     },
     {
       "question": "What key is the euphonium usually in?",
       "options": ["B♭", "C", "E♭", "F"],
-      "answer": "B♭"
+      "answer": "B♭",
+      "difficulty": "Medium"
     },
     {
       "question": "How is the euphonium held when playing?",
@@ -878,12 +995,14 @@
         "Between the knees",
         "With a neck strap"
       ],
-      "answer": "Upright on the lap or resting on a support"
+      "answer": "Upright on the lap or resting on a support",
+      "difficulty": "Easy"
     },
     {
       "question": "What is used to keep the valves working smoothly?",
       "options": ["Valve oil", "Slide grease", "Water", "Polish"],
-      "answer": "Valve oil"
+      "answer": "Valve oil",
+      "difficulty": "Easy"
     },
     {
       "question": "What is the purpose of the bell on the euphonium?",
@@ -893,7 +1012,8 @@
         "To change the pitch",
         "To hold the instrument"
       ],
-      "answer": "To project sound outward"
+      "answer": "To project sound outward",
+      "difficulty": "Easy"
     }
   ]
 }

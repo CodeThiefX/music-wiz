@@ -5,14 +5,20 @@ type LeaderboardEntry = {
   name: string;
   score: number;
   instruments: string[];
+  difficulty: string;
 };
 
 export async function POST(req: NextRequest) {
-  const { name, score, instruments } = await req.json();
+  const { name, score, instruments, difficulty } = await req.json();
 
-  if (!name || typeof score !== "number" || !Array.isArray(instruments)) {
+  if (
+    !name ||
+    typeof score !== "number" ||
+    !Array.isArray(instruments) ||
+    !difficulty
+  ) {
     return NextResponse.json(
-      { error: "Name, score, and instruments are required" },
+      { error: "Name, score, instruments, and difficulty are required" },
       { status: 400 }
     );
   }
@@ -30,7 +36,7 @@ export async function POST(req: NextRequest) {
       // This block now runs if head() fails (file not found)
       await put(
         "leaderboard.json",
-        JSON.stringify([{ name, score, instruments }]),
+        JSON.stringify([{ name, score, instruments, difficulty }]),
         {
           access: "public",
           allowOverwrite: true,
@@ -42,7 +48,7 @@ export async function POST(req: NextRequest) {
       const response = await fetch(url);
       const leaderboard: LeaderboardEntry[] = await response.json();
 
-      leaderboard.push({ name, score, instruments });
+      leaderboard.push({ name, score, instruments, difficulty });
       leaderboard.sort((a, b) => b.score - a.score);
 
       const top100 = leaderboard.slice(0, 100);
