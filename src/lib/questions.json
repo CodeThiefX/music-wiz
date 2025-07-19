@@ -254,6 +254,51 @@
       ],
       "answer": "Notes played with the left hand first finger and thumb",
       "difficulty": "Hard"
+    },
+    {
+      "question": "The 'Boehm system' of keywork, standard on most modern clarinets, was originally developed for which instrument?",
+      "options": ["Flute", "Oboe", "Bassoon", "Saxophone"],
+      "answer": "Flute",
+      "difficulty": "Expert"
+    },
+    {
+      "question": "What is the term for the acoustic phenomenon that causes the clarinet to overblow at the twelfth (an octave and a fifth) rather than the octave?",
+      "options": [
+        "Harmonic series",
+        "Cylindrical bore resonance",
+        "Conical bore resonance",
+        "Register key mechanics"
+      ],
+      "answer": "Cylindrical bore resonance",
+      "difficulty": "Expert"
+    },
+    {
+      "question": "Which avant-garde composition requires the clarinetist to produce multiphonics, circular breathe, and click the keys percussively?",
+      "options": [
+        "'Sequenza IXa' by Luciano Berio",
+        "'Four6' by John Cage",
+        "'Artikulation' by György Ligeti",
+        "'Zeitmaße' by Karlheinz Stockhausen"
+      ],
+      "answer": "'Sequenza IXa' by Luciano Berio",
+      "difficulty": "Expert"
+    },
+    {
+      "question": "The bass clarinet is typically pitched in B♭, but what other key is occasionally used for older French repertoire?",
+      "options": ["A", "C", "E♭", "D"],
+      "answer": "A",
+      "difficulty": "Expert"
+    },
+    {
+      "question": "What specific type of wood is most prized for making high-end professional clarinets?",
+      "options": [
+        "African Blackwood (Grenadilla)",
+        "Honduran Rosewood",
+        "Cocobolo",
+        "Boxwood"
+      ],
+      "answer": "African Blackwood (Grenadilla)",
+      "difficulty": "Expert"
     }
   ],
   "Saxophone": [
@@ -516,6 +561,56 @@
       ],
       "answer": "Notating a recorded solo by ear",
       "difficulty": "Hard"
+    },
+    {
+      "question": "What is the 'Lydian Chromatic Concept of Tonal Organization,' a complex improvisational theory heavily associated with a famous jazz saxophonist?",
+      "options": [
+        "George Russell's theory",
+        "John Coltrane's 'sheets of sound'",
+        "Ornette Coleman's 'harmolodics'",
+        "David Liebman's 'chromatic approach'"
+      ],
+      "answer": "George Russell's theory",
+      "difficulty": "Expert"
+    },
+    {
+      "question": "The original 1846 patent for the saxophone family included 14 different members. Which of these was NOT part of the original patent?",
+      "options": [
+        "Sopranino saxophone",
+        "Contrabass saxophone",
+        "C melody saxophone",
+        "F baritone saxophone"
+      ],
+      "answer": "Sopranino saxophone",
+      "difficulty": "Expert"
+    },
+    {
+      "question": "What is the term for the technique of producing two or more notes simultaneously on a saxophone, often by using unconventional fingerings and embouchure adjustments?",
+      "options": ["Multiphonics", "Altissimo", "Subtone", "Growling"],
+      "answer": "Multiphonics",
+      "difficulty": "Expert"
+    },
+    {
+      "question": "Which 20th-century classical composer wrote a significant 'Concerto for Alto Saxophone and String Orchestra' in 1949?",
+      "options": [
+        "Alexander Glazunov",
+        "Jacques Ibert",
+        "Paul Creston",
+        "Ingolf Dahl"
+      ],
+      "answer": "Alexander Glazunov",
+      "difficulty": "Expert"
+    },
+    {
+      "question": "What does the term 'baffle' refer to in a saxophone mouthpiece?",
+      "options": [
+        "The surface inside the mouthpiece that the airstream hits, affecting brightness",
+        "The opening at the tip of the mouthpiece",
+        "The chamber size of the mouthpiece",
+        "The material the mouthpiece is made from"
+      ],
+      "answer": "The surface inside the mouthpiece that the airstream hits, affecting brightness",
+      "difficulty": "Expert"
     }
   ],
   "Trumpet": [
@@ -793,6 +888,56 @@
       ],
       "answer": "Both players on the part should play",
       "difficulty": "Hard"
+    },
+    {
+      "question": "What is the name of the 17th-century treatise by Girolamo Fantini that is one of the earliest and most important sources for trumpet pedagogy?",
+      "options": [
+        "'Modo per Imparare a sonare di Tromba'",
+        "'Toccata for Trumpet'",
+        "'The Compleat Trumpeter'",
+        "'Method for the Cornet'"
+      ],
+      "answer": "'Modo per Imparare a sonare di Tromba'",
+      "difficulty": "Expert"
+    },
+    {
+      "question": "In the context of historical performance, what is a 'natural trumpet'?",
+      "options": [
+        "A valveless trumpet that can only play notes of the harmonic series",
+        "A trumpet made from natural materials like wood",
+        "A trumpet pitched in the key of C",
+        "The earliest form of the cornet"
+      ],
+      "answer": "A valveless trumpet that can only play notes of the harmonic series",
+      "difficulty": "Expert"
+    },
+    {
+      "question": "The 'Clarke Technical Studies' is a cornerstone of trumpet practice. What was Herbert L. Clarke's primary instrument?",
+      "options": ["Cornet", "Trumpet", "Flugelhorn", "Trombone"],
+      "answer": "Cornet",
+      "difficulty": "Expert"
+    },
+    {
+      "question": "What is the 'doodle tonguing' technique used for in jazz trumpet playing?",
+      "options": [
+        "Creating a very smooth, legato articulation similar to a valve trombone",
+        "A rapid double-tonguing effect",
+        "A type of growl",
+        "Playing in the extreme upper register"
+      ],
+      "answer": "Creating a very smooth, legato articulation similar to a valve trombone",
+      "difficulty": "Expert"
+    },
+    {
+      "question": "Which composer's 'Symphony No. 5' features a famously demanding and exposed trumpet solo in its opening movement?",
+      "options": [
+        "Gustav Mahler",
+        "Dmitri Shostakovich",
+        "Richard Strauss",
+        "Anton Bruckner"
+      ],
+      "answer": "Gustav Mahler",
+      "difficulty": "Expert"
     }
   ],
   "Violin": [
@@ -1080,6 +1225,61 @@
       ],
       "answer": "Antonio Vivaldi",
       "difficulty": "Easy"
+    },
+    {
+      "question": "What is the 'wolf tone' on a string instrument?",
+      "options": [
+        "An unstable, wavering sound produced when a note matches the main resonance frequency of the instrument's body",
+        "A harsh sound from excessive bow pressure",
+        "A note played out of tune",
+        "A type of artificial harmonic"
+      ],
+      "answer": "An unstable, wavering sound produced when a note matches the main resonance frequency of the instrument's body",
+      "difficulty": "Expert"
+    },
+    {
+      "question": "The 'Chaconne' from Bach's Partita No. 2 in D minor is a monumental work for solo violin. What is a chaconne?",
+      "options": [
+        "A set of variations over a repeated bass line or harmonic progression",
+        "A fast-paced dance in triple meter",
+        "A slow, mournful lament",
+        "A free-form improvisatory piece"
+      ],
+      "answer": "A set of variations over a repeated bass line or harmonic progression",
+      "difficulty": "Expert"
+    },
+    {
+      "question": "What is 'scordatura'?",
+      "options": [
+        "The practice of tuning the violin strings to different pitches than the standard G-D-A-E",
+        "A specific bowing technique for fast passages",
+        "A type of violin mute",
+        "The study of violin acoustics"
+      ],
+      "answer": "The practice of tuning the violin strings to different pitches than the standard G-D-A-E",
+      "difficulty": "Expert"
+    },
+    {
+      "question": "Which 20th-century composer utilized extensive microtonal writing (notes between the standard half-steps) in his violin works?",
+      "options": [
+        "György Ligeti",
+        "Arnold Schoenberg",
+        "Igor Stravinsky",
+        "Béla Bartók"
+      ],
+      "answer": "György Ligeti",
+      "difficulty": "Expert"
+    },
+    {
+      "question": "What is the 'Tourte bow,' developed in the late 18th century, known for?",
+      "options": [
+        "Its concave shape, which allowed for greater control and a wider range of articulations",
+        "Its convex shape, typical of the Baroque era",
+        "Being the first bow to use synthetic hair",
+        "Its use of a screw mechanism for tightening"
+      ],
+      "answer": "Its concave shape, which allowed for greater control and a wider range of articulations",
+      "difficulty": "Expert"
     }
   ],
   "Trombone": [
@@ -1367,6 +1567,56 @@
       ],
       "answer": "An early ancestor of the trombone",
       "difficulty": "Hard"
+    },
+    {
+      "question": "In orchestral scores, what clef is the trombone part often written in to avoid excessive ledger lines for high passages?",
+      "options": ["Tenor clef", "Alto clef", "Treble clef", "Soprano clef"],
+      "answer": "Tenor clef",
+      "difficulty": "Expert"
+    },
+    {
+      "question": "What is a 'trigger' or 'valve' on a trombone (like an F attachment) technically called?",
+      "options": [
+        "Rotary valve",
+        "Piston valve",
+        "Thayer valve",
+        "Hagmann valve"
+      ],
+      "answer": "Rotary valve",
+      "difficulty": "Expert"
+    },
+    {
+      "question": "Which Berlioz composition famously calls for four separate trombone choirs placed in different parts of the performance hall?",
+      "options": [
+        "'Grande messe des morts' (Requiem)",
+        "'Symphonie fantastique'",
+        "'Harold en Italie'",
+        "'Les Troyens'"
+      ],
+      "answer": "'Grande messe des morts' (Requiem)",
+      "difficulty": "Expert"
+    },
+    {
+      "question": "What is the 'superbone'?",
+      "options": [
+        "A hybrid instrument with both a slide and valves",
+        "A trombone with an exceptionally large bell",
+        "A contrabass trombone",
+        "A trombone made of carbon fiber"
+      ],
+      "answer": "A hybrid instrument with both a slide and valves",
+      "difficulty": "Expert"
+    },
+    {
+      "question": "The 'una corda' marking in a piano score tells the player to use the soft pedal. What is the equivalent instruction for a trombonist to use a mute?",
+      "options": [
+        "con sordino",
+        "senza sordino",
+        "col legno",
+        "sul ponticello"
+      ],
+      "answer": "con sordino",
+      "difficulty": "Expert"
     }
   ],
   "Euphonium": [

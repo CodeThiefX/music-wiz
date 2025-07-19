@@ -14,8 +14,6 @@ import { useEffect, useState, useCallback } from "react";
 import { useRouter } from "next/navigation";
 import { Loader2 } from "lucide-react";
 import { useStore } from "@/lib/store";
-import questionsData from "@/lib/questions.json";
-
 type Question = {
   question: string;
   options: string[];
@@ -40,30 +38,44 @@ export default function QuizPage() {
   const [loading, setLoading] = useState(false);
 
   useEffect(() => {
-    if (selectedInstruments.length > 0) {
-      const combinedQuestions = selectedInstruments.flatMap((instrument) => {
-        const instrumentQuestions =
-          (questionsData as Record<string, Omit<Question, "instrument">[]>)[
-            instrument
-          ] || [];
-        return instrumentQuestions.map((q) => ({ ...q, instrument }));
-      });
+    const fetchQuestions = async () => {
+      if (selectedInstruments.length > 0) {
+        const allQuestions: Question[] = [];
+        for (const instrument of selectedInstruments) {
+          try {
+            const module = await import(
+              `@/lib/questions/${instrument.toLowerCase()}.json`
+            );
+            const instrumentQuestions = module.default as Omit<
+              Question,
+              "instrument"
+            >[];
+            allQuestions.push(
+              ...instrumentQuestions.map((q) => ({ ...q, instrument }))
+            );
+          } catch (error) {
+            console.error(`Failed to load questions for ${instrument}:`, error);
+          }
+        }
 
-      const filteredQuestions = combinedQuestions.filter(
-        (question) => question.difficulty === difficulty
-      );
+        const filteredQuestions = allQuestions.filter(
+          (question) => question.difficulty === difficulty
+        );
 
-      // Fisher-Yates shuffle algorithm
-      for (let i = filteredQuestions.length - 1; i > 0; i--) {
-        const j = Math.floor(Math.random() * (i + 1));
-        [filteredQuestions[i], filteredQuestions[j]] = [
-          filteredQuestions[j],
-          filteredQuestions[i],
-        ];
+        // Fisher-Yates shuffle algorithm
+        for (let i = filteredQuestions.length - 1; i > 0; i--) {
+          const j = Math.floor(Math.random() * (i + 1));
+          [filteredQuestions[i], filteredQuestions[j]] = [
+            filteredQuestions[j],
+            filteredQuestions[i],
+          ];
+        }
+
+        setQuestions(filteredQuestions);
       }
+    };
 
-      setQuestions(filteredQuestions);
-    }
+    fetchQuestions();
   }, [selectedInstruments, difficulty, setQuestions]);
 
   const endQuiz = useCallback(() => {

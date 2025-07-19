@@ -1,0 +1,1221 @@
+[
+  {
+    "question": "What family of instruments does the trumpet belong to?",
+    "options": ["Brass", "Woodwind", "Percussion", "Strings"],
+    "answer": "Brass",
+    "difficulty": "Easy"
+  },
+  {
+    "question": "How many valves does a standard trumpet have?",
+    "options": ["Three", "Four", "Two", "Five"],
+    "answer": "Three",
+    "difficulty": "Easy"
+  },
+  {
+    "question": "What do you press to change notes on a trumpet?",
+    "options": ["Valves", "Keys", "Slides", "Strings"],
+    "answer": "Valves",
+    "difficulty": "Easy"
+  },
+  {
+    "question": "What part of the trumpet do you buzz your lips into?",
+    "options": ["Mouthpiece", "Bell", "Leadpipe", "Valve casing"],
+    "answer": "Mouthpiece",
+    "difficulty": "Easy"
+  },
+  {
+    "question": "What is the flared end of the trumpet called?",
+    "options": ["Bell", "Horn", "Cone", "Funnel"],
+    "answer": "Bell",
+    "difficulty": "Easy"
+  },
+  {
+    "question": "What is the most common type of trumpet?",
+    "options": [
+      "B-flat trumpet",
+      "C trumpet",
+      "Piccolo trumpet",
+      "Bass trumpet"
+    ],
+    "answer": "B-flat trumpet",
+    "difficulty": "Easy"
+  },
+  {
+    "question": "What is a musician who plays the trumpet called?",
+    "options": ["Trumpeter", "Trumpetist", "Trumpet-player", "Brasser"],
+    "answer": "Trumpeter",
+    "difficulty": "Easy"
+  },
+  {
+    "question": "What should you use to clean the inside of a trumpet?",
+    "options": ["Cleaning snake", "Swab", "Brush", "All of the above"],
+    "answer": "All of the above",
+    "difficulty": "Easy"
+  },
+  {
+    "question": "What is the purpose of valve oil?",
+    "options": [
+      "To lubricate the valves",
+      "To polish the trumpet",
+      "To clean the mouthpiece",
+      "To grease the slides"
+    ],
+    "answer": "To lubricate the valves",
+    "difficulty": "Easy"
+  },
+  {
+    "question": "What is a 'mute' used for?",
+    "options": [
+      "To change the sound of the trumpet",
+      "To make the trumpet louder",
+      "To clean the trumpet",
+      "To hold the trumpet"
+    ],
+    "answer": "To change the sound of the trumpet",
+    "difficulty": "Easy"
+  },
+  {
+    "question": "What is the name of the tube that connects the mouthpiece to the main body?",
+    "options": ["Leadpipe", "Bell pipe", "Valve pipe", "Mouth pipe"],
+    "answer": "Leadpipe",
+    "difficulty": "Easy"
+  },
+  {
+    "question": "True or False: The trumpet is a transposing instrument.",
+    "options": ["True", "False"],
+    "answer": "True",
+    "difficulty": "Easy"
+  },
+  {
+    "question": "What is a common brand of trumpet?",
+    "options": ["Bach", "Yamaha", "Conn", "Getzen"],
+    "answer": "Bach",
+    "difficulty": "Easy"
+  },
+  {
+    "question": "What is a 'scale' in music?",
+    "options": [
+      "A series of notes played in order",
+      "A type of rhythm",
+      "A dynamic marking",
+      "A part of the trumpet"
+    ],
+    "answer": "A series of notes played in order",
+    "difficulty": "Easy"
+  },
+  {
+    "question": "What does the marking 'p' mean in music?",
+    "options": ["Play softly", "Play loudly", "Play quickly", "Play slowly"],
+    "answer": "Play softly",
+    "difficulty": "Easy"
+  },
+  {
+    "question": "What does the marking 'f' mean in music?",
+    "options": ["Play loudly", "Play softly", "Play quickly", "Play slowly"],
+    "answer": "Play loudly",
+    "difficulty": "Easy"
+  },
+  {
+    "question": "What is the purpose of the 'water key' or 'spit valve'?",
+    "options": [
+      "To release condensation",
+      "To change the key",
+      "To mute the sound",
+      "To lubricate the valves"
+    ],
+    "answer": "To release condensation",
+    "difficulty": "Easy"
+  },
+  {
+    "question": "How do you produce a sound on a brass instrument?",
+    "options": [
+      "By buzzing your lips",
+      "By blowing air",
+      "By pressing keys",
+      "By hitting it"
+    ],
+    "answer": "By buzzing your lips",
+    "difficulty": "Easy"
+  },
+  {
+    "question": "What is the name of the case that protects the trumpet?",
+    "options": ["Hard case", "Gig bag", "Flight case", "All of the above"],
+    "answer": "All of the above",
+    "difficulty": "Easy"
+  },
+  {
+    "question": "What is a 'rest' in music?",
+    "options": [
+      "A period of silence",
+      "A very long note",
+      "A very loud note",
+      "A type of scale"
+    ],
+    "answer": "A period of silence",
+    "difficulty": "Easy"
+  },
+  {
+    "question": "What does a sharp sign (#) do to a note?",
+    "options": [
+      "Raises it by a half step",
+      "Lowers it by a half step",
+      "Makes it longer",
+      "Makes it shorter"
+    ],
+    "answer": "Raises it by a half step",
+    "difficulty": "Easy"
+  },
+  {
+    "question": "What does a flat sign (b) do to a note?",
+    "options": [
+      "Lowers it by a half step",
+      "Raises it by a half step",
+      "Makes it longer",
+      "Makes it shorter"
+    ],
+    "answer": "Lowers it by a half step",
+    "difficulty": "Easy"
+  },
+  {
+    "question": "What is the name of the five lines that music is written on?",
+    "options": ["Staff", "Grid", "Ledger", "Lines"],
+    "answer": "Staff",
+    "difficulty": "Easy"
+  },
+  {
+    "question": "What is the main tuning slide used for?",
+    "options": [
+      "To adjust the overall pitch of the trumpet",
+      "To change individual notes",
+      "To release water",
+      "To hold the trumpet"
+    ],
+    "answer": "To adjust the overall pitch of the trumpet",
+    "difficulty": "Easy"
+  },
+  {
+    "question": "What is a 'lip slur'?",
+    "options": [
+      "Changing notes without using the tongue or valves",
+      "A mistake",
+      "A type of mute",
+      "A very high note"
+    ],
+    "answer": "Changing notes without using the tongue or valves",
+    "difficulty": "Easy"
+  },
+  {
+    "question": "What is a 'triplet'?",
+    "options": [
+      "Three notes played in the time of two",
+      "A three-note chord",
+      "A three-measure rest",
+      "A type of trumpet"
+    ],
+    "answer": "Three notes played in the time of two",
+    "difficulty": "Easy"
+  },
+  {
+    "question": "What does 'a cappella' mean?",
+    "options": [
+      "Without instrumental accompaniment",
+      "With a large orchestra",
+      "Very slowly",
+      "Very loudly"
+    ],
+    "answer": "Without instrumental accompaniment",
+    "difficulty": "Easy"
+  },
+  {
+    "question": "What is a 'crescendo'?",
+    "options": [
+      "Gradually getting louder",
+      "Gradually getting softer",
+      "Gradually getting faster",
+      "Gradually getting slower"
+    ],
+    "answer": "Gradually getting louder",
+    "difficulty": "Easy"
+  },
+  {
+    "question": "What is a 'decrescendo' or 'diminuendo'?",
+    "options": [
+      "Gradually getting softer",
+      "Gradually getting louder",
+      "Gradually getting faster",
+      "Gradually getting slower"
+    ],
+    "answer": "Gradually getting softer",
+    "difficulty": "Easy"
+  },
+  {
+    "question": "What is the 'pinky ring' or 'pinky hook' for?",
+    "options": [
+      "To help hold the trumpet",
+      "To change the pitch",
+      "To attach a mute",
+      "It is decorative"
+    ],
+    "answer": "To help hold the trumpet",
+    "difficulty": "Easy"
+  },
+  {
+    "question": "What is the typical written range of a B-flat trumpet?",
+    "options": [
+      "F-sharp below the staff to C above the staff",
+      "C below the staff to G above the staff",
+      "A below the staff to E above the staff",
+      "D below the staff to A above the staff"
+    ],
+    "answer": "F-sharp below the staff to C above the staff",
+    "difficulty": "Medium"
+  },
+  {
+    "question": "What is 'embouchure'?",
+    "options": [
+      "The way a player forms their lips and facial muscles to produce a sound",
+      "The brand of the trumpet",
+      "The type of mute",
+      "The player's posture"
+    ],
+    "answer": "The way a player forms their lips and facial muscles to produce a sound",
+    "difficulty": "Medium"
+  },
+  {
+    "question": "Which famous jazz trumpeter was nicknamed 'Satchmo'?",
+    "options": [
+      "Louis Armstrong",
+      "Dizzy Gillespie",
+      "Miles Davis",
+      "Clifford Brown"
+    ],
+    "answer": "Louis Armstrong",
+    "difficulty": "Medium"
+  },
+  {
+    "question": "What does the term 'intonation' mean?",
+    "options": [
+      "Playing in tune with other musicians",
+      "Playing with good tone quality",
+      "Playing with a steady rhythm",
+      "Playing with expression"
+    ],
+    "answer": "Playing in tune with other musicians",
+    "difficulty": "Medium"
+  },
+  {
+    "question": "What is the difference between a trumpet and a cornet?",
+    "options": [
+      "A cornet has a more conical bore, giving it a mellower sound",
+      "A trumpet has more valves",
+      "A cornet is larger",
+      "A trumpet is made of a different material"
+    ],
+    "answer": "A cornet has a more conical bore, giving it a mellower sound",
+    "difficulty": "Medium"
+  },
+  {
+    "question": "What is a 'growl' on the trumpet?",
+    "options": [
+      "A raspy sound created by humming or gargling while playing",
+      "A mistake in buzzing",
+      "A type of mute",
+      "A very low note"
+    ],
+    "answer": "A raspy sound created by humming or gargling while playing",
+    "difficulty": "Medium"
+  },
+  {
+    "question": "What is the purpose of the third valve slide?",
+    "options": [
+      "To lower the pitch of certain notes to improve intonation",
+      "To make the trumpet longer",
+      "To release water",
+      "To hold a mute"
+    ],
+    "answer": "To lower the pitch of certain notes to improve intonation",
+    "difficulty": "Medium"
+  },
+  {
+    "question": "What is a 'straight mute'?",
+    "options": [
+      "A cone-shaped mute that produces a tinny, metallic sound",
+      "A mute that makes the trumpet silent",
+      "A mute made of rubber",
+      "A mute that fits inside the bell"
+    ],
+    "answer": "A cone-shaped mute that produces a tinny, metallic sound",
+    "difficulty": "Medium"
+  },
+  {
+    "question": "What is a 'cup mute'?",
+    "options": [
+      "A mute that covers the bell and produces a softer, darker sound",
+      "A mute shaped like a cup",
+      "A mute used for practicing quietly",
+      "A mute that makes the trumpet sound like a trombone"
+    ],
+    "answer": "A mute that covers the bell and produces a softer, darker sound",
+    "difficulty": "Medium"
+  },
+  {
+    "question": "What is a 'Harmon mute'?",
+    "options": [
+      "A mute with a stem that can be removed to create a 'wah-wah' effect",
+      "A mute that harmonizes with the played note",
+      "A mute made by the Harmon company",
+      "A mute that makes the trumpet sound like a saxophone"
+    ],
+    "answer": "A mute with a stem that can be removed to create a 'wah-wah' effect",
+    "difficulty": "Medium"
+  },
+  {
+    "question": "What is 'double tonguing'?",
+    "options": [
+      "A technique for playing rapid notes using syllables like 'tuh-kuh'",
+      "Using two tongues to play",
+      "A mistake in tonguing",
+      "Playing two notes at once"
+    ],
+    "answer": "A technique for playing rapid notes using syllables like 'tuh-kuh'",
+    "difficulty": "Medium"
+  },
+  {
+    "question": "What is the 'Arban Method'?",
+    "options": [
+      "A famous and comprehensive book of trumpet exercises",
+      "A method for cleaning trumpets",
+      "A brand of trumpet",
+      "A type of mute"
+    ],
+    "answer": "A famous and comprehensive book of trumpet exercises",
+    "difficulty": "Medium"
+  },
+  {
+    "question": "What is a 'trill'?",
+    "options": [
+      "A rapid alternation between two notes",
+      "A long, sustained note",
+      "A short, detached note",
+      "A sliding between notes"
+    ],
+    "answer": "A rapid alternation between two notes",
+    "difficulty": "Medium"
+  },
+  {
+    "question": "What is the role of the 'water keys' or 'spit valves'?",
+    "options": [
+      "To drain condensation from the instrument",
+      "To change the key of the instrument",
+      "To adjust the pitch",
+      "To hold the slides in place"
+    ],
+    "answer": "To drain condensation from the instrument",
+    "difficulty": "Medium"
+  },
+  {
+    "question": "What is a 'lick' in jazz music?",
+    "options": [
+      "A short, melodic phrase",
+      "A mistake",
+      "A type of scale",
+      "A long solo"
+    ],
+    "answer": "A short, melodic phrase",
+    "difficulty": "Medium"
+  },
+  {
+    "question": "What does 'swing' mean in jazz?",
+    "options": [
+      "A rhythmic feel where eighth notes are played unevenly",
+      "Playing very fast",
+      "Playing very slow",
+      "Playing with a lot of vibrato"
+    ],
+    "answer": "A rhythmic feel where eighth notes are played unevenly",
+    "difficulty": "Medium"
+  },
+  {
+    "question": "What is a 'standard' in jazz?",
+    "options": [
+      "A well-known song that is commonly played by jazz musicians",
+      "A type of trumpet",
+      "A specific rhythm",
+      "A brand of mouthpiece"
+    ],
+    "answer": "A well-known song that is commonly played by jazz musicians",
+    "difficulty": "Medium"
+  },
+  {
+    "question": "What is 'articulation'?",
+    "options": [
+      "The way notes are started and separated",
+      "The volume of the notes",
+      "The pitch of the notes",
+      "The speed of the notes"
+    ],
+    "answer": "The way notes are started and separated",
+    "difficulty": "Medium"
+  },
+  {
+    "question": "What is a 'solo break' in a jazz tune?",
+    "options": [
+      "A short section where the soloist plays unaccompanied",
+      "When the soloist stops playing",
+      "When the whole band stops playing",
+      "A very fast solo"
+    ],
+    "answer": "A short section where the soloist plays unaccompanied",
+    "difficulty": "Medium"
+  },
+  {
+    "question": "What is a 'whole note'?",
+    "options": [
+      "A note that lasts for four beats in 4/4 time",
+      "A note that lasts for one beat",
+      "A note that lasts for two beats",
+      "A note that lasts for a half beat"
+    ],
+    "answer": "A note that lasts for four beats in 4/4 time",
+    "difficulty": "Medium"
+  },
+  {
+    "question": "What is a 'half note'?",
+    "options": [
+      "A note that lasts for two beats in 4/4 time",
+      "A note that lasts for one beat",
+      "A note that lasts for four beats",
+      "A note that lasts for a half beat"
+    ],
+    "answer": "A note that lasts for two beats in 4/4 time",
+    "difficulty": "Medium"
+  },
+  {
+    "question": "What is a 'quarter note'?",
+    "options": [
+      "A note that lasts for one beat in 4/4 time",
+      "A note that lasts for two beats",
+      "A note that lasts for four beats",
+      "A note that lasts for a half beat"
+    ],
+    "answer": "A note that lasts for one beat in 4/4 time",
+    "difficulty": "Medium"
+  },
+  {
+    "question": "What is an 'eighth note'?",
+    "options": [
+      "A note that lasts for half a beat in 4/4 time",
+      "A note that lasts for one beat",
+      "A note that lasts for two beats",
+      "A note that lasts for four beats"
+    ],
+    "answer": "A note that lasts for half a beat in 4/4 time",
+    "difficulty": "Medium"
+  },
+  {
+    "question": "What is 'vibrato'?",
+    "options": [
+      "A slight, regular pulsation of pitch",
+      "Playing very loudly",
+      "Playing very softly",
+      "Playing very fast"
+    ],
+    "answer": "A slight, regular pulsation of pitch",
+    "difficulty": "Medium"
+  },
+  {
+    "question": "What is the name of the famous trumpet concerto by Haydn?",
+    "options": [
+      "Trumpet Concerto in E-flat major",
+      "Trumpet Concerto in D major",
+      "Trumpet Concerto in C major",
+      "Trumpet Concerto in B-flat major"
+    ],
+    "answer": "Trumpet Concerto in E-flat major",
+    "difficulty": "Medium"
+  },
+  {
+    "question": "What is the 'harmonic series'?",
+    "options": [
+      "A series of naturally occurring pitches that can be played on a brass instrument without changing valve combinations",
+      "A type of scale",
+      "A method book",
+      "A brand of trumpet"
+    ],
+    "answer": "A series of naturally occurring pitches that can be played on a brass instrument without changing valve combinations",
+    "difficulty": "Medium"
+  },
+  {
+    "question": "What is a 'lip trill'?",
+    "options": [
+      "A trill produced by rapidly changing lip tension rather than using valves",
+      "A trill using the first and second valves",
+      "A trill using the second and third valves",
+      "A trill using the first and third valves"
+    ],
+    "answer": "A trill produced by rapidly changing lip tension rather than using valves",
+    "difficulty": "Medium"
+  },
+  {
+    "question": "What is a 'C trumpet' often used for?",
+    "options": [
+      "Orchestral playing",
+      "Jazz playing",
+      "Marching band",
+      "Beginner students"
+    ],
+    "answer": "Orchestral playing",
+    "difficulty": "Medium"
+  },
+  {
+    "question": "What is a 'piccolo trumpet' often used for?",
+    "options": [
+      "Baroque music, such as Bach concertos",
+      "Jazz solos",
+      "Rock music",
+      "Blues music"
+    ],
+    "answer": "Baroque music, such as Bach concertos",
+    "difficulty": "Medium"
+  },
+  {
+    "question": "What is a 'flugelhorn'?",
+    "options": [
+      "A brass instrument with a wider, more conical bore than a trumpet, producing a mellower tone",
+      "A type of trumpet mute",
+      "A straight trumpet",
+      "A trumpet with four valves"
+    ],
+    "answer": "A brass instrument with a wider, more conical bore than a trumpet, producing a mellower tone",
+    "difficulty": "Medium"
+  },
+  {
+    "question": "What is a 'half-valve' technique?",
+    "options": [
+      "Depressing a valve only halfway to produce a unique, breathy sound or to bend a pitch",
+      "Using only half of the valves",
+      "A mistake in pressing the valves",
+      "A technique for playing very fast"
+    ],
+    "answer": "Depressing a valve only halfway to produce a unique, breathy sound or to bend a pitch",
+    "difficulty": "Hard"
+  },
+  {
+    "question": "Who composed the 'Pictures at an Exhibition,' which features a famous trumpet solo in the opening 'Promenade'?",
+    "options": [
+      "Modest Mussorgsky",
+      "Nikolai Rimsky-Korsakov",
+      "Pyotr Ilyich Tchaikovsky",
+      "Alexander Borodin"
+    ],
+    "answer": "Modest Mussorgsky",
+    "difficulty": "Hard"
+  },
+  {
+    "question": "What is the 'Bohme Trumpet Concerto'?",
+    "options": [
+      "A romantic concerto for trumpet and orchestra by Oskar Böhme",
+      "A baroque concerto",
+      "A classical concerto",
+      "A modern concerto"
+    ],
+    "answer": "A romantic concerto for trumpet and orchestra by Oskar Böhme",
+    "difficulty": "Hard"
+  },
+  {
+    "question": "What is the 'Tomasi Trumpet Concerto'?",
+    "options": [
+      "A 20th-century concerto by Henri Tomasi known for its technical demands",
+      "A classical concerto",
+      "A romantic concerto",
+      "A baroque concerto"
+    ],
+    "answer": "A 20th-century concerto by Henri Tomasi known for its technical demands",
+    "difficulty": "Hard"
+  },
+  {
+    "question": "What is a 'rotary valve' trumpet?",
+    "options": [
+      "A trumpet that uses rotating valves, common in German and Austrian orchestras",
+      "A trumpet with no valves",
+      "A trumpet with extra valves",
+      "A trumpet made of a special material"
+    ],
+    "answer": "A trumpet that uses rotating valves, common in German and Austrian orchestras",
+    "difficulty": "Hard"
+  },
+  {
+    "question": "What is the 'Schlossberg method'?",
+    "options": [
+      "A method of trumpet playing focusing on relaxation and a natural approach, developed by Max Schlossberg",
+      "A method for cleaning trumpets",
+      "A method for repairing trumpets",
+      "A brand of trumpet"
+    ],
+    "answer": "A method of trumpet playing focusing on relaxation and a natural approach, developed by Max Schlossberg",
+    "difficulty": "Hard"
+  },
+  {
+    "question": "What is a 'shake'?",
+    "options": [
+      "A very fast, wide lip trill, often used in jazz",
+      "Shaking the trumpet while playing",
+      "A type of mute",
+      "A mistake"
+    ],
+    "answer": "A very fast, wide lip trill, often used in jazz",
+    "difficulty": "Hard"
+  },
+  {
+    "question": "Who was the trumpeter for whom the Hummel Trumpet Concerto was written?",
+    "options": [
+      "Anton Weidinger",
+      "Joseph Haydn",
+      "Wolfgang Amadeus Mozart",
+      "Ludwig van Beethoven"
+    ],
+    "answer": "Anton Weidinger",
+    "difficulty": "Hard"
+  },
+  {
+    "question": "What is a 'split tone'?",
+    "options": [
+      "An effect where two or more notes are produced at once, similar to a multiphonic",
+      "A mistake where the note cracks",
+      "A very loud note",
+      "A very soft note"
+    ],
+    "answer": "An effect where two or more notes are produced at once, similar to a multiphonic",
+    "difficulty": "Hard"
+  },
+  {
+    "question": "What is the 'rim' of a mouthpiece?",
+    "options": [
+      "The part of the mouthpiece that makes contact with the player's lips",
+      "The cup of the mouthpiece",
+      "The throat of the mouthpiece",
+      "The backbore of the mouthpiece"
+    ],
+    "answer": "The part of the mouthpiece that makes contact with the player's lips",
+    "difficulty": "Hard"
+  },
+  {
+    "question": "What is the 'cup' of a mouthpiece?",
+    "options": [
+      "The hollow part of the mouthpiece that the player buzzes into",
+      "The rim of the mouthpiece",
+      "The throat of the mouthpiece",
+      "The backbore of the mouthpiece"
+    ],
+    "answer": "The hollow part of the mouthpiece that the player buzzes into",
+    "difficulty": "Hard"
+  },
+  {
+    "question": "What is the 'throat' of a mouthpiece?",
+    "options": [
+      "The narrowest part of the mouthpiece, connecting the cup to the backbore",
+      "The rim of the mouthpiece",
+      "The cup of the mouthpiece",
+      "The backbore of the mouthpiece"
+    ],
+    "answer": "The narrowest part of the mouthpiece, connecting the cup to the backbore",
+    "difficulty": "Hard"
+  },
+  {
+    "question": "What is the 'backbore' of a mouthpiece?",
+    "options": [
+      "The part of the mouthpiece that fits into the leadpipe of the trumpet",
+      "The rim of the mouthpiece",
+      "The cup of the mouthpiece",
+      "The throat of the mouthpiece"
+    ],
+    "answer": "The part of the mouthpiece that fits into the leadpipe of the trumpet",
+    "difficulty": "Hard"
+  },
+  {
+    "question": "What is the effect of a 'deep cup' on the sound?",
+    "options": [
+      "Darker, richer tone",
+      "Brighter, more piercing tone",
+      "Softer, breathier tone",
+      "Louder, more aggressive tone"
+    ],
+    "answer": "Darker, richer tone",
+    "difficulty": "Hard"
+  },
+  {
+    "question": "What is the effect of a 'shallow cup' on the sound?",
+    "options": [
+      "Brighter, more piercing tone, and easier high notes",
+      "Darker, richer tone",
+      "Softer, breathier tone",
+      "Louder, more aggressive tone"
+    ],
+    "answer": "Brighter, more piercing tone, and easier high notes",
+    "difficulty": "Hard"
+  },
+  {
+    "question": "What is the effect of a 'wide rim' on the sound?",
+    "options": [
+      "More comfort and endurance, but less flexibility",
+      "Less comfort, but more flexibility",
+      "A brighter sound",
+      "A darker sound"
+    ],
+    "answer": "More comfort and endurance, but less flexibility",
+    "difficulty": "Hard"
+  },
+  {
+    "question": "What is the effect of a 'narrow rim' on the sound?",
+    "options": [
+      "More flexibility, but less comfort and endurance",
+      "Less flexibility, but more comfort",
+      "A brighter sound",
+      "A darker sound"
+    ],
+    "answer": "More flexibility, but less comfort and endurance",
+    "difficulty": "Hard"
+  },
+  {
+    "question": "What is the 'aperture' in trumpet playing?",
+    "options": [
+      "The opening between the player's lips through which the air flows",
+      "The opening of the bell",
+      "The opening of the mouthpiece",
+      "The opening of the valves"
+    ],
+    "answer": "The opening between the player's lips through which the air flows",
+    "difficulty": "Hard"
+  },
+  {
+    "question": "What is the 'pivot' system in trumpet playing?",
+    "options": [
+      "A system of embouchure movement where the player pivots the horn up or down to change registers",
+      "A system for cleaning the trumpet",
+      "A system for repairing the trumpet",
+      "A brand of trumpet"
+    ],
+    "answer": "A system of embouchure movement where the player pivots the horn up or down to change registers",
+    "difficulty": "Hard"
+  },
+  {
+    "question": "What is the 'Stevens-Costello' embouchure method?",
+    "options": [
+      "A method that advocates for a 'no-pressure' approach and specific lip placement",
+      "A method that uses a lot of pressure",
+      "A method for circular breathing",
+      "A method for playing very high notes"
+    ],
+    "answer": "A method that advocates for a 'no-pressure' approach and specific lip placement",
+    "difficulty": "Hard"
+  },
+  {
+    "question": "What is a 'natural trumpet'?",
+    "options": [
+      "A trumpet with no valves, which can only play notes of the harmonic series",
+      "A trumpet made of wood",
+      "A trumpet pitched in C",
+      "A trumpet with a very soft sound"
+    ],
+    "answer": "A trumpet with no valves, which can only play notes of theharmonic series",
+    "difficulty": "Hard"
+  },
+  {
+    "question": "What is a 'slide trumpet'?",
+    "options": [
+      "A trumpet with a slide like a trombone instead of valves",
+      "A trumpet with extra slides",
+      "A trumpet that is easy to play",
+      "A toy trumpet"
+    ],
+    "answer": "A trumpet with a slide like a trombone instead of valves",
+    "difficulty": "Hard"
+  },
+  {
+    "question": "What is a 'keyed trumpet'?",
+    "options": [
+      "An early type of trumpet with keys like a woodwind instrument, for which the Haydn and Hummel concertos were written",
+      "A trumpet with extra keys",
+      "A trumpet that is easy to play",
+      "A toy trumpet"
+    ],
+    "answer": "An early type of trumpet with keys like a woodwind instrument, for which the Haydn and Hummel concertos were written",
+    "difficulty": "Hard"
+  },
+  {
+    "question": "What is the 'bell tuning' method?",
+    "options": [
+      "A method of trumpet construction where the bell is movable to adjust the tuning",
+      "A method for tuning the bell",
+      "A method for cleaning the bell",
+      "A brand of trumpet"
+    ],
+    "answer": "A method of trumpet construction where the bell is movable to adjust the tuning",
+    "difficulty": "Hard"
+  },
+  {
+    "question": "What is a 'reverse leadpipe'?",
+    "options": [
+      "A leadpipe design where the tuning slide fits over the leadpipe, rather than inside it, for a smoother airflow",
+      "A leadpipe that is backwards",
+      "A leadpipe that is very long",
+      "A leadpipe that is very short"
+    ],
+    "answer": "A leadpipe design where the tuning slide fits over the leadpipe, rather than inside it, for a smoother airflow",
+    "difficulty": "Hard"
+  },
+  {
+    "question": "What is a 'valve alignment'?",
+    "options": [
+      "An adjustment to ensure the ports of the valves line up correctly with the tubing for optimal airflow",
+      "Aligning the valves in a row",
+      "Cleaning the valves",
+      "Oiling the valves"
+    ],
+    "answer": "An adjustment to ensure the ports of the valves line up correctly with the tubing for optimal airflow",
+    "difficulty": "Hard"
+  },
+  {
+    "question": "What is a 'bore size'?",
+    "options": [
+      "The diameter of the tubing of the trumpet",
+      "The size of the bell",
+      "The size of the mouthpiece",
+      "The size of the case"
+    ],
+    "answer": "The diameter of the tubing of the trumpet",
+    "difficulty": "Hard"
+  },
+  {
+    "question": "What is a 'leadpipe venturi'?",
+    "options": [
+      "The point of narrowest constriction in the leadpipe, which affects resistance and response",
+      "A vent in the leadpipe",
+      "A brand of leadpipe",
+      "A tool for cleaning the leadpipe"
+    ],
+    "answer": "The point of narrowest constriction in the leadpipe, which affects resistance and response",
+    "difficulty": "Hard"
+  },
+  {
+    "question": "What is the 'Clarke Technical Studies' book?",
+    "options": [
+      "A famous book of trumpet exercises focusing on finger dexterity and flexibility, written by Herbert L. Clarke",
+      "A book on trumpet history",
+      "A book of trumpet solos",
+      "A book on trumpet repair"
+    ],
+    "answer": "A famous book of trumpet exercises focusing on finger dexterity and flexibility, written by Herbert L. Clarke",
+    "difficulty": "Hard"
+  },
+  {
+    "question": "What is the name of the 17th-century treatise by Girolamo Fantini that is one of the earliest and most important sources for trumpet pedagogy?",
+    "options": [
+      "'Modo per Imparare a sonare di Tromba'",
+      "'Toccata for Trumpet'",
+      "'The Compleat Trumpeter'",
+      "'Method for the Cornet'"
+    ],
+    "answer": "'Modo per Imparare a sonare di Tromba'",
+    "difficulty": "Expert"
+  },
+  {
+    "question": "In the context of historical performance, what is a 'natural trumpet'?",
+    "options": [
+      "A valveless trumpet that can only play notes of the harmonic series",
+      "A trumpet made from natural materials like wood",
+      "A trumpet pitched in the key of C",
+      "The earliest form of the cornet"
+    ],
+    "answer": "A valveless trumpet that can only play notes of the harmonic series",
+    "difficulty": "Expert"
+  },
+  {
+    "question": "The 'Clarke Technical Studies' is a cornerstone of trumpet practice. What was Herbert L. Clarke's primary instrument?",
+    "options": ["Cornet", "Trumpet", "Flugelhorn", "Trombone"],
+    "answer": "Cornet",
+    "difficulty": "Expert"
+  },
+  {
+    "question": "What is the 'doodle tonguing' technique used for in jazz trumpet playing?",
+    "options": [
+      "Creating a very smooth, legato articulation similar to a valve trombone",
+      "A rapid double-tonguing effect",
+      "A type of growl",
+      "Playing in the extreme upper register"
+    ],
+    "answer": "Creating a very smooth, legato articulation similar to a valve trombone",
+    "difficulty": "Expert"
+  },
+  {
+    "question": "Which composer's 'Symphony No. 5' features a famously demanding and exposed trumpet solo in its opening movement?",
+    "options": [
+      "Gustav Mahler",
+      "Dmitri Shostakovich",
+      "Richard Strauss",
+      "Anton Bruckner"
+    ],
+    "answer": "Gustav Mahler",
+    "difficulty": "Expert"
+  },
+  {
+    "question": "What is the primary difference between the bore of a trumpet and a cornet?",
+    "options": [
+      "The trumpet has a cylindrical bore for most of its length, while the cornet has a conical bore",
+      "The cornet's bore is wider",
+      "The trumpet's bore is made of a different material",
+      "There is no difference"
+    ],
+    "answer": "The trumpet has a cylindrical bore for most of its length, while the cornet has a conical bore",
+    "difficulty": "Expert"
+  },
+  {
+    "question": "Who was the legendary trumpeter in the Count Basie Orchestra known for his minimalist style and use of space?",
+    "options": [
+      "Buck Clayton",
+      "Harry 'Sweets' Edison",
+      "Roy Eldridge",
+      "Cootie Williams"
+    ],
+    "answer": "Buck Clayton",
+    "difficulty": "Expert"
+  },
+  {
+    "question": "The 'Arban's Complete Conservatory Method' is arguably the most famous method book for trumpet. What was Jean-Baptiste Arban's nationality?",
+    "options": ["French", "German", "Italian", "Belgian"],
+    "answer": "French",
+    "difficulty": "Expert"
+  },
+  {
+    "question": "What is a 'piccolo trumpet'?",
+    "options": [
+      "A smaller trumpet, typically pitched in B-flat/A, used for high-register playing",
+      "A trumpet with a built-in mute",
+      "A toy trumpet",
+      "A trumpet made of plastic"
+    ],
+    "answer": "A smaller trumpet, typically pitched in B-flat/A, used for high-register playing",
+    "difficulty": "Expert"
+  },
+  {
+    "question": "Which part of the trumpet mouthpiece has the most significant impact on its tone and response?",
+    "options": [
+      "The cup, rim, and backbore",
+      "The material it is made from",
+      "The brand name",
+      "The weight"
+    ],
+    "answer": "The cup, rim, and backbore",
+    "difficulty": "Expert"
+  },
+  {
+    "question": "What is 'pedal tone' on a trumpet?",
+    "options": [
+      "The fundamental pitch of the harmonic series for a given valve combination",
+      "A note played with a foot pedal",
+      "A very quiet note",
+      "A note played with a special mute"
+    ],
+    "answer": "The fundamental pitch of the harmonic series for a given valve combination",
+    "difficulty": "Expert"
+  },
+  {
+    "question": "In a standard symphony orchestra, how many trumpets are typically in the brass section?",
+    "options": ["Two to four", "One", "Five or six", "It varies greatly"],
+    "answer": "Two to four",
+    "difficulty": "Expert"
+  },
+  {
+    "question": "What is the purpose of the 'third valve slide ring' on a trumpet?",
+    "options": [
+      "To adjust the pitch of notes played with the third valve, especially low D and C-sharp",
+      "To hold the trumpet",
+      "To attach a lyre",
+      "For decoration"
+    ],
+    "answer": "To adjust the pitch of notes played with the third valve, especially low D and C-sharp",
+    "difficulty": "Expert"
+  },
+  {
+    "question": "Which jazz trumpeter was a key figure in the development of bebop and was known for his bent-bell trumpet?",
+    "options": [
+      "Dizzy Gillespie",
+      "Miles Davis",
+      "Louis Armstrong",
+      "Clifford Brown"
+    ],
+    "answer": "Dizzy Gillespie",
+    "difficulty": "Expert"
+  },
+  {
+    "question": "What is the 'backbore' of a trumpet mouthpiece?",
+    "options": [
+      "The tapered section of the mouthpiece that fits into the leadpipe",
+      "The cup of the mouthpiece",
+      "The rim of the mouthpiece",
+      "The shank of the mouthpiece"
+    ],
+    "answer": "The tapered section of the mouthpiece that fits into the leadpipe",
+    "difficulty": "Expert"
+  },
+  {
+    "question": "The 'Haydn Trumpet Concerto' was originally written for which type of trumpet?",
+    "options": [
+      "Keyed trumpet",
+      "Natural trumpet",
+      "Slide trumpet",
+      "Valved trumpet"
+    ],
+    "answer": "Keyed trumpet",
+    "difficulty": "Expert"
+  },
+  {
+    "question": "What is the primary material used for the valves in a professional trumpet?",
+    "options": [
+      "Monel (a nickel-copper alloy)",
+      "Brass",
+      "Stainless steel",
+      "Titanium"
+    ],
+    "answer": "Monel (a nickel-copper alloy)",
+    "difficulty": "Expert"
+  },
+  {
+    "question": "Which composer wrote the 'Post-horn' solo in his Symphony No. 3?",
+    "options": [
+      "Gustav Mahler",
+      "Richard Wagner",
+      "Johannes Brahms",
+      "Anton Bruckner"
+    ],
+    "answer": "Gustav Mahler",
+    "difficulty": "Expert"
+  },
+  {
+    "question": "What is the function of the 'first valve slide saddle' or 'thumb trigger'?",
+    "options": [
+      "To adjust the pitch of notes played with the first valve",
+      "To help hold the trumpet",
+      "To mute the sound",
+      "To change the key of the instrument"
+    ],
+    "answer": "To adjust the pitch of notes played with the first valve",
+    "difficulty": "Expert"
+  },
+  {
+    "question": "What is 'triple tonguing'?",
+    "options": [
+      "A technique for articulating rapid triplets, often using syllables like 'tuh-tuh-kuh'",
+      "Playing three notes at once",
+      "Using three tongues",
+      "A type of mute"
+    ],
+    "answer": "A technique for articulating rapid triplets, often using syllables like 'tuh-tuh-kuh'",
+    "difficulty": "Expert"
+  },
+  {
+    "question": "Which contemporary trumpeter is known for his work with the Jazz at Lincoln Center Orchestra and his focus on classical and traditional jazz?",
+    "options": [
+      "Wynton Marsalis",
+      "Roy Hargrove",
+      "Terence Blanchard",
+      "Nicholas Payton"
+    ],
+    "answer": "Wynton Marsalis",
+    "difficulty": "Expert"
+  },
+  {
+    "question": "What is a 'flugelhorn'?",
+    "options": [
+      "A valved brass instrument with a wider, more conical bore than a trumpet, producing a mellower tone",
+      "A type of trumpet mute",
+      "A straight-bodied trumpet",
+      "A trumpet with four valves"
+    ],
+    "answer": "A valved brass instrument with a wider, more conical bore than a trumpet, producing a mellower tone",
+    "difficulty": "Expert"
+  },
+  {
+    "question": "The trumpet is a transposing instrument. If a B-flat trumpet plays a written C, what note sounds at concert pitch?",
+    "options": ["B-flat", "C", "A", "E-flat"],
+    "answer": "B-flat",
+    "difficulty": "Expert"
+  },
+  {
+    "question": "What is a 'valve guard' on a trumpet?",
+    "options": [
+      "A leather or fabric cover to protect the valve casing from hand perspiration",
+      "A tool for cleaning valves",
+      "A part of the valve itself",
+      "A mute"
+    ],
+    "answer": "A leather or fabric cover to protect the valve casing from hand perspiration",
+    "difficulty": "Expert"
+  },
+  {
+    "question": "Which of these is a type of trumpet not commonly found in a modern orchestra?",
+    "options": [
+      "Bass trumpet in E-flat",
+      "C trumpet",
+      "D/E-flat trumpet",
+      "B-flat trumpet"
+    ],
+    "answer": "Bass trumpet in E-flat",
+    "difficulty": "Expert"
+  },
+  {
+    "question": "What is the 'throat' of a trumpet mouthpiece?",
+    "options": [
+      "The narrowest part of the mouthpiece, between the cup and the backbore",
+      "The rim",
+      "The cup",
+      "The shank"
+    ],
+    "answer": "The narrowest part of the mouthpiece, between the cup and the backbore",
+    "difficulty": "Expert"
+  },
+  {
+    "question": "Who is considered the 'father of the modern trumpet' for his innovations in the early 20th century?",
+    "options": [
+      "Vincent Bach",
+      "Elden Benge",
+      "Renold Schilke",
+      "Dominique Calicchio"
+    ],
+    "answer": "Vincent Bach",
+    "difficulty": "Expert"
+  },
+  {
+    "question": "What is the 'leadpipe' of a trumpet?",
+    "options": [
+      "The tube that leads from the mouthpiece to the main tuning slide",
+      "The bell",
+      "The third valve slide",
+      "The first valve slide"
+    ],
+    "answer": "The tube that leads from the mouthpiece to the main tuning slide",
+    "difficulty": "Expert"
+  },
+  {
+    "question": "In which of his works did Bach write a famously difficult high-register part for the natural trumpet?",
+    "options": [
+      "Brandenburg Concerto No. 2",
+      "Mass in B Minor",
+      "Magnificat",
+      "All of the above"
+    ],
+    "answer": "All of the above",
+    "difficulty": "Expert"
+  },
+  {
+    "question": "What is the primary difference between a 'standard' trumpet and a 'C' trumpet?",
+    "options": [
+      "The C trumpet is pitched a whole step higher and does not require transposition in many orchestral settings",
+      "The C trumpet has a darker tone",
+      "The C trumpet is larger",
+      "The C trumpet has four valves"
+    ],
+    "answer": "The C trumpet is pitched a whole step higher and does not require transposition in many orchestral settings",
+    "difficulty": "Expert"
+  }
+]

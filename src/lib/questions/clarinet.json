@@ -1,0 +1,1127 @@
+[
+  {
+    "question": "What is the main body of the clarinet made of?",
+    "options": ["Wood", "Brass", "Plastic", "Silver"],
+    "answer": "Wood",
+    "difficulty": "Easy"
+  },
+  {
+    "question": "How many reeds does a clarinet use?",
+    "options": ["One", "Two", "Three", "Four"],
+    "answer": "One",
+    "difficulty": "Easy"
+  },
+  {
+    "question": "Which part of the clarinet do you blow into?",
+    "options": ["Mouthpiece", "Bell", "Barrel", "Keys"],
+    "answer": "Mouthpiece",
+    "difficulty": "Easy"
+  },
+  {
+    "question": "What holds the reed onto the mouthpiece?",
+    "options": ["Ligature", "Screw", "Tape", "Glue"],
+    "answer": "Ligature",
+    "difficulty": "Easy"
+  },
+  {
+    "question": "The clarinet is a member of which instrument family?",
+    "options": ["Woodwind", "Brass", "String", "Percussion"],
+    "answer": "Woodwind",
+    "difficulty": "Easy"
+  },
+  {
+    "question": "What do you press to change notes on a clarinet?",
+    "options": ["Keys", "Valves", "Strings", "Pedals"],
+    "answer": "Keys",
+    "difficulty": "Easy"
+  },
+  {
+    "question": "What is the flared end of the clarinet called?",
+    "options": ["Bell", "Horn", "Funnel", "Cone"],
+    "answer": "Bell",
+    "difficulty": "Easy"
+  },
+  {
+    "question": "True or False: The clarinet is a transposing instrument.",
+    "options": ["True", "False"],
+    "answer": "True",
+    "difficulty": "Easy"
+  },
+  {
+    "question": "What is a common brand of clarinet reeds?",
+    "options": ["Vandoren", "Rico", "Gonzalez", "Legere"],
+    "answer": "Vandoren",
+    "difficulty": "Easy"
+  },
+  {
+    "question": "What is the case for?",
+    "options": [
+      "Protecting the instrument",
+      "Storing music",
+      "A music stand",
+      "A seat"
+    ],
+    "answer": "Protecting the instrument",
+    "difficulty": "Easy"
+  },
+  {
+    "question": "What should you do with your reed after playing?",
+    "options": [
+      "Wipe it dry",
+      "Leave it on the mouthpiece",
+      "Soak it in water",
+      "Throw it away"
+    ],
+    "answer": "Wipe it dry",
+    "difficulty": "Easy"
+  },
+  {
+    "question": "What connects the mouthpiece to the upper joint?",
+    "options": ["Barrel", "Neck", "Cork", "Screw"],
+    "answer": "Barrel",
+    "difficulty": "Easy"
+  },
+  {
+    "question": "How many main pieces does a standard clarinet have?",
+    "options": ["Five", "Three", "Six", "Four"],
+    "answer": "Five",
+    "difficulty": "Easy"
+  },
+  {
+    "question": "What is the name of the stick used to clean the inside of the clarinet?",
+    "options": ["Swab", "Brush", "Rod", "Cloth"],
+    "answer": "Swab",
+    "difficulty": "Easy"
+  },
+  {
+    "question": "What is the most common type of clarinet?",
+    "options": [
+      "B-flat clarinet",
+      "E-flat clarinet",
+      "Bass clarinet",
+      "A clarinet"
+    ],
+    "answer": "B-flat clarinet",
+    "difficulty": "Easy"
+  },
+  {
+    "question": "To play a long tone, you need a steady ______.",
+    "options": ["Airstream", "Finger movement", "Foot tap", "Head nod"],
+    "answer": "Airstream",
+    "difficulty": "Easy"
+  },
+  {
+    "question": "What is the name for the musician who plays the clarinet?",
+    "options": [
+      "Clarinetist",
+      "Clarineter",
+      "Clarinet-player",
+      "Clarinet-person"
+    ],
+    "answer": "Clarinetist",
+    "difficulty": "Easy"
+  },
+  {
+    "question": "What does a metronome help with?",
+    "options": [
+      "Keeping a steady tempo",
+      "Playing louder",
+      "Playing higher",
+      "Tuning"
+    ],
+    "answer": "Keeping a steady tempo",
+    "difficulty": "Easy"
+  },
+  {
+    "question": "What is the bottom part of the clarinet called?",
+    "options": ["Lower joint", "Foot joint", "Base joint", "Bottom pipe"],
+    "answer": "Lower joint",
+    "difficulty": "Easy"
+  },
+  {
+    "question": "What material is cork grease applied to?",
+    "options": ["Corks on the joints", "The reed", "The keys", "The bell"],
+    "answer": "Corks on the joints",
+    "difficulty": "Easy"
+  },
+  {
+    "question": "What does the 'B' in B-flat clarinet stand for?",
+    "options": [
+      "The key of the instrument",
+      "The brand",
+      "The model",
+      "The size"
+    ],
+    "answer": "The key of the instrument",
+    "difficulty": "Easy"
+  },
+  {
+    "question": "What is a scale?",
+    "options": [
+      "A series of notes in order",
+      "A type of song",
+      "A cleaning tool",
+      "A part of the clarinet"
+    ],
+    "answer": "A series of notes in order",
+    "difficulty": "Easy"
+  },
+  {
+    "question": "What does the dynamic marking 'p' mean?",
+    "options": ["Play softly", "Play loudly", "Play fast", "Play slow"],
+    "answer": "Play softly",
+    "difficulty": "Easy"
+  },
+  {
+    "question": "What does the dynamic marking 'f' mean?",
+    "options": ["Play loudly", "Play softly", "Play fast", "Play slow"],
+    "answer": "Play loudly",
+    "difficulty": "Easy"
+  },
+  {
+    "question": "What is the top part of the clarinet called?",
+    "options": ["Upper joint", "Head joint", "Top pipe", "Hand joint"],
+    "answer": "Upper joint",
+    "difficulty": "Easy"
+  },
+  {
+    "question": "Before playing, you should ______ the reed.",
+    "options": ["Moisten", "Dry", "Sand", "Cut"],
+    "answer": "Moisten",
+    "difficulty": "Easy"
+  },
+  {
+    "question": "A group of four musicians is called a ______.",
+    "options": ["Quartet", "Trio", "Duet", "Quintet"],
+    "answer": "Quartet",
+    "difficulty": "Easy"
+  },
+  {
+    "question": "What does a sharp sign (#) do to a note?",
+    "options": [
+      "Raises it by a half step",
+      "Lowers it by a half step",
+      "Makes it longer",
+      "Makes it shorter"
+    ],
+    "answer": "Raises it by a half step",
+    "difficulty": "Easy"
+  },
+  {
+    "question": "What does a flat sign (b) do to a note?",
+    "options": [
+      "Lowers it by a half step",
+      "Raises it by a half step",
+      "Makes it longer",
+      "Makes it shorter"
+    ],
+    "answer": "Lowers it by a half step",
+    "difficulty": "Easy"
+  },
+  {
+    "question": "What is the name of the five lines music is written on?",
+    "options": ["Staff", "Ledger", "Grid", "Graph"],
+    "answer": "Staff",
+    "difficulty": "Easy"
+  },
+  {
+    "question": "What is the written range of a standard Boehm system clarinet?",
+    "options": ["E3 to C7", "G3 to A6", "F3 to G7", "C3 to D7"],
+    "answer": "E3 to C7",
+    "difficulty": "Medium"
+  },
+  {
+    "question": "Crossing the 'break' on the clarinet refers to moving between which two registers?",
+    "options": [
+      "Chalumeau and Clarion",
+      "Clarion and Altissimo",
+      "Chalumeau and Altissimo",
+      "Lower and Upper"
+    ],
+    "answer": "Chalumeau and Clarion",
+    "difficulty": "Medium"
+  },
+  {
+    "question": "What is the term for the slight tapering of the clarinet's bore?",
+    "options": ["Polycylindrical", "Conical", "Reverse-conical", "Stepped"],
+    "answer": "Polycylindrical",
+    "difficulty": "Medium"
+  },
+  {
+    "question": "Which famous composer's Clarinet Concerto in A major, K. 622 is a cornerstone of the repertoire?",
+    "options": ["Mozart", "Beethoven", "Brahms", "Weber"],
+    "answer": "Mozart",
+    "difficulty": "Medium"
+  },
+  {
+    "question": "What is the purpose of the small hole on the underside of the mouthpiece?",
+    "options": [
+      "It has no purpose, it's a manufacturing artifact",
+      "To allow spit to drain",
+      "To create a vacuum",
+      "To stabilize the pitch"
+    ],
+    "answer": "It has no purpose, it's a manufacturing artifact",
+    "difficulty": "Medium"
+  },
+  {
+    "question": "What is the difference between a B-flat and an A clarinet?",
+    "options": [
+      "The A clarinet is slightly longer and plays lower",
+      "The B-flat is longer",
+      "They are identical in size",
+      "The A clarinet has more keys"
+    ],
+    "answer": "The A clarinet is slightly longer and plays lower",
+    "difficulty": "Medium"
+  },
+  {
+    "question": "What is 'embouchure'?",
+    "options": [
+      "The way a player shapes their mouth around the mouthpiece",
+      "The type of ligature used",
+      "The brand of the clarinet",
+      "The player's posture"
+    ],
+    "answer": "The way a player shapes their mouth around the mouthpiece",
+    "difficulty": "Medium"
+  },
+  {
+    "question": "Who is considered the 'father' of the modern clarinet, adding the register key around 1700?",
+    "options": [
+      "Johann Christoph Denner",
+      "Adolphe Sax",
+      "Theobald Boehm",
+      "Iwan Müller"
+    ],
+    "answer": "Johann Christoph Denner",
+    "difficulty": "Medium"
+  },
+  {
+    "question": "What does 'tonguing' refer to in clarinet playing?",
+    "options": [
+      "Articulating notes by starting them with the tongue",
+      "Cleaning the mouthpiece",
+      "A type of vibrato",
+      "A special effect"
+    ],
+    "answer": "Articulating notes by starting them with the tongue",
+    "difficulty": "Medium"
+  },
+  {
+    "question": "What is the name of the lowest register on the clarinet?",
+    "options": ["Chalumeau", "Clarion", "Altissimo", "Sub-tone"],
+    "answer": "Chalumeau",
+    "difficulty": "Medium"
+  },
+  {
+    "question": "Which of these is a famous piece of klezmer music featuring the clarinet?",
+    "options": [
+      "The Klezmatics' 'Funky Dovid'",
+      "Gershwin's 'Rhapsody in Blue'",
+      "Benny Goodman's 'Sing, Sing, Sing'",
+      "Artie Shaw's 'Begin the Beguine'"
+    ],
+    "answer": "The Klezmatics' 'Funky Dovid'",
+    "difficulty": "Medium"
+  },
+  {
+    "question": "What is the standard strength of a beginner's reed?",
+    "options": ["1.5 to 2.5", "3.0 to 3.5", "4.0 to 5.0", "1.0"],
+    "answer": "1.5 to 2.5",
+    "difficulty": "Medium"
+  },
+  {
+    "question": "What is the opening glissando in Gershwin's 'Rhapsody in Blue' famously played on?",
+    "options": ["Clarinet", "Saxophone", "Trumpet", "Flute"],
+    "answer": "Clarinet",
+    "difficulty": "Medium"
+  },
+  {
+    "question": "What does the term 'intonation' refer to?",
+    "options": [
+      "The accuracy of pitch",
+      "The quality of the sound",
+      "The volume of the sound",
+      "The speed of the music"
+    ],
+    "answer": "The accuracy of pitch",
+    "difficulty": "Medium"
+  },
+  {
+    "question": "What is the purpose of a 'reed knife'?",
+    "options": [
+      "To adjust and customize reeds",
+      "To cut the reed in half",
+      "To clean the reed",
+      "To scrape the mouthpiece"
+    ],
+    "answer": "To adjust and customize reeds",
+    "difficulty": "Medium"
+  },
+  {
+    "question": "Which of these is NOT a part of the clarinet?",
+    "options": ["The bocal", "The barrel", "The bell", "The ligature"],
+    "answer": "The bocal",
+    "difficulty": "Medium"
+  },
+  {
+    "question": "What is the name for the technique of playing a note softer than piano?",
+    "options": ["Subtone", "Ghost note", "Whisper tone", "Muted tone"],
+    "answer": "Subtone",
+    "difficulty": "Medium"
+  },
+  {
+    "question": "The 'throat tones' on a clarinet (G#, A, Bb) are known for being what?",
+    "options": [
+      "Acoustically compromised and often stuffy",
+      "The clearest notes",
+      "The loudest notes",
+      "The easiest to play"
+    ],
+    "answer": "Acoustically compromised and often stuffy",
+    "difficulty": "Medium"
+  },
+  {
+    "question": "What is the primary function of the barrel?",
+    "options": [
+      "Fine-tuning the instrument's pitch",
+      "Amplifying the sound",
+      "Holding the mouthpiece",
+      "Connecting the joints"
+    ],
+    "answer": "Fine-tuning the instrument's pitch",
+    "difficulty": "Medium"
+  },
+  {
+    "question": "Which composer wrote two famous sonatas for clarinet and piano, Op. 120?",
+    "options": [
+      "Johannes Brahms",
+      "Robert Schumann",
+      "Felix Mendelssohn",
+      "Franz Schubert"
+    ],
+    "answer": "Johannes Brahms",
+    "difficulty": "Medium"
+  },
+  {
+    "question": "What is a 'ligature'?",
+    "options": [
+      "A device that holds the reed onto the mouthpiece",
+      "A type of articulation",
+      "A musical ornament",
+      "A cleaning tool"
+    ],
+    "answer": "A device that holds the reed onto the mouthpiece",
+    "difficulty": "Medium"
+  },
+  {
+    "question": "What is the difference between staccato and legato?",
+    "options": [
+      "Staccato is short and detached, legato is smooth and connected",
+      "Staccato is loud, legato is soft",
+      "Staccato is fast, legato is slow",
+      "Staccato is accented, legato is not"
+    ],
+    "answer": "Staccato is short and detached, legato is smooth and connected",
+    "difficulty": "Medium"
+  },
+  {
+    "question": "What does 'a tempo' mean?",
+    "options": [
+      "Return to the original speed",
+      "Slow down",
+      "Speed up",
+      "Hold the note"
+    ],
+    "answer": "Return to the original speed",
+    "difficulty": "Medium"
+  },
+  {
+    "question": "What is the name of the upper register of the clarinet?",
+    "options": ["Clarion", "Chalumeau", "Altissimo", "Soprano"],
+    "answer": "Clarion",
+    "difficulty": "Medium"
+  },
+  {
+    "question": "What is the purpose of the thumb rest?",
+    "options": [
+      "To support the weight of the clarinet with the right thumb",
+      "To rest the left thumb",
+      "It is purely decorative",
+      "To operate a key"
+    ],
+    "answer": "To support the weight of the clarinet with the right thumb",
+    "difficulty": "Medium"
+  },
+  {
+    "question": "Which wood is most commonly used for making clarinets?",
+    "options": ["Grenadilla", "Maple", "Rosewood", "Ebony"],
+    "answer": "Grenadilla",
+    "difficulty": "Medium"
+  },
+  {
+    "question": "What is a 'trill'?",
+    "options": [
+      "A rapid alternation between two notes",
+      "A very long note",
+      "A very short note",
+      "A sliding sound"
+    ],
+    "answer": "A rapid alternation between two notes",
+    "difficulty": "Medium"
+  },
+  {
+    "question": "What is the highest register on the clarinet called?",
+    "options": ["Altissimo", "Clarion", "Chalumeau", "Stratosphere"],
+    "answer": "Altissimo",
+    "difficulty": "Medium"
+  },
+  {
+    "question": "In an orchestra, where do the clarinets typically sit?",
+    "options": [
+      "In the woodwind section, behind the flutes",
+      "In the brass section",
+      "In the string section",
+      "In the percussion section"
+    ],
+    "answer": "In the woodwind section, behind the flutes",
+    "difficulty": "Medium"
+  },
+  {
+    "question": "What is the name of the famous clarinet solo in the second movement of Beethoven's Symphony No. 6 'Pastoral'?",
+    "options": [
+      "Scene by the Brook",
+      "Merry Gathering of Country Folk",
+      "Thunderstorm",
+      "Shepherd's Song"
+    ],
+    "answer": "Scene by the Brook",
+    "difficulty": "Medium"
+  },
+  {
+    "question": "The Albert system clarinet, a precursor to the Oehler system, is most commonly associated with which genre of music?",
+    "options": ["Dixieland and Klezmer", "Classical", "Romantic", "Baroque"],
+    "answer": "Dixieland and Klezmer",
+    "difficulty": "Hard"
+  },
+  {
+    "question": "What is the 'voicing' of a note?",
+    "options": [
+      "The combination of embouchure, air support, and oral cavity shape to produce a desired tone",
+      "The volume of the note",
+      "The written pitch of the note",
+      "The fingering of the note"
+    ],
+    "answer": "The combination of embouchure, air support, and oral cavity shape to produce a desired tone",
+    "difficulty": "Hard"
+  },
+  {
+    "question": "What is a 'slap tongue'?",
+    "options": [
+      "A percussive effect created by the tongue striking and releasing the reed",
+      "A mistake in articulation",
+      "A type of fast tonguing",
+      "A way to play multiple notes at once"
+    ],
+    "answer": "A percussive effect created by the tongue striking and releasing the reed",
+    "difficulty": "Hard"
+  },
+  {
+    "question": "Which 20th-century French composer wrote a Sonatine for clarinet and piano that is a staple of the modern repertoire?",
+    "options": [
+      "Arthur Honegger",
+      "Darius Milhaud",
+      "Francis Poulenc",
+      "Germaine Tailleferre"
+    ],
+    "answer": "Arthur Honegger",
+    "difficulty": "Hard"
+  },
+  {
+    "question": "What is the purpose of a 'low E-flat key' on some professional clarinets?",
+    "options": [
+      "To improve the pitch and tone of the low E and B",
+      "To extend the range down",
+      "To provide an alternate fingering",
+      "To make trills easier"
+    ],
+    "answer": "To improve the pitch and tone of the low E and B",
+    "difficulty": "Hard"
+  },
+  {
+    "question": "What is a 'flutter tongue'?",
+    "options": [
+      "A technique involving rolling the 'r' sound with the tongue to create a rapid, fluttering sound",
+      "A type of vibrato",
+      "A mistake in tonguing",
+      "A way to play quietly"
+    ],
+    "answer": "A technique involving rolling the 'r' sound with the tongue to create a rapid, fluttering sound",
+    "difficulty": "Hard"
+  },
+  {
+    "question": "Who composed the 'Three Pieces for Solo Clarinet,' a landmark work of the unaccompanied repertoire?",
+    "options": [
+      "Igor Stravinsky",
+      "Aaron Copland",
+      "Leonard Bernstein",
+      "Elliott Carter"
+    ],
+    "answer": "Igor Stravinsky",
+    "difficulty": "Hard"
+  },
+  {
+    "question": "What is the difference between a French and a German-style clarinet mouthpiece?",
+    "options": [
+      "The facing, bore, and exterior shape are different",
+      "The material is different",
+      "The German style uses two reeds",
+      "The French style has no ligature"
+    ],
+    "answer": "The facing, bore, and exterior shape are different",
+    "difficulty": "Hard"
+  },
+  {
+    "question": "What is a 'multiphonic'?",
+    "options": [
+      "Playing more than one note at the same time on a monophonic instrument",
+      "A very loud note",
+      "A note played with a special fingering",
+      "A type of musical scale"
+    ],
+    "answer": "Playing more than one note at the same time on a monophonic instrument",
+    "difficulty": "Hard"
+  },
+  {
+    "question": "The Nielsen Clarinet Concerto, Op. 57, is known for its dramatic conflict between the soloist and which section of the orchestra?",
+    "options": [
+      "The snare drum",
+      "The timpani",
+      "The French horns",
+      "The trombones"
+    ],
+    "answer": "The snare drum",
+    "difficulty": "Hard"
+  },
+  {
+    "question": "What is the 'chalumeau'?",
+    "options": [
+      "The earliest form of the clarinet and the name of its lowest register",
+      "A type of reed",
+      "A French composer",
+      "A clarinet manufacturer"
+    ],
+    "answer": "The earliest form of the clarinet and the name of its lowest register",
+    "difficulty": "Hard"
+  },
+  {
+    "question": "What is the purpose of the 'articulated G#' key system?",
+    "options": [
+      "To allow the G# key to be closed by any of the left-hand fingers",
+      "To make the G# key easier to reach",
+      "To change the pitch of G#",
+      "To connect the G# to the A key"
+    ],
+    "answer": "To allow the G# key to be closed by any of the left-hand fingers",
+    "difficulty": "Hard"
+  },
+  {
+    "question": "Which jazz clarinetist was nicknamed 'Pops' and was a foundational figure in the development of jazz?",
+    "options": [
+      "Sidney Bechet",
+      "Louis Armstrong",
+      "Johnny Dodds",
+      "Jimmie Noone"
+    ],
+    "answer": "Sidney Bechet",
+    "difficulty": "Hard"
+  },
+  {
+    "question": "What is the 'third-line B-flat problem' on the clarinet?",
+    "options": [
+      "An acoustical issue that makes the note B-flat on the third line of the staff notoriously sharp",
+      "The note is often flat",
+      "The note is often stuffy",
+      "The fingering is awkward"
+    ],
+    "answer": "An acoustical issue that makes the note B-flat on the third line of the staff notoriously sharp",
+    "difficulty": "Hard"
+  },
+  {
+    "question": "What is the 'Doppler effect' in the context of a moving clarinetist?",
+    "options": [
+      "A change in the perceived pitch of the sound",
+      "A change in the volume",
+      "A change in the tone color",
+      "A change in the rhythm"
+    ],
+    "answer": "A change in the perceived pitch of the sound",
+    "difficulty": "Hard"
+  },
+  {
+    "question": "Who wrote the famous 'Première Rhapsodie' for clarinet and piano (or orchestra)?",
+    "options": [
+      "Claude Debussy",
+      "Maurice Ravel",
+      "Gabriel Fauré",
+      "Camille Saint-Saëns"
+    ],
+    "answer": "Claude Debussy",
+    "difficulty": "Hard"
+  },
+  {
+    "question": "What is the 'speaker tube' or 'register key vent'?",
+    "options": [
+      "The small tube inside the register key hole that prevents it from being clogged with water",
+      "A tube for cleaning",
+      "A part of the mouthpiece",
+      "A tube that amplifies the sound"
+    ],
+    "answer": "The small tube inside the register key hole that prevents it from being clogged with water",
+    "difficulty": "Hard"
+  },
+  {
+    "question": "What is the primary challenge in performing Carl Maria von Weber's Clarinet Concerto No. 1?",
+    "options": [
+      "The virtuosic and demanding solo part",
+      "The extreme dynamic contrasts",
+      "The unusual instrumentation",
+      "The length of the piece"
+    ],
+    "answer": "The virtuosic and demanding solo part",
+    "difficulty": "Hard"
+  },
+  {
+    "question": "What is the 'Langenus' method?",
+    "options": [
+      "A popular and comprehensive clarinet method book by Gustave Langenus",
+      "A method for circular breathing",
+      "A method for adjusting reeds",
+      "A method for repairing clarinets"
+    ],
+    "answer": "A popular and comprehensive clarinet method book by Gustave Langenus",
+    "difficulty": "Hard"
+  },
+  {
+    "question": "What is the difference between a 'full Boehm' and a 'plain Boehm' clarinet?",
+    "options": [
+      "The full Boehm has extra keys, like the forked E-flat/B-flat and the articulated G#",
+      "The full Boehm is made of a different wood",
+      "The full Boehm has a larger bore",
+      "The full Boehm is longer"
+    ],
+    "answer": "The full Boehm has extra keys, like the forked E-flat/B-flat and the articulated G#",
+    "difficulty": "Hard"
+  },
+  {
+    "question": "Which composer's 'Time Pieces' for clarinet and piano is a major 20th-century work?",
+    "options": [
+      "Robert Muczynski",
+      "Paul Hindemith",
+      "Olivier Messiaen",
+      "Alban Berg"
+    ],
+    "answer": "Robert Muczynski",
+    "difficulty": "Hard"
+  },
+  {
+    "question": "What is the 'acoustics of a cylindrical pipe closed at one end'?",
+    "options": [
+      "It produces only the odd-numbered harmonics",
+      "It produces all harmonics",
+      "It produces only the even-numbered harmonics",
+      "It produces no harmonics"
+    ],
+    "answer": "It produces only the odd-numbered harmonics",
+    "difficulty": "Hard"
+  },
+  {
+    "question": "What is the role of the 'cork pads' versus 'skin pads' on a clarinet?",
+    "options": [
+      "Cork pads are used for keys that close directly on the wood, while skin pads are used for keys in cups",
+      "Cork pads are for upper keys, skin pads for lower keys",
+      "Cork pads are cheaper, skin pads are more expensive",
+      "There is no difference"
+    ],
+    "answer": "Cork pads are used for keys that close directly on the wood, while skin pads are used for keys in cups",
+    "difficulty": "Hard"
+  },
+  {
+    "question": "Who was the clarinetist for whom Brahms wrote his clarinet works?",
+    "options": [
+      "Richard Mühlfeld",
+      "Anton Stadler",
+      "Heinrich Baermann",
+      "Simeon Bellison"
+    ],
+    "answer": "Richard Mühlfeld",
+    "difficulty": "Hard"
+  },
+  {
+    "question": "What is the 'altissimo register'?",
+    "options": [
+      "The highest register of the clarinet, requiring special fingerings and embouchure",
+      "The lowest register",
+      "The middle register",
+      "A register only available on special clarinets"
+    ],
+    "answer": "The highest register of the clarinet, requiring special fingerings and embouchure",
+    "difficulty": "Hard"
+  },
+  {
+    "question": "What is the significance of the 'Copland Concerto' for clarinet?",
+    "options": [
+      "It was written for Benny Goodman and successfully blends jazz and classical styles",
+      "It is the most difficult clarinet concerto",
+      "It is the first concerto written for clarinet",
+      "It is an unaccompanied piece"
+    ],
+    "answer": "It was written for Benny Goodman and successfully blends jazz and classical styles",
+    "difficulty": "Hard"
+  },
+  {
+    "question": "What is a 'reed rush'?",
+    "options": [
+      "A natural plant used to polish and adjust reeds",
+      "A tool for cutting reeds",
+      "A type of fast-growing reed",
+      "A brand of synthetic reed"
+    ],
+    "answer": "A natural plant used to polish and adjust reeds",
+    "difficulty": "Hard"
+  },
+  {
+    "question": "What is the 'acoustical impedance' of the clarinet?",
+    "options": [
+      "The ratio of sound pressure to volume velocity, which determines how the instrument responds",
+      "The weight of the instrument",
+      "The resistance of the keys",
+      "The speed of sound in the instrument"
+    ],
+    "answer": "The ratio of sound pressure to volume velocity, which determines how the instrument responds",
+    "difficulty": "Hard"
+  },
+  {
+    "question": "Which avant-garde composer wrote 'Abîme des oiseaux' ('Abyss of the Birds') for solo clarinet as part of his 'Quatuor pour la fin du temps'?",
+    "options": [
+      "Olivier Messiaen",
+      "Pierre Boulez",
+      "Karlheinz Stockhausen",
+      "John Cage"
+    ],
+    "answer": "Olivier Messiaen",
+    "difficulty": "Hard"
+  },
+  {
+    "question": "What is the 'e-flat/b-flat' trill key used for?",
+    "options": [
+      "To facilitate the trill between E-flat and F, and B-flat and C",
+      "To play in the key of E-flat",
+      "To play microtones",
+      "To mute the instrument"
+    ],
+    "answer": "To facilitate the trill between E-flat and F, and B-flat and C",
+    "difficulty": "Hard"
+  },
+  {
+    "question": "The 'Boehm system' of keywork, standard on most modern clarinets, was originally developed for which instrument?",
+    "options": ["Flute", "Oboe", "Bassoon", "Saxophone"],
+    "answer": "Flute",
+    "difficulty": "Expert"
+  },
+  {
+    "question": "What is the term for the acoustic phenomenon that causes the clarinet to overblow at the twelfth (an octave and a fifth) rather than the octave?",
+    "options": [
+      "Harmonic series",
+      "Cylindrical bore resonance",
+      "Conical bore resonance",
+      "Register key mechanics"
+    ],
+    "answer": "Cylindrical bore resonance",
+    "difficulty": "Expert"
+  },
+  {
+    "question": "Which avant-garde composition requires the clarinetist to produce multiphonics, circular breathe, and click the keys percussively?",
+    "options": [
+      "'Sequenza IXa' by Luciano Berio",
+      "'Four6' by John Cage",
+      "'Artikulation' by György Ligeti",
+      "'Zeitmaße' by Karlheinz Stockhausen"
+    ],
+    "answer": "'Sequenza IXa' by Luciano Berio",
+    "difficulty": "Expert"
+  },
+  {
+    "question": "The bass clarinet is typically pitched in B♭, but what other key is occasionally used for older French repertoire?",
+    "options": ["A", "C", "E♭", "D"],
+    "answer": "A",
+    "difficulty": "Expert"
+  },
+  {
+    "question": "What specific type of wood is most prized for making high-end professional clarinets?",
+    "options": [
+      "African Blackwood (Grenadilla)",
+      "Honduran Rosewood",
+      "Cocobolo",
+      "Boxwood"
+    ],
+    "answer": "African Blackwood (Grenadilla)",
+    "difficulty": "Expert"
+  },
+  {
+    "question": "Who was the clarinetist for whom Mozart composed his Clarinet Concerto and Quintet?",
+    "options": [
+      "Anton Stadler",
+      "Heinrich Baermann",
+      "Iwan Müller",
+      "Simeon Bellison"
+    ],
+    "answer": "Anton Stadler",
+    "difficulty": "Expert"
+  },
+  {
+    "question": "What is the primary difference between the Oehler system clarinet and the Boehm system clarinet?",
+    "options": [
+      "Different fingering system and bore design",
+      "The material of the keys",
+      "The type of wood used",
+      "The shape of the bell"
+    ],
+    "answer": "Different fingering system and bore design",
+    "difficulty": "Expert"
+  },
+  {
+    "question": "The 'Klosé-Buffet' method book, a foundational text for clarinetists, was first published in what year?",
+    "options": ["1844", "1802", "1888", "1921"],
+    "answer": "1844",
+    "difficulty": "Expert"
+  },
+  {
+    "question": "What is a 'basset clarinet'?",
+    "options": [
+      "A clarinet with an extended lower range, for which Mozart's concerto was originally written",
+      "A clarinet made entirely of brass",
+      "A type of E-flat clarinet",
+      "A clarinet with a double-bell"
+    ],
+    "answer": "A clarinet with an extended lower range, for which Mozart's concerto was originally written",
+    "difficulty": "Expert"
+  },
+  {
+    "question": "Which part of the clarinet has the most significant impact on its intonation and overall tone quality?",
+    "options": ["The barrel", "The bell", "The ligature", "The thumb rest"],
+    "answer": "The barrel",
+    "difficulty": "Expert"
+  },
+  {
+    "question": "What does the term 'circular breathing' allow a wind player to do?",
+    "options": [
+      "Play a continuous, unbroken sound without pausing for breath",
+      "Breathe in through the nose while simultaneously expelling air from the mouth",
+      "Take very deep breaths quickly",
+      "Play for an extended period without fatigue"
+    ],
+    "answer": "Play a continuous, unbroken sound without pausing for breath",
+    "difficulty": "Expert"
+  },
+  {
+    "question": "In Stravinsky's 'The Rite of Spring,' the opening high-pitched solo is famously played by which member of the clarinet family?",
+    "options": [
+      "E-flat Clarinet",
+      "D Clarinet",
+      "A Clarinet",
+      "B-flat Clarinet"
+    ],
+    "answer": "E-flat Clarinet",
+    "difficulty": "Expert"
+  },
+  {
+    "question": "What is the purpose of 'undercutting' the tone holes on a clarinet?",
+    "options": [
+      "To improve intonation and response",
+      "To make the keys lighter",
+      "To strengthen the wood",
+      "For aesthetic purposes"
+    ],
+    "answer": "To improve intonation and response",
+    "difficulty": "Expert"
+  },
+  {
+    "question": "Which jazz clarinetist was known as the 'King of Swing'?",
+    "options": ["Benny Goodman", "Artie Shaw", "Sidney Bechet", "Woody Herman"],
+    "answer": "Benny Goodman",
+    "difficulty": "Expert"
+  },
+  {
+    "question": "What is the 'register key' on the clarinet used for?",
+    "options": [
+      "To facilitate playing in the upper register by opening a small hole",
+      "To change the key of the instrument",
+      "To mute the sound",
+      "To play microtones"
+    ],
+    "answer": "To facilitate playing in the upper register by opening a small hole",
+    "difficulty": "Expert"
+  },
+  {
+    "question": "The 'Rose Etudes' for clarinet are a staple of the pedagogical repertoire. Who composed them?",
+    "options": [
+      "Cyrille Rose",
+      "Carl Baermann",
+      "Hyacinthe Klosé",
+      "Gustave Langenus"
+    ],
+    "answer": "Cyrille Rose",
+    "difficulty": "Expert"
+  },
+  {
+    "question": "What is the primary material used for the pads that cover the tone holes on a professional clarinet?",
+    "options": [
+      "Gore-Tex, cork, or leather",
+      "Felt and rubber",
+      "Silicone",
+      "Plastic"
+    ],
+    "answer": "Gore-Tex, cork, or leather",
+    "difficulty": "Expert"
+  },
+  {
+    "question": "Which composer wrote 'Contrasts' for clarinet, violin, and piano, commissioned by Benny Goodman?",
+    "options": [
+      "Béla Bartók",
+      "Igor Stravinsky",
+      "Aaron Copland",
+      "Paul Hindemith"
+    ],
+    "answer": "Béla Bartók",
+    "difficulty": "Expert"
+  },
+  {
+    "question": "What is the function of the 'speaker key' on a bass clarinet?",
+    "options": [
+      "It is another name for the register key",
+      "It controls a separate bell speaker",
+      "It is used for cleaning",
+      "It is a type of mute"
+    ],
+    "answer": "It is another name for the register key",
+    "difficulty": "Expert"
+  },
+  {
+    "question": "What is a 'double-lipped embouchure'?",
+    "options": [
+      "Placing the top lip over the top teeth and the bottom lip over the bottom teeth",
+      "Using two reeds at once",
+      "A technique for playing two notes at once",
+      "A specific type of mouthpiece"
+    ],
+    "answer": "Placing the top lip over the top teeth and the bottom lip over the bottom teeth",
+    "difficulty": "Expert"
+  },
+  {
+    "question": "Which contemporary clarinetist is known for their work in klezmer music?",
+    "options": [
+      "David Krakauer",
+      "Martin Fröst",
+      "Sabine Meyer",
+      "Richard Stoltzman"
+    ],
+    "answer": "David Krakauer",
+    "difficulty": "Expert"
+  },
+  {
+    "question": "What is the 'Ab/Eb lever' on a full Boehm system clarinet used for?",
+    "options": [
+      "To provide an alternate fingering for Ab/Eb in the left hand",
+      "To trill between A and B-flat",
+      "To play in the altissimo register",
+      "To adjust the pitch of the bell notes"
+    ],
+    "answer": "To provide an alternate fingering for Ab/Eb in the left hand",
+    "difficulty": "Expert"
+  },
+  {
+    "question": "The clarinet is a transposing instrument. If a B-flat clarinet plays a written C, what note sounds at concert pitch?",
+    "options": ["B-flat", "C", "A", "E-flat"],
+    "answer": "B-flat",
+    "difficulty": "Expert"
+  },
+  {
+    "question": "What is the 'crow's foot' on a clarinet?",
+    "options": [
+      "The cluster of keys for the right-hand little finger",
+      "A crack in the wood",
+      "A tool for repair",
+      "A part of the ligature"
+    ],
+    "answer": "The cluster of keys for the right-hand little finger",
+    "difficulty": "Expert"
+  },
+  {
+    "question": "Which of these is a type of clarinet not commonly found in a modern orchestra?",
+    "options": [
+      "Alto clarinet in E-flat",
+      "B-flat clarinet",
+      "A clarinet",
+      "Bass clarinet in B-flat"
+    ],
+    "answer": "Alto clarinet in E-flat",
+    "difficulty": "Expert"
+  },
+  {
+    "question": "What is the 'lay' of a clarinet mouthpiece?",
+    "options": [
+      "The curve of the mouthpiece facing from the tip opening",
+      "The material it is made from",
+      "The size of the chamber",
+      "The angle of the beak"
+    ],
+    "answer": "The curve of the mouthpiece facing from the tip opening",
+    "difficulty": "Expert"
+  },
+  {
+    "question": "Who invented the modern single-reed mouthpiece for the clarinet in the early 19th century?",
+    "options": [
+      "Iwan Müller",
+      "Adolphe Sax",
+      "Theobald Boehm",
+      "Hyacinthe Klosé"
+    ],
+    "answer": "Iwan Müller",
+    "difficulty": "Expert"
+  },
+  {
+    "question": "What is the 'bell ring' on a clarinet?",
+    "options": [
+      "A metal ring that protects the bottom of the bell from cracking",
+      "A mute that fits in the bell",
+      "A part of the stand",
+      "A decorative inlay"
+    ],
+    "answer": "A metal ring that protects the bottom of the bell from cracking",
+    "difficulty": "Expert"
+  },
+  {
+    "question": "In which of his operas did Puccini write a beautiful, melancholic solo for the clarinet?",
+    "options": [
+      "Tosca (E lucevan le stelle)",
+      "La Bohème",
+      "Madama Butterfly",
+      "Turandot"
+    ],
+    "answer": "Tosca (E lucevan le stelle)",
+    "difficulty": "Expert"
+  },
+  {
+    "question": "What is the primary acoustical difference between a clarinet and a saxophone?",
+    "options": [
+      "The clarinet has a cylindrical bore, while the saxophone has a conical bore",
+      "The clarinet is made of wood, the saxophone of brass",
+      "The clarinet uses a single reed, the saxophone a double reed",
+      "The clarinet has a smaller range"
+    ],
+    "answer": "The clarinet has a cylindrical bore, while the saxophone has a conical bore",
+    "difficulty": "Expert"
+  }
+]

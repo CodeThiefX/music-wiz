@@ -1,0 +1,1279 @@
+[
+  {
+    "question": "What family of instruments does the euphonium belong to?",
+    "options": ["Brass", "Woodwind", "Percussion", "Strings"],
+    "answer": "Brass",
+    "difficulty": "Easy"
+  },
+  {
+    "question": "How many valves does a standard euphonium have?",
+    "options": ["Three or four", "Two", "Five", "Six"],
+    "answer": "Three or four",
+    "difficulty": "Easy"
+  },
+  {
+    "question": "What do you press to change notes on a euphonium?",
+    "options": ["Valves", "Keys", "Slides", "Strings"],
+    "answer": "Valves",
+    "difficulty": "Easy"
+  },
+  {
+    "question": "What part of the euphonium do you buzz your lips into?",
+    "options": ["Mouthpiece", "Bell", "Leadpipe", "Valve casing"],
+    "answer": "Mouthpiece",
+    "difficulty": "Easy"
+  },
+  {
+    "question": "What is the flared end of the euphonium called?",
+    "options": ["Bell", "Horn", "Cone", "Funnel"],
+    "answer": "Bell",
+    "difficulty": "Easy"
+  },
+  {
+    "question": "The euphonium is most similar in range to which other instrument?",
+    "options": ["Trombone", "Trumpet", "Tuba", "French horn"],
+    "answer": "Trombone",
+    "difficulty": "Easy"
+  },
+  {
+    "question": "What is a musician who plays the euphonium called?",
+    "options": [
+      "Euphoniumist",
+      "Euphonium-player",
+      "Euphonist",
+      "All of the above"
+    ],
+    "answer": "All of the above",
+    "difficulty": "Easy"
+  },
+  {
+    "question": "What should you use to clean the inside of a euphonium?",
+    "options": ["Cleaning snake", "Swab", "Brush", "All of the above"],
+    "answer": "All of the above",
+    "difficulty": "Easy"
+  },
+  {
+    "question": "What is the purpose of valve oil?",
+    "options": [
+      "To lubricate the valves",
+      "To polish the euphonium",
+      "To clean the mouthpiece",
+      "To grease the slides"
+    ],
+    "answer": "To lubricate the valves",
+    "difficulty": "Easy"
+  },
+  {
+    "question": "What is a 'mute' used for?",
+    "options": [
+      "To change the sound of the euphonium",
+      "To make the euphonium louder",
+      "To clean the euphonium",
+      "To hold the euphonium"
+    ],
+    "answer": "To change the sound of the euphonium",
+    "difficulty": "Easy"
+  },
+  {
+    "question": "What is the name of the tube that connects the mouthpiece to the main body?",
+    "options": ["Leadpipe", "Bell pipe", "Valve pipe", "Mouth pipe"],
+    "answer": "Leadpipe",
+    "difficulty": "Easy"
+  },
+  {
+    "question": "True or False: The euphonium is a transposing instrument.",
+    "options": ["True", "False"],
+    "answer": "True",
+    "difficulty": "Easy"
+  },
+  {
+    "question": "What is a common brand of euphonium?",
+    "options": ["Besson", "Wilson", "Yamaha", "Jupiter"],
+    "answer": "Besson",
+    "difficulty": "Easy"
+  },
+  {
+    "question": "What is a 'scale' in music?",
+    "options": [
+      "A series of notes played in order",
+      "A type of rhythm",
+      "A dynamic marking",
+      "A part of the euphonium"
+    ],
+    "answer": "A series of notes played in order",
+    "difficulty": "Easy"
+  },
+  {
+    "question": "What does the marking 'p' mean in music?",
+    "options": ["Play softly", "Play loudly", "Play quickly", "Play slowly"],
+    "answer": "Play softly",
+    "difficulty": "Easy"
+  },
+  {
+    "question": "What does the marking 'f' mean in music?",
+    "options": ["Play loudly", "Play softly", "Play quickly", "Play slowly"],
+    "answer": "Play loudly",
+    "difficulty": "Easy"
+  },
+  {
+    "question": "What is the purpose of the 'water key' or 'spit valve'?",
+    "options": [
+      "To release condensation",
+      "To change the key",
+      "To mute the sound",
+      "To lubricate the valves"
+    ],
+    "answer": "To release condensation",
+    "difficulty": "Easy"
+  },
+  {
+    "question": "How do you produce a sound on a brass instrument?",
+    "options": [
+      "By buzzing your lips",
+      "By blowing air",
+      "By pressing keys",
+      "By hitting it"
+    ],
+    "answer": "By buzzing your lips",
+    "difficulty": "Easy"
+  },
+  {
+    "question": "What is the name of the case that protects the euphonium?",
+    "options": ["Hard case", "Gig bag", "Flight case", "All of the above"],
+    "answer": "All of the above",
+    "difficulty": "Easy"
+  },
+  {
+    "question": "What is a 'rest' in music?",
+    "options": [
+      "A period of silence",
+      "A very long note",
+      "A very loud note",
+      "A type of scale"
+    ],
+    "answer": "A period of silence",
+    "difficulty": "Easy"
+  },
+  {
+    "question": "What does a sharp sign (#) do to a note?",
+    "options": [
+      "Raises it by a half step",
+      "Lowers it by a half step",
+      "Makes it longer",
+      "Makes it shorter"
+    ],
+    "answer": "Raises it by a half step",
+    "difficulty": "Easy"
+  },
+  {
+    "question": "What does a flat sign (b) do to a note?",
+    "options": [
+      "Lowers it by a half step",
+      "Raises it by a half step",
+      "Makes it longer",
+      "Makes it shorter"
+    ],
+    "answer": "Lowers it by a half step",
+    "difficulty": "Easy"
+  },
+  {
+    "question": "What is the name of the five lines that music is written on?",
+    "options": ["Staff", "Grid", "Ledger", "Lines"],
+    "answer": "Staff",
+    "difficulty": "Easy"
+  },
+  {
+    "question": "What is the main tuning slide used for?",
+    "options": [
+      "To adjust the overall pitch of the euphonium",
+      "To change individual notes",
+      "To release water",
+      "To hold the euphonium"
+    ],
+    "answer": "To adjust the overall pitch of the euphonium",
+    "difficulty": "Easy"
+  },
+  {
+    "question": "What is a 'lip slur'?",
+    "options": [
+      "Changing notes without using the tongue or valves",
+      "A mistake",
+      "A type of mute",
+      "A very high note"
+    ],
+    "answer": "Changing notes without using the tongue or valves",
+    "difficulty": "Easy"
+  },
+  {
+    "question": "What is a 'triplet'?",
+    "options": [
+      "Three notes played in the time of two",
+      "A three-note chord",
+      "A three-measure rest",
+      "A type of euphonium"
+    ],
+    "answer": "Three notes played in the time of two",
+    "difficulty": "Easy"
+  },
+  {
+    "question": "What does 'a cappella' mean?",
+    "options": [
+      "Without instrumental accompaniment",
+      "With a large orchestra",
+      "Very slowly",
+      "Very loudly"
+    ],
+    "answer": "Without instrumental accompaniment",
+    "difficulty": "Easy"
+  },
+  {
+    "question": "What is a 'crescendo'?",
+    "options": [
+      "Gradually getting louder",
+      "Gradually getting softer",
+      "Gradually getting faster",
+      "Gradually getting slower"
+    ],
+    "answer": "Gradually getting louder",
+    "difficulty": "Easy"
+  },
+  {
+    "question": "What is a 'decrescendo' or 'diminuendo'?",
+    "options": [
+      "Gradually getting softer",
+      "Gradually getting louder",
+      "Gradually getting faster",
+      "Gradually getting slower"
+    ],
+    "answer": "Gradually getting softer",
+    "difficulty": "Easy"
+  },
+  {
+    "question": "What is a 'lyre holder' for?",
+    "options": [
+      "To hold music while marching",
+      "To hold a mute",
+      "To help hold the instrument",
+      "It is decorative"
+    ],
+    "answer": "To hold music while marching",
+    "difficulty": "Easy"
+  },
+  {
+    "question": "What clef does the euphonium typically read in?",
+    "options": ["Bass clef", "Treble clef", "Alto clef", "Tenor clef"],
+    "answer": "Bass clef",
+    "difficulty": "Medium"
+  },
+  {
+    "question": "What is a 'compensating system' on a euphonium?",
+    "options": [
+      "A system of extra tubing that automatically corrects the pitch of low notes",
+      "A type of mute",
+      "A special kind of valve oil",
+      "A decorative feature"
+    ],
+    "answer": "A system of extra tubing that automatically corrects the pitch of low notes",
+    "difficulty": "Medium"
+  },
+  {
+    "question": "What is the difference between a euphonium and a baritone horn?",
+    "options": [
+      "The euphonium has a more conical bore, giving it a warmer, darker tone",
+      "The baritone is larger",
+      "The euphonium has a slide",
+      "There is no difference"
+    ],
+    "answer": "The euphonium has a more conical bore, giving it a warmer, darker tone",
+    "difficulty": "Medium"
+  },
+  {
+    "question": "In which type of ensemble is the euphonium a standard member?",
+    "options": [
+      "Concert band and brass band",
+      "Symphony orchestra",
+      "Jazz band",
+      "String quartet"
+    ],
+    "answer": "Concert band and brass band",
+    "difficulty": "Medium"
+  },
+  {
+    "question": "What is a 'pedal tone'?",
+    "options": [
+      "The lowest fundamental note that can be played on the instrument",
+      "A note played with a foot pedal",
+      "A very quiet note",
+      "A mistake"
+    ],
+    "answer": "The lowest fundamental note that can be played on the instrument",
+    "difficulty": "Medium"
+  },
+  {
+    "question": "What is 'double tonguing'?",
+    "options": [
+      "A technique for playing rapid notes using syllables like 'tuh-kuh'",
+      "Using two tongues to play",
+      "A mistake in tonguing",
+      "Playing two notes at once"
+    ],
+    "answer": "A technique for playing rapid notes using syllables like 'tuh-kuh'",
+    "difficulty": "Medium"
+  },
+  {
+    "question": "What is the 'Arban Method'?",
+    "options": [
+      "A famous and comprehensive book of exercises, originally for cornet",
+      "A method for cleaning euphoniums",
+      "A brand of euphonium",
+      "A type of mute"
+    ],
+    "answer": "A famous and comprehensive book of exercises, originally for cornet",
+    "difficulty": "Medium"
+  },
+  {
+    "question": "What is a 'trill'?",
+    "options": [
+      "A rapid alternation between two notes",
+      "A long, sustained note",
+      "A short, detached note",
+      "A sliding between notes"
+    ],
+    "answer": "A rapid alternation between two notes",
+    "difficulty": "Medium"
+  },
+  {
+    "question": "What is 'vibrato' on a euphonium?",
+    "options": [
+      "A slight, regular pulsation of pitch, often created with the jaw or diaphragm",
+      "Playing very loudly",
+      "Playing very softly",
+      "Playing very fast"
+    ],
+    "answer": "A slight, regular pulsation of pitch, often created with the jaw or diaphragm",
+    "difficulty": "Medium"
+  },
+  {
+    "question": "What is a 'concerto'?",
+    "options": [
+      "A musical piece for a solo instrument accompanied by an orchestra or band",
+      "A piece for a solo instrument only",
+      "A piece for a large ensemble",
+      "A piece for a small group of instruments"
+    ],
+    "answer": "A musical piece for a solo instrument accompanied by an orchestra or band",
+    "difficulty": "Medium"
+  },
+  {
+    "question": "Who is a famous euphonium soloist?",
+    "options": ["Steven Mead", "Wynton Marsalis", "Yo-Yo Ma", "James Galway"],
+    "answer": "Steven Mead",
+    "difficulty": "Medium"
+  },
+  {
+    "question": "What is the typical range of a euphonium?",
+    "options": [
+      "Similar to a trombone, from E below the bass clef staff to B-flat above it",
+      "The same as a trumpet",
+      "The same as a tuba",
+      "Only one octave"
+    ],
+    "answer": "Similar to a trombone, from E below the bass clef staff to B-flat above it",
+    "difficulty": "Medium"
+  },
+  {
+    "question": "What is the 'bore' of the instrument?",
+    "options": [
+      "The inside diameter of the tubing",
+      "The outside diameter of the tubing",
+      "The length of the tubing",
+      "The thickness of the metal"
+    ],
+    "answer": "The inside diameter of the tubing",
+    "difficulty": "Medium"
+  },
+  {
+    "question": "What is a 'serpent'?",
+    "options": [
+      "An early ancestor of the euphonium and tuba",
+      "A type of cleaning tool",
+      "A brand of mute",
+      "A musical ornament"
+    ],
+    "answer": "An early ancestor of the euphonium and tuba",
+    "difficulty": "Medium"
+  },
+  {
+    "question": "What is the primary role of the euphonium in a brass band?",
+    "options": [
+      "Playing solos and counter-melodies",
+      "Playing the bass line",
+      "Playing high harmony parts",
+      "Playing rhythmic chords"
+    ],
+    "answer": "Playing solos and counter-melodies",
+    "difficulty": "Medium"
+  },
+  {
+    "question": "What is a 'double bell' euphonium?",
+    "options": [
+      "A euphonium with a second, smaller bell for a different tone color",
+      "A euphonium that is twice as loud",
+      "A euphonium for two players",
+      "A euphonium with two mouthpieces"
+    ],
+    "answer": "A euphonium with a second, smaller bell for a different tone color",
+    "difficulty": "Medium"
+  },
+  {
+    "question": "In orchestral music, the euphonium part is often labeled as what?",
+    "options": ["Tenor Tuba", "Baritone", "Flugelhorn", "Bass Trumpet"],
+    "answer": "Tenor Tuba",
+    "difficulty": "Medium"
+  },
+  {
+    "question": "What is the 'leadpipe'?",
+    "options": [
+      "The tube that the mouthpiece fits into",
+      "The main tuning slide",
+      "The bell",
+      "The valve casing"
+    ],
+    "answer": "The tube that the mouthpiece fits into",
+    "difficulty": "Medium"
+  },
+  {
+    "question": "What is a 'uniball' or 'miniball' linkage?",
+    "options": [
+      "A type of mechanical valve linkage that is quiet and durable",
+      "A type of string linkage",
+      "A part of the mouthpiece",
+      "A type of mute"
+    ],
+    "answer": "A type of mechanical valve linkage that is quiet and durable",
+    "difficulty": "Medium"
+  },
+  {
+    "question": "The euphonium is pitched in which key?",
+    "options": ["B-flat", "C", "E-flat", "F"],
+    "answer": "B-flat",
+    "difficulty": "Medium"
+  },
+  {
+    "question": "What is a 'straight mute'?",
+    "options": [
+      "A cone-shaped mute that creates a bright, buzzy sound",
+      "A mute that makes the instrument silent",
+      "A mute made of cloth",
+      "A mute that fits on the floor"
+    ],
+    "answer": "A cone-shaped mute that creates a bright, buzzy sound",
+    "difficulty": "Medium"
+  },
+  {
+    "question": "What is a 'cup mute'?",
+    "options": [
+      "A mute that creates a soft, muffled sound",
+      "A mute shaped like a cup",
+      "A mute that makes the instrument louder",
+      "A mute for a trumpet"
+    ],
+    "answer": "A mute that creates a soft, muffled sound",
+    "difficulty": "Medium"
+  },
+  {
+    "question": "What is a 'fantasia'?",
+    "options": [
+      "A musical piece with a free, improvisatory style",
+      "A very slow piece",
+      "A very fast piece",
+      "A dance"
+    ],
+    "answer": "A musical piece with a free, improvisatory style",
+    "difficulty": "Medium"
+  },
+  {
+    "question": "What is the 'shank' of a mouthpiece?",
+    "options": [
+      "The part that fits into the leadpipe",
+      "The rim",
+      "The cup",
+      "The throat"
+    ],
+    "answer": "The part that fits into the leadpipe",
+    "difficulty": "Medium"
+  },
+  {
+    "question": "Which famous orchestral piece by Gustav Holst features a prominent euphonium solo?",
+    "options": [
+      "'The Planets' (specifically in 'Mars' and 'Jupiter')",
+      "'First Suite in E-flat'",
+      "'Second Suite in F'",
+      "'A Moorside Suite'"
+    ],
+    "answer": "'The Planets' (specifically in 'Mars' and 'Jupiter')",
+    "difficulty": "Medium"
+  },
+  {
+    "question": "What is the difference between a 'bell front' and an 'upright' euphonium?",
+    "options": [
+      "The direction the bell is pointing",
+      "The number of valves",
+      "The material",
+      "The size"
+    ],
+    "answer": "The direction the bell is pointing",
+    "difficulty": "Medium"
+  },
+  {
+    "question": "What is 'intonation'?",
+    "options": [
+      "Playing in tune",
+      "Playing with good tone",
+      "Playing with good rhythm",
+      "Playing loudly"
+    ],
+    "answer": "Playing in tune",
+    "difficulty": "Medium"
+  },
+  {
+    "question": "What is a 'lip slur'?",
+    "options": [
+      "Changing notes using only the embouchure, without changing valves",
+      "A mistake",
+      "A type of mute",
+      "A fast passage"
+    ],
+    "answer": "Changing notes using only the embouchure, without changing valves",
+    "difficulty": "Medium"
+  },
+  {
+    "question": "What is a 'whole note'?",
+    "options": [
+      "A note that lasts for four beats in 4/4 time",
+      "A note that lasts for one beat",
+      "A note that lasts for two beats",
+      "A note that lasts for a half beat"
+    ],
+    "answer": "A note that lasts for four beats in 4/4 time",
+    "difficulty": "Medium"
+  },
+  {
+    "question": "What is a 'half note'?",
+    "options": [
+      "A note that lasts for two beats in 4/4 time",
+      "A note that lasts for one beat",
+      "A note that lasts for four beats",
+      "A note that lasts for a half beat"
+    ],
+    "answer": "A note that lasts for two beats in 4/4 time",
+    "difficulty": "Medium"
+  },
+  {
+    "question": "What is a 'quarter note'?",
+    "options": [
+      "A note that lasts for one beat in 4/4 time",
+      "A note that lasts for two beats",
+      "A note that lasts for four beats",
+      "A note that lasts for a half beat"
+    ],
+    "answer": "A note that lasts for one beat in 4/4 time",
+    "difficulty": "Medium"
+  },
+  {
+    "question": "What is an 'eighth note'?",
+    "options": [
+      "A note that lasts for half a beat in 4/4 time",
+      "A note that lasts for one beat",
+      "A note that lasts for two beats",
+      "A note that lasts for four beats"
+    ],
+    "answer": "A note that lasts for half a beat in 4/4 time",
+    "difficulty": "Medium"
+  },
+  {
+    "question": "What is a 'fermata'?",
+    "options": [
+      "A symbol that indicates a note should be held longer than its normal duration",
+      "A very short rest",
+      "A very loud note",
+      "A type of trill"
+    ],
+    "answer": "A symbol that indicates a note should be held longer than its normal duration",
+    "difficulty": "Medium"
+  },
+  {
+    "question": "What is 'dynamics' in music?",
+    "options": [
+      "The volume of the music",
+      "The speed of the music",
+      "The pitch of the music",
+      "The rhythm of the music"
+    ],
+    "answer": "The volume of the music",
+    "difficulty": "Medium"
+  },
+  {
+    "question": "What is 'tempo' in music?",
+    "options": [
+      "The speed of the music",
+      "The volume of the music",
+      "The pitch of the music",
+      "The rhythm of the music"
+    ],
+    "answer": "The speed of the music",
+    "difficulty": "Medium"
+  },
+  {
+    "question": "What is an 'arpeggio'?",
+    "options": [
+      "Playing the notes of a chord one after another instead of at the same time",
+      "Playing a scale very fast",
+      "A type of valve oil",
+      "A very long note"
+    ],
+    "answer": "Playing the notes of a chord one after another instead of at the same time",
+    "difficulty": "Medium"
+  },
+  {
+    "question": "What is a 'tri-color' euphonium?",
+    "options": [
+      "A euphonium made with three different metal finishes, like brass, nickel, and copper",
+      "A euphonium that can play three colors of sound",
+      "A euphonium with three bells",
+      "A toy euphonium"
+    ],
+    "answer": "A euphonium made with three different metal finishes, like brass, nickel, and copper",
+    "difficulty": "Hard"
+  },
+  {
+    "question": "What is the 'trigger' on a compensating euphonium for?",
+    "options": [
+      "To engage the compensating system for better intonation on certain notes",
+      "To release water",
+      "To hold a mute",
+      "To change the overall key"
+    ],
+    "answer": "To engage the compensating system for better intonation on certain notes",
+    "difficulty": "Hard"
+  },
+  {
+    "question": "What is a 'bell tone'?",
+    "options": [
+      "A very clear, resonant sound, often produced on long notes",
+      "A note played with the bell on the floor",
+      "A muffled sound",
+      "A mistake"
+    ],
+    "answer": "A very clear, resonant sound, often produced on long notes",
+    "difficulty": "Hard"
+  },
+  {
+    "question": "What is a 'valve combination'?",
+    "options": [
+      "The set of valves pressed down to produce a particular note",
+      "A brand of valve oil",
+      "A type of valve",
+      "A cleaning tool for valves"
+    ],
+    "answer": "The set of valves pressed down to produce a particular note",
+    "difficulty": "Hard"
+  },
+  {
+    "question": "What is a 'false tone' or 'alternate fingering'?",
+    "options": [
+      "A non-standard valve combination used to play a note, sometimes for better intonation or easier facility",
+      "A note that is out of tune",
+      "A mistake",
+      "A note that doesn't exist"
+    ],
+    "answer": "A non-standard valve combination used to play a note, sometimes for better intonation or easier facility",
+    "difficulty": "Hard"
+  },
+  {
+    "question": "What is a 'multi-tonguing' technique?",
+    "options": [
+      "Techniques like double and triple tonguing to play fast passages",
+      "Using more than one tongue",
+      "A mistake",
+      "A type of mute"
+    ],
+    "answer": "Techniques like double and triple tonguing to play fast passages",
+    "difficulty": "Hard"
+  },
+  {
+    "question": "What is a 'cadenza'?",
+    "options": [
+      "A virtuosic solo passage in a concerto, often improvised or written to sound improvised",
+      "The end of a piece",
+      "The beginning of a piece",
+      "A quiet section"
+    ],
+    "answer": "A virtuosic solo passage in a concerto, often improvised or written to sound improvised",
+    "difficulty": "Hard"
+  },
+  {
+    "question": "What is a 'theme and variations'?",
+    "options": [
+      "A musical form where a main theme is presented and then altered in subsequent sections",
+      "A very long piece",
+      "A very short piece",
+      "A type of scale"
+    ],
+    "answer": "A musical form where a main theme is presented and then altered in subsequent sections",
+    "difficulty": "Hard"
+  },
+  {
+    "question": "What is a 'romanza' or 'romance'?",
+    "options": [
+      "A piece of music with a lyrical, song-like quality",
+      "A very fast piece",
+      "A very loud piece",
+      "A dance"
+    ],
+    "answer": "A piece of music with a lyrical, song-like quality",
+    "difficulty": "Hard"
+  },
+  {
+    "question": "What is a 'march'?",
+    "options": [
+      "A piece of music with a strong, regular rhythm, originally written for marching",
+      "A very slow piece",
+      "A very quiet piece",
+      "A piece with no rhythm"
+    ],
+    "answer": "A piece of music with a strong, regular rhythm, originally written for marching",
+    "difficulty": "Hard"
+  },
+  {
+    "question": "What is a 'fanfare'?",
+    "options": [
+      "A short, loud piece of music, typically played by brass instruments to announce something or someone",
+      "A very long piece",
+      "A very quiet piece",
+      "A piece for woodwinds"
+    ],
+    "answer": "A short, loud piece of music, typically played by brass instruments to announce something or someone",
+    "difficulty": "Hard"
+  },
+  {
+    "question": "What is a 'chorale'?",
+    "options": [
+      "A slow, hymn-like piece of music, often played by a brass section",
+      "A very fast piece",
+      "A very loud piece",
+      "A solo piece"
+    ],
+    "answer": "A slow, hymn-like piece of music, often played by a brass section",
+    "difficulty": "Hard"
+  },
+  {
+    "question": "What is a 'recital'?",
+    "options": [
+      "A performance by a soloist or small group",
+      "A performance by a large orchestra",
+      "A competition",
+      "A practice session"
+    ],
+    "answer": "A performance by a soloist or small group",
+    "difficulty": "Hard"
+  },
+  {
+    "question": "What is a 'masterclass'?",
+    "options": [
+      "A public lesson where a student performs for and is coached by an expert",
+      "A class for making instruments",
+      "A class for composing music",
+      "A very difficult class"
+    ],
+    "answer": "A public lesson where a student performs for and is coached by an expert",
+    "difficulty": "Hard"
+  },
+  {
+    "question": "What is a 'etude'?",
+    "options": [
+      "A musical piece designed to practice a particular technical skill",
+      "A piece for a concert",
+      "A very easy piece",
+      "A piece with no melody"
+    ],
+    "answer": "A musical piece designed to practice a particular technical skill",
+    "difficulty": "Hard"
+  },
+  {
+    "question": "What is a 'duet'?",
+    "options": [
+      "A piece for two performers",
+      "A piece for one performer",
+      "A piece for three performers",
+      "A piece for four performers"
+    ],
+    "answer": "A piece for two performers",
+    "difficulty": "Hard"
+  },
+  {
+    "question": "What is a 'trio'?",
+    "options": [
+      "A piece for three performers",
+      "A piece for one performer",
+      "A piece for two performers",
+      "A piece for four performers"
+    ],
+    "answer": "A piece for three performers",
+    "difficulty": "Hard"
+  },
+  {
+    "question": "What is a 'quartet'?",
+    "options": [
+      "A piece for four performers",
+      "A piece for one performer",
+      "A piece for two performers",
+      "A piece for three performers"
+    ],
+    "answer": "A piece for four performers",
+    "difficulty": "Hard"
+  },
+  {
+    "question": "What is a 'quintet'?",
+    "options": [
+      "A piece for five performers",
+      "A piece for one performer",
+      "A piece for two performers",
+      "A piece for four performers"
+    ],
+    "answer": "A piece for five performers",
+    "difficulty": "Hard"
+  },
+  {
+    "question": "What is a 'brass quintet'?",
+    "options": [
+      "A group of five brass players, typically two trumpets, one horn, one trombone, and one tuba",
+      "A group of five euphoniums",
+      "A piece of music for five brass players",
+      "Both A and C"
+    ],
+    "answer": "Both A and C",
+    "difficulty": "Hard"
+  },
+  {
+    "question": "What is a 'brass band'?",
+    "options": [
+      "A musical ensemble consisting entirely of brass instruments, with a percussion section",
+      "A band that plays only rock music",
+      "A band with no brass instruments",
+      "A very small band"
+    ],
+    "answer": "A musical ensemble consisting entirely of brass instruments, with a percussion section",
+    "difficulty": "Hard"
+  },
+  {
+    "question": "What is a 'concert band' or 'wind ensemble'?",
+    "options": [
+      "A large ensemble of woodwind, brass, and percussion instruments",
+      "A band with only woodwind instruments",
+      "A band with only brass instruments",
+      "A string orchestra"
+    ],
+    "answer": "A large ensemble of woodwind, brass, and percussion instruments",
+    "difficulty": "Hard"
+  },
+  {
+    "question": "What is a 'symphony orchestra'?",
+    "options": [
+      "A large ensemble of string, woodwind, brass, and percussion instruments",
+      "A small ensemble",
+      "A band with no strings",
+      "A choir"
+    ],
+    "answer": "A large ensemble of string, woodwind, brass, and percussion instruments",
+    "difficulty": "Hard"
+  },
+  {
+    "question": "What is a 'conductor' or 'maestro'?",
+    "options": [
+      "The person who leads a musical ensemble",
+      "The lead player",
+      "The composer",
+      "The manager"
+    ],
+    "answer": "The person who leads a musical ensemble",
+    "difficulty": "Hard"
+  },
+  {
+    "question": "What is a 'score'?",
+    "options": [
+      "The written music for a piece, showing all the parts together",
+      "The part for a single instrument",
+      "The lyrics to a song",
+      "The program for a concert"
+    ],
+    "answer": "The written music for a piece, showing all the parts together",
+    "difficulty": "Hard"
+  },
+  {
+    "question": "What is a 'part'?",
+    "options": [
+      "The written music for a single instrument or voice",
+      "The entire score",
+      "A section of a piece",
+      "A type of instrument"
+    ],
+    "answer": "The written music for a single instrument or voice",
+    "difficulty": "Hard"
+  },
+  {
+    "question": "What is a 'mouthpiece shank'?",
+    "options": [
+      "The part of the mouthpiece that fits into the instrument",
+      "The rim of the mouthpiece",
+      "The cup of the mouthpiece",
+      "The throat of the mouthpiece"
+    ],
+    "answer": "The part of the mouthpiece that fits into the instrument",
+    "difficulty": "Hard"
+  },
+  {
+    "question": "What is a 'mouthpiece rim'?",
+    "options": [
+      "The edge of the mouthpiece that the player's lips rest on",
+      "The cup of the mouthpiece",
+      "The throat of the mouthpiece",
+      "The shank of the mouthpiece"
+    ],
+    "answer": "The edge of the mouthpiece that the player's lips rest on",
+    "difficulty": "Hard"
+  },
+  {
+    "question": "What is a 'mouthpiece cup'?",
+    "options": [
+      "The hollow part of the mouthpiece that the player buzzes into",
+      "The rim of the mouthpiece",
+      "The throat of the mouthpiece",
+      "The shank of the mouthpiece"
+    ],
+    "answer": "The hollow part of the mouthpiece that the player buzzes into",
+    "difficulty": "Hard"
+  },
+  {
+    "question": "What is a 'mouthpiece throat'?",
+    "options": [
+      "The narrowest part of the mouthpiece opening",
+      "The rim of the mouthpiece",
+      "The cup of the mouthpiece",
+      "The shank of the mouthpiece"
+    ],
+    "answer": "The narrowest part of the mouthpiece opening",
+    "difficulty": "Hard"
+  },
+  {
+    "question": "What is a 'mouthpiece backbore'?",
+    "options": [
+      "The part of the mouthpiece that flares out from the throat into the shank",
+      "The rim of the mouthpiece",
+      "The cup of the mouthpiece",
+      "The throat of the mouthpiece"
+    ],
+    "answer": "The part of the mouthpiece that flares out from the throat into the shank",
+    "difficulty": "Hard"
+  },
+  {
+    "question": "What does 'compensating system' mean on a euphonium?",
+    "options": [
+      "A system of extra tubing that improves intonation on lower notes",
+      "A system for automatically tuning the instrument",
+      "A type of mute",
+      "A special valve oil"
+    ],
+    "answer": "A system of extra tubing that improves intonation on lower notes",
+    "difficulty": "Expert"
+  },
+  {
+    "question": "Who is a famous euphonium soloist?",
+    "options": ["Steven Mead", "Wynton Marsalis", "Yo-Yo Ma", "James Galway"],
+    "answer": "Steven Mead",
+    "difficulty": "Expert"
+  },
+  {
+    "question": "What is the difference between a euphonium and a baritone horn?",
+    "options": [
+      "The euphonium has a more conical bore, resulting in a darker tone",
+      "The baritone horn has a slide instead of valves",
+      "The euphonium is a woodwind instrument",
+      "There is no difference"
+    ],
+    "answer": "The euphonium has a more conical bore, resulting in a darker tone",
+    "difficulty": "Expert"
+  },
+  {
+    "question": "What is a 'pedal tone' on the euphonium?",
+    "options": [
+      "The lowest fundamental note of the instrument",
+      "A note played with a foot pedal",
+      "A very high, piercing note",
+      "A note played with a special mute"
+    ],
+    "answer": "The lowest fundamental note of the instrument",
+    "difficulty": "Expert"
+  },
+  {
+    "question": "In which type of ensemble is the euphonium most commonly found?",
+    "options": [
+      "Brass band and concert band",
+      "Symphony orchestra",
+      "Jazz big band",
+      "String quartet"
+    ],
+    "answer": "Brass band and concert band",
+    "difficulty": "Expert"
+  },
+  {
+    "question": "What is a 'lip slur' on the euphonium?",
+    "options": [
+      "Changing notes without changing valve combinations, using only the embouchure",
+      "A mistake in buzzing",
+      "A type of articulation",
+      "A way to play faster"
+    ],
+    "answer": "Changing notes without changing valve combinations, using only the embouchure",
+    "difficulty": "Expert"
+  },
+  {
+    "question": "What is the typical range of a euphonium?",
+    "options": [
+      "From E below the bass clef staff to B-flat above it",
+      "From C in the middle of the bass clef to G at the top",
+      "Only the notes of the C major scale",
+      "The same range as a trumpet"
+    ],
+    "answer": "From E below the bass clef staff to B-flat above it",
+    "difficulty": "Expert"
+  },
+  {
+    "question": "Which composer wrote 'Holst's First Suite in E-flat', which features a prominent euphonium part?",
+    "options": [
+      "Gustav Holst",
+      "Percy Grainger",
+      "Ralph Vaughan Williams",
+      "Edward Elgar"
+    ],
+    "answer": "Gustav Holst",
+    "difficulty": "Expert"
+  },
+  {
+    "question": "What is the 'bore' of a euphonium?",
+    "options": [
+      "The interior diameter of the instrument's tubing",
+      "A type of cleaning brush",
+      "The bell of the instrument",
+      "The mouthpiece"
+    ],
+    "answer": "The interior diameter of the instrument's tubing",
+    "difficulty": "Expert"
+  },
+  {
+    "question": "What is a 'serpent'?",
+    "options": [
+      "An ancestor of the euphonium and tuba",
+      "A type of mute for the euphonium",
+      "A cleaning snake for the euphonium",
+      "A famous euphonium manufacturer"
+    ],
+    "answer": "An ancestor of the euphonium and tuba",
+    "difficulty": "Expert"
+  },
+  {
+    "question": "The 'Arban's Complete Conservatory Method' is a foundational text for euphonium players. It was originally written for which instrument?",
+    "options": ["Cornet", "Trumpet", "Trombone", "French horn"],
+    "answer": "Cornet",
+    "difficulty": "Expert"
+  },
+  {
+    "question": "What is the primary role of the euphonium in a British-style brass band?",
+    "options": [
+      "Playing counter-melodies and solos",
+      "Providing the bass line",
+      "Playing rhythmic accompaniment",
+      "Doubling the cornet parts"
+    ],
+    "answer": "Playing counter-melodies and solos",
+    "difficulty": "Expert"
+  },
+  {
+    "question": "Which of these is a well-known euphonium manufacturer?",
+    "options": ["Besson", "Selmer", "Yamaha", "All of the above"],
+    "answer": "All of the above",
+    "difficulty": "Expert"
+  },
+  {
+    "question": "What is a 'double bell' euphonium?",
+    "options": [
+      "A euphonium with a second, smaller bell that can be activated by a valve",
+      "A euphonium with two mouthpieces",
+      "A euphonium that can be played by two people at once",
+      "A euphonium with a detachable bell"
+    ],
+    "answer": "A euphonium with a second, smaller bell that can be activated by a valve",
+    "difficulty": "Expert"
+  },
+  {
+    "question": "In orchestral music, the euphonium part is often written for which instrument?",
+    "options": ["Tenor tuba", "Baritone horn", "Wagner tuba", "Bass trumpet"],
+    "answer": "Tenor tuba",
+    "difficulty": "Expert"
+  },
+  {
+    "question": "Who composed the 'Second Concerto for Euphonium'?",
+    "options": [
+      "John Golland",
+      "Gordon Jacob",
+      "Philip Sparke",
+      "James Curnow"
+    ],
+    "answer": "John Golland",
+    "difficulty": "Expert"
+  },
+  {
+    "question": "What is the 'leadpipe' on a euphonium?",
+    "options": [
+      "The tube that connects the mouthpiece to the valve cluster",
+      "The main tuning slide",
+      "The bell",
+      "The water key"
+    ],
+    "answer": "The tube that connects the mouthpiece to the valve cluster",
+    "difficulty": "Expert"
+  },
+  {
+    "question": "What is the difference between a 'compensating' and 'non-compensating' euphonium?",
+    "options": [
+      "The compensating system adds extra tubing to correct intonation on low notes",
+      "The non-compensating system is made of a different material",
+      "The compensating system has more valves",
+      "There is no difference"
+    ],
+    "answer": "The compensating system adds extra tubing to correct intonation on low notes",
+    "difficulty": "Expert"
+  },
+  {
+    "question": "Which famous American composer wrote a 'Concerto for Euphonium' for the United States Marine Band?",
+    "options": [
+      "David Gillingham",
+      "John Williams",
+      "Aaron Copland",
+      "Leonard Bernstein"
+    ],
+    "answer": "David Gillingham",
+    "difficulty": "Expert"
+  },
+  {
+    "question": "What is a 'uniball' or 'miniball' linkage on a euphonium?",
+    "options": [
+      "A type of mechanical linkage for the valves that is quieter and more reliable than traditional string linkage",
+      "A type of mute",
+      "A part of the mouthpiece",
+      "A cleaning tool"
+    ],
+    "answer": "A type of mechanical linkage for the valves that is quieter and more reliable than traditional string linkage",
+    "difficulty": "Expert"
+  },
+  {
+    "question": "The euphonium is a transposing instrument. When a B-flat euphonium plays a written C in the bass clef, what note sounds at concert pitch?",
+    "options": ["B-flat", "C", "E-flat", "A"],
+    "answer": "B-flat",
+    "difficulty": "Expert"
+  },
+  {
+    "question": "What is the 'bell throat' of a euphonium?",
+    "options": [
+      "The narrowest part of the bell before it flares out",
+      "The rim of the bell",
+      "The part of the bell that connects to the body",
+      "A type of mute"
+    ],
+    "answer": "The narrowest part of the bell before it flares out",
+    "difficulty": "Expert"
+  },
+  {
+    "question": "Who was the first euphonium soloist to be a 'guest artist' with the United States Marine Band?",
+    "options": [
+      "Arthur Lehman",
+      "Simone Mantia",
+      "Leonard Falcone",
+      "Brian Bowman"
+    ],
+    "answer": "Arthur Lehman",
+    "difficulty": "Expert"
+  },
+  {
+    "question": "What is the 'water key' or 'spit valve' on a euphonium used for?",
+    "options": [
+      "To expel condensation from the instrument",
+      "To lubricate the valves",
+      "To change the pitch",
+      "To mute the sound"
+    ],
+    "answer": "To expel condensation from the instrument",
+    "difficulty": "Expert"
+  },
+  {
+    "question": "Which of these is a common type of euphonium mute?",
+    "options": ["Straight mute", "Cup mute", "Harmon mute", "All of the above"],
+    "answer": "All of the above",
+    "difficulty": "Expert"
+  },
+  {
+    "question": "What is the 'first valve slide' on a euphonium used for?",
+    "options": [
+      "To adjust the intonation of notes played with the first valve",
+      "To hold the instrument",
+      "To attach a lyre",
+      "For decoration"
+    ],
+    "answer": "To adjust the intonation of notes played with the first valve",
+    "difficulty": "Expert"
+  },
+  {
+    "question": "The 'Fantasia' by Gordon Jacob is a staple of the euphonium repertoire. What is a 'fantasia'?",
+    "options": [
+      "A musical composition with its roots in the art of improvisation",
+      "A slow, lyrical piece",
+      "A dance movement",
+      "A set of variations"
+    ],
+    "answer": "A musical composition with its roots in the art of improvisation",
+    "difficulty": "Expert"
+  },
+  {
+    "question": "What is the 'shank' of a euphonium mouthpiece?",
+    "options": [
+      "The part of the mouthpiece that fits into the leadpipe",
+      "The rim",
+      "The cup",
+      "The throat"
+    ],
+    "answer": "The part of the mouthpiece that fits into the leadpipe",
+    "difficulty": "Expert"
+  },
+  {
+    "question": "In which of his major works did Gustav Holst write a famous solo for the euphonium?",
+    "options": [
+      "The Planets",
+      "First Suite in E-flat",
+      "Second Suite in F",
+      "A Moorside Suite"
+    ],
+    "answer": "The Planets",
+    "difficulty": "Expert"
+  },
+  {
+    "question": "What is the primary difference between a 'bell front' and 'upright' euphonium?",
+    "options": [
+      "The direction the bell points",
+      "The number of valves",
+      "The material they are made from",
+      "The size of the bore"
+    ],
+    "answer": "The direction the bell points",
+    "difficulty": "Expert"
+  }
+]

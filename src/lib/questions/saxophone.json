@@ -1,0 +1,1171 @@
+[
+  {
+    "question": "What family of instruments does the saxophone belong to?",
+    "options": ["Woodwind", "Brass", "Percussion", "Strings"],
+    "answer": "Woodwind",
+    "difficulty": "Easy"
+  },
+  {
+    "question": "Who invented the saxophone?",
+    "options": ["Adolphe Sax", "Antoine-Joseph Sax", "Adrien Sax", "Adam Sax"],
+    "answer": "Adolphe Sax",
+    "difficulty": "Easy"
+  },
+  {
+    "question": "What material is a saxophone primarily made of?",
+    "options": ["Brass", "Wood", "Silver", "Plastic"],
+    "answer": "Brass",
+    "difficulty": "Easy"
+  },
+  {
+    "question": "How many reeds does a saxophone use?",
+    "options": ["One", "Two", "Three", "None"],
+    "answer": "One",
+    "difficulty": "Easy"
+  },
+  {
+    "question": "Which part of the saxophone is the mouthpiece attached to?",
+    "options": ["Neck", "Body", "Bell", "Bow"],
+    "answer": "Neck",
+    "difficulty": "Easy"
+  },
+  {
+    "question": "What holds the reed onto the mouthpiece?",
+    "options": ["Ligature", "Clamp", "Strap", "Screw"],
+    "answer": "Ligature",
+    "difficulty": "Easy"
+  },
+  {
+    "question": "What is the most common type of saxophone?",
+    "options": ["Alto", "Tenor", "Soprano", "Baritone"],
+    "answer": "Alto",
+    "difficulty": "Easy"
+  },
+  {
+    "question": "What do you press to change the notes on a saxophone?",
+    "options": ["Keys", "Valves", "Slides", "Strings"],
+    "answer": "Keys",
+    "difficulty": "Easy"
+  },
+  {
+    "question": "What is the curved part at the bottom of the saxophone called?",
+    "options": ["Bow", "U-bend", "Curve", "Hook"],
+    "answer": "Bow",
+    "difficulty": "Easy"
+  },
+  {
+    "question": "What is the flared end of the saxophone called?",
+    "options": ["Bell", "Horn", "Cone", "Funnel"],
+    "answer": "Bell",
+    "difficulty": "Easy"
+  },
+  {
+    "question": "What do you use to carry a saxophone around your neck?",
+    "options": ["Neck strap", "Shoulder strap", "Harness", "Belt"],
+    "answer": "Neck strap",
+    "difficulty": "Easy"
+  },
+  {
+    "question": "What should you do with the reed before playing?",
+    "options": ["Moisten it", "Dry it", "Sand it", "Freeze it"],
+    "answer": "Moisten it",
+    "difficulty": "Easy"
+  },
+  {
+    "question": "What is the purpose of the octave key?",
+    "options": [
+      "To play notes an octave higher",
+      "To play louder",
+      "To change the key",
+      "To mute the sound"
+    ],
+    "answer": "To play notes an octave higher",
+    "difficulty": "Easy"
+  },
+  {
+    "question": "What is a common brand of saxophone?",
+    "options": ["Selmer", "Yamaha", "Jupiter", "Yanagisawa"],
+    "answer": "Selmer",
+    "difficulty": "Easy"
+  },
+  {
+    "question": "What is the name of the case that protects the saxophone?",
+    "options": ["Gig bag", "Hard case", "Flight case", "All of the above"],
+    "answer": "All of the above",
+    "difficulty": "Easy"
+  },
+  {
+    "question": "What is a musician who plays the saxophone called?",
+    "options": ["Saxophonist", "Saxophoner", "Sax-player", "Saxist"],
+    "answer": "Saxophonist",
+    "difficulty": "Easy"
+  },
+  {
+    "question": "Which type of saxophone is the smallest?",
+    "options": ["Soprano", "Alto", "Tenor", "Baritone"],
+    "answer": "Soprano",
+    "difficulty": "Easy"
+  },
+  {
+    "question": "Which type of saxophone is the largest?",
+    "options": ["Baritone", "Tenor", "Alto", "Soprano"],
+    "answer": "Baritone",
+    "difficulty": "Easy"
+  },
+  {
+    "question": "What is a 'scale' in music?",
+    "options": [
+      "A series of notes played in order",
+      "A type of rhythm",
+      "A dynamic marking",
+      "A part of the saxophone"
+    ],
+    "answer": "A series of notes played in order",
+    "difficulty": "Easy"
+  },
+  {
+    "question": "What does the marking 'p' mean in music?",
+    "options": ["Play softly", "Play loudly", "Play quickly", "Play slowly"],
+    "answer": "Play softly",
+    "difficulty": "Easy"
+  },
+  {
+    "question": "What does the marking 'f' mean in music?",
+    "options": ["Play loudly", "Play softly", "Play quickly", "Play slowly"],
+    "answer": "Play loudly",
+    "difficulty": "Easy"
+  },
+  {
+    "question": "What is the purpose of cork grease?",
+    "options": [
+      "To lubricate the neck cork",
+      "To clean the keys",
+      "To polish the body",
+      "To grease the ligature"
+    ],
+    "answer": "To lubricate the neck cork",
+    "difficulty": "Easy"
+  },
+  {
+    "question": "What is the name of the tool used to clean the inside of a saxophone?",
+    "options": ["Swab", "Brush", "Rod", "Cloth"],
+    "answer": "Swab",
+    "difficulty": "Easy"
+  },
+  {
+    "question": "True or False: The saxophone is a transposing instrument.",
+    "options": ["True", "False"],
+    "answer": "True",
+    "difficulty": "Easy"
+  },
+  {
+    "question": "What is the key of an alto saxophone?",
+    "options": ["E-flat", "B-flat", "C", "F"],
+    "answer": "E-flat",
+    "difficulty": "Easy"
+  },
+  {
+    "question": "What is the key of a tenor saxophone?",
+    "options": ["B-flat", "E-flat", "C", "F"],
+    "answer": "B-flat",
+    "difficulty": "Easy"
+  },
+  {
+    "question": "What is a 'rest' in music?",
+    "options": [
+      "A period of silence",
+      "A very long note",
+      "A very loud note",
+      "A type of scale"
+    ],
+    "answer": "A period of silence",
+    "difficulty": "Easy"
+  },
+  {
+    "question": "What does a sharp sign (#) do to a note?",
+    "options": [
+      "Raises it by a half step",
+      "Lowers it by a half step",
+      "Makes it longer",
+      "Makes it shorter"
+    ],
+    "answer": "Raises it by a half step",
+    "difficulty": "Easy"
+  },
+  {
+    "question": "What does a flat sign (b) do to a note?",
+    "options": [
+      "Lowers it by a half step",
+      "Raises it by a half step",
+      "Makes it longer",
+      "Makes it shorter"
+    ],
+    "answer": "Lowers it by a half step",
+    "difficulty": "Easy"
+  },
+  {
+    "question": "What is the name of the five lines that music is written on?",
+    "options": ["Staff", "Grid", "Ledger", "Lines"],
+    "answer": "Staff",
+    "difficulty": "Easy"
+  },
+  {
+    "question": "What is the typical written range of an alto saxophone?",
+    "options": [
+      "B-flat below the staff to F-sharp above the staff",
+      "C below the staff to G above the staff",
+      "A below the staff to E above the staff",
+      "D below the staff to A above the staff"
+    ],
+    "answer": "B-flat below the staff to F-sharp above the staff",
+    "difficulty": "Medium"
+  },
+  {
+    "question": "What is 'embouchure'?",
+    "options": [
+      "The way a player forms their mouth on the mouthpiece",
+      "The brand of the saxophone",
+      "The type of ligature",
+      "The player's posture"
+    ],
+    "answer": "The way a player forms their mouth on the mouthpiece",
+    "difficulty": "Medium"
+  },
+  {
+    "question": "Which famous jazz saxophonist was nicknamed 'Bird'?",
+    "options": [
+      "Charlie Parker",
+      "John Coltrane",
+      "Lester Young",
+      "Coleman Hawkins"
+    ],
+    "answer": "Charlie Parker",
+    "difficulty": "Medium"
+  },
+  {
+    "question": "What does the term 'intonation' mean?",
+    "options": [
+      "Playing in tune",
+      "Playing with good tone",
+      "Playing with good rhythm",
+      "Playing very loudly"
+    ],
+    "answer": "Playing in tune",
+    "difficulty": "Medium"
+  },
+  {
+    "question": "What is the difference between a straight and a curved soprano saxophone?",
+    "options": [
+      "The shape of the body",
+      "The key they are in",
+      "The number of keys",
+      "The material they are made of"
+    ],
+    "answer": "The shape of the body",
+    "difficulty": "Medium"
+  },
+  {
+    "question": "What is a 'growl' on the saxophone?",
+    "options": [
+      "A raspy sound created by humming or gargling while playing",
+      "A mistake",
+      "A type of mute",
+      "A very low note"
+    ],
+    "answer": "A raspy sound created by humming or gargling while playing",
+    "difficulty": "Medium"
+  },
+  {
+    "question": "What is the purpose of the 'spit valve' or 'water key'?",
+    "options": [
+      "To release condensation from the instrument",
+      "To change the pitch",
+      "To mute the sound",
+      "To clean the instrument"
+    ],
+    "answer": "To release condensation from the instrument",
+    "difficulty": "Medium"
+  },
+  {
+    "question": "What is the name of the classical saxophone quartet that is considered the first of its kind?",
+    "options": [
+      "The Raschèr Saxophone Quartet",
+      "The Habanera Quartet",
+      "The Aurelia Saxophone Quartet",
+      "The Prism Quartet"
+    ],
+    "answer": "The Raschèr Saxophone Quartet",
+    "difficulty": "Medium"
+  },
+  {
+    "question": "What does 'subtone' mean?",
+    "options": [
+      "A quiet, breathy tone",
+      "A very loud tone",
+      "A tone with vibrato",
+      "A tone with a growl"
+    ],
+    "answer": "A quiet, breathy tone",
+    "difficulty": "Medium"
+  },
+  {
+    "question": "What is the 'altissimo' register?",
+    "options": [
+      "The highest notes on the saxophone, above the normal range",
+      "The lowest notes",
+      "The middle range",
+      "The quietest notes"
+    ],
+    "answer": "The highest notes on the saxophone, above the normal range",
+    "difficulty": "Medium"
+  },
+  {
+    "question": "Which of these is a famous saxophone mouthpiece maker?",
+    "options": ["Otto Link", "Bach", "Schilke", "Denis Wick"],
+    "answer": "Otto Link",
+    "difficulty": "Medium"
+  },
+  {
+    "question": "What is the difference between a 'student' and 'professional' model saxophone?",
+    "options": [
+      "The quality of materials and craftsmanship",
+      "The number of keys",
+      "The size",
+      "The color"
+    ],
+    "answer": "The quality of materials and craftsmanship",
+    "difficulty": "Medium"
+  },
+  {
+    "question": "What is a 'trill'?",
+    "options": [
+      "A rapid alternation between two notes",
+      "A long, sustained note",
+      "A short, detached note",
+      "A sliding between notes"
+    ],
+    "answer": "A rapid alternation between two notes",
+    "difficulty": "Medium"
+  },
+  {
+    "question": "What is the role of the 'resonators' on the pads?",
+    "options": [
+      "To reflect sound and brighten the tone",
+      "To seal the tone holes",
+      "To make the keys quieter",
+      "To absorb moisture"
+    ],
+    "answer": "To reflect sound and brighten the tone",
+    "difficulty": "Medium"
+  },
+  {
+    "question": "What is a 'lick' in jazz music?",
+    "options": [
+      "A short, melodic phrase",
+      "A mistake",
+      "A type of scale",
+      "A long solo"
+    ],
+    "answer": "A short, melodic phrase",
+    "difficulty": "Medium"
+  },
+  {
+    "question": "What does 'swing' mean in jazz?",
+    "options": [
+      "A rhythmic feel where eighth notes are played unevenly",
+      "Playing very fast",
+      "Playing very slow",
+      "Playing with a lot of vibrato"
+    ],
+    "answer": "A rhythmic feel where eighth notes are played unevenly",
+    "difficulty": "Medium"
+  },
+  {
+    "question": "What is the purpose of the 'high F#' key?",
+    "options": [
+      "To play the note high F#",
+      "To play low F#",
+      "To trill F#",
+      "To adjust the pitch of F#"
+    ],
+    "answer": "To play the note high F#",
+    "difficulty": "Medium"
+  },
+  {
+    "question": "What is a 'standard' in jazz?",
+    "options": [
+      "A well-known song that is commonly played by jazz musicians",
+      "A type of saxophone",
+      "A specific rhythm",
+      "A brand of mouthpiece"
+    ],
+    "answer": "A well-known song that is commonly played by jazz musicians",
+    "difficulty": "Medium"
+  },
+  {
+    "question": "What is the 'bell brace'?",
+    "options": [
+      "A piece of metal that connects the bell to the body for support",
+      "A strap for the bell",
+      "A mute for the bell",
+      "A decorative ring on the bell"
+    ],
+    "answer": "A piece of metal that connects the bell to the body for support",
+    "difficulty": "Medium"
+  },
+  {
+    "question": "What is 'articulation'?",
+    "options": [
+      "The way notes are started and separated",
+      "The volume of the notes",
+      "The pitch of the notes",
+      "The speed of the notes"
+    ],
+    "answer": "The way notes are started and separated",
+    "difficulty": "Medium"
+  },
+  {
+    "question": "What is the difference between a 'hard' and 'soft' reed?",
+    "options": [
+      "The thickness and resistance of the cane",
+      "The color of the reed",
+      "The brand of the reed",
+      "The shape of the reed"
+    ],
+    "answer": "The thickness and resistance of the cane",
+    "difficulty": "Medium"
+  },
+  {
+    "question": "What is a 'solo break' in a jazz tune?",
+    "options": [
+      "A short section where the soloist plays unaccompanied",
+      "When the soloist stops playing",
+      "When the whole band stops playing",
+      "A very fast solo"
+    ],
+    "answer": "A short section where the soloist plays unaccompanied",
+    "difficulty": "Medium"
+  },
+  {
+    "question": "What is the 'bow' of the saxophone?",
+    "options": [
+      "The U-shaped tube at the bottom connecting the body to the bell",
+      "The neck of the saxophone",
+      "The bell of the saxophone",
+      "The mouthpiece"
+    ],
+    "answer": "The U-shaped tube at the bottom connecting the body to the bell",
+    "difficulty": "Medium"
+  },
+  {
+    "question": "What is a 'whole note'?",
+    "options": [
+      "A note that lasts for four beats in 4/4 time",
+      "A note that lasts for one beat",
+      "A note that lasts for two beats",
+      "A note that lasts for a half beat"
+    ],
+    "answer": "A note that lasts for four beats in 4/4 time",
+    "difficulty": "Medium"
+  },
+  {
+    "question": "What is a 'half note'?",
+    "options": [
+      "A note that lasts for two beats in 4/4 time",
+      "A note that lasts for one beat",
+      "A note that lasts for four beats",
+      "A note that lasts for a half beat"
+    ],
+    "answer": "A note that lasts for two beats in 4/4 time",
+    "difficulty": "Medium"
+  },
+  {
+    "question": "What is a 'quarter note'?",
+    "options": [
+      "A note that lasts for one beat in 4/4 time",
+      "A note that lasts for two beats",
+      "A note that lasts for four beats",
+      "A note that lasts for a half beat"
+    ],
+    "answer": "A note that lasts for one beat in 4/4 time",
+    "difficulty": "Medium"
+  },
+  {
+    "question": "What is an 'eighth note'?",
+    "options": [
+      "A note that lasts for half a beat in 4/4 time",
+      "A note that lasts for one beat",
+      "A note that lasts for two beats",
+      "A note that lasts for four beats"
+    ],
+    "answer": "A note that lasts for half a beat in 4/4 time",
+    "difficulty": "Medium"
+  },
+  {
+    "question": "What is 'vibrato'?",
+    "options": [
+      "A slight, regular pulsation of pitch",
+      "Playing very loudly",
+      "Playing very softly",
+      "Playing very fast"
+    ],
+    "answer": "A slight, regular pulsation of pitch",
+    "difficulty": "Medium"
+  },
+  {
+    "question": "What is the name of the famous saxophone solo in the song 'Baker Street'?",
+    "options": [
+      "Raphael Ravenscroft",
+      "Gerry Rafferty",
+      "Kenny G",
+      "David Sanborn"
+    ],
+    "answer": "Raphael Ravenscroft",
+    "difficulty": "Medium"
+  },
+  {
+    "question": "What is the 'break' on a saxophone?",
+    "options": [
+      "The transition between the first and second octave",
+      "A crack in the instrument",
+      "A rest in the music",
+      "A type of articulation"
+    ],
+    "answer": "The transition between the first and second octave",
+    "difficulty": "Medium"
+  },
+  {
+    "question": "What is the 'Coltrane changes' or 'Coltrane matrix'?",
+    "options": [
+      "A harmonic progression using substitute chords over common jazz chord progressions",
+      "A way of playing very fast",
+      "A type of saxophone",
+      "A brand of reeds"
+    ],
+    "answer": "A harmonic progression using substitute chords over common jazz chord progressions",
+    "difficulty": "Hard"
+  },
+  {
+    "question": "What is 'circular breathing'?",
+    "options": [
+      "A technique to produce a continuous tone without interruption by breathing in through the nose while pushing air out with the cheeks",
+      "A breathing exercise",
+      "A mistake in breathing",
+      "A way to play very loudly"
+    ],
+    "answer": "A technique to produce a continuous tone without interruption by breathing in through the nose while pushing air out with the cheeks",
+    "difficulty": "Hard"
+  },
+  {
+    "question": "Who is considered the 'father' of the classical saxophone?",
+    "options": [
+      "Marcel Mule",
+      "Sigurd Raschèr",
+      "Jean-Marie Londeix",
+      "Eugene Rousseau"
+    ],
+    "answer": "Marcel Mule",
+    "difficulty": "Hard"
+  },
+  {
+    "question": "What is the 'overtone series'?",
+    "options": [
+      "A series of naturally occurring higher pitches that sound above a fundamental note",
+      "A type of scale",
+      "A method book",
+      "A brand of saxophone"
+    ],
+    "answer": "A series of naturally occurring higher pitches that sound above a fundamental note",
+    "difficulty": "Hard"
+  },
+  {
+    "question": "What is a 'key clamp' used for?",
+    "options": [
+      "To keep the keys closed during shipping or storage to protect the pads",
+      "To hold the music",
+      "To repair a key",
+      "To clean a key"
+    ],
+    "answer": "To keep the keys closed during shipping or storage to protect the pads",
+    "difficulty": "Hard"
+  },
+  {
+    "question": "What is the difference between 'lacquer' and 'plating' on a saxophone?",
+    "options": [
+      "Lacquer is a coating, plating is a layer of metal like silver or gold",
+      "Lacquer is for student models, plating is for professional models",
+      "There is no difference",
+      "Lacquer is heavier than plating"
+    ],
+    "answer": "Lacquer is a coating, plating is a layer of metal like silver or gold",
+    "difficulty": "Hard"
+  },
+  {
+    "question": "What is a 'leak light' used for?",
+    "options": [
+      "To find leaks in the pads by inserting it into the saxophone body",
+      "A light for the music stand",
+      "A light inside the case",
+      "A decorative light"
+    ],
+    "answer": "To find leaks in the pads by inserting it into the saxophone body",
+    "difficulty": "Hard"
+  },
+  {
+    "question": "What is the 'palm keys'?",
+    "options": [
+      "The keys played with the palm of the left hand for the highest notes",
+      "The keys played with the right hand",
+      "The keys on the bell",
+      "The keys on the bow"
+    ],
+    "answer": "The keys played with the palm of the left hand for the highest notes",
+    "difficulty": "Hard"
+  },
+  {
+    "question": "What is a 'stacked' fingering?",
+    "options": [
+      "A fingering where the keys are pressed in a row, like for D, E, F#",
+      "A fingering for altissimo notes",
+      "A fingering for low notes",
+      "An alternate fingering"
+    ],
+    "answer": "A fingering where the keys are pressed in a row, like for D, E, F#",
+    "difficulty": "Hard"
+  },
+  {
+    "question": "What is the 'table' of a mouthpiece?",
+    "options": [
+      "The flat part of the mouthpiece where the reed sits",
+      "The tip of the mouthpiece",
+      "The inside of the mouthpiece",
+      "The part that goes in the mouth"
+    ],
+    "answer": "The flat part of the mouthpiece where the reed sits",
+    "difficulty": "Hard"
+  },
+  {
+    "question": "What is a 'tip opening' on a mouthpiece?",
+    "options": [
+      "The distance between the tip of the reed and the tip of the mouthpiece",
+      "The opening at the end of the mouthpiece",
+      "The size of the chamber",
+      "The length of the facing curve"
+    ],
+    "answer": "The distance between the tip of the reed and the tip of the mouthpiece",
+    "difficulty": "Hard"
+  },
+  {
+    "question": "What is a 'facing curve' on a mouthpiece?",
+    "options": [
+      "The curve from the table to the tip of the mouthpiece",
+      "The curve of the baffle",
+      "The curve of the chamber",
+      "The curve of the beak"
+    ],
+    "answer": "The curve from the table to the tip of the mouthpiece",
+    "difficulty": "Hard"
+  },
+  {
+    "question": "What is a 'baffle' in a mouthpiece?",
+    "options": [
+      "The part of the mouthpiece just inside the tip opening that the air strikes first",
+      "The chamber of the mouthpiece",
+      "The table of the mouthpiece",
+      "The shank of the mouthpiece"
+    ],
+    "answer": "The part of the mouthpiece just inside the tip opening that the air strikes first",
+    "difficulty": "Hard"
+  },
+  {
+    "question": "What is a 'chamber' in a mouthpiece?",
+    "options": [
+      "The hollow space inside the mouthpiece",
+      "The opening at the tip",
+      "The baffle",
+      "The table"
+    ],
+    "answer": "The hollow space inside the mouthpiece",
+    "difficulty": "Hard"
+  },
+  {
+    "question": "What is a 'rollover baffle'?",
+    "options": [
+      "A baffle that is rounded or curved",
+      "A baffle that is flat",
+      "A baffle that is very high",
+      "A baffle that is very low"
+    ],
+    "answer": "A baffle that is rounded or curved",
+    "difficulty": "Hard"
+  },
+  {
+    "question": "What is a 'step baffle'?",
+    "options": [
+      "A baffle that has a sharp drop-off",
+      "A baffle that is rounded",
+      "A baffle that is flat",
+      "A baffle that is very low"
+    ],
+    "answer": "A baffle that has a sharp drop-off",
+    "difficulty": "Hard"
+  },
+  {
+    "question": "What is a 'straight baffle'?",
+    "options": [
+      "A baffle that is flat or has a very gentle slope",
+      "A baffle that is rounded",
+      "A baffle that has a sharp drop-off",
+      "A baffle that is very high"
+    ],
+    "answer": "A baffle that is flat or has a very gentle slope",
+    "difficulty": "Hard"
+  },
+  {
+    "question": "What is the effect of a 'high baffle' on the sound?",
+    "options": [
+      "Brighter, more cutting tone",
+      "Darker, warmer tone",
+      "Softer, breathier tone",
+      "Louder, more aggressive tone"
+    ],
+    "answer": "Brighter, more cutting tone",
+    "difficulty": "Hard"
+  },
+  {
+    "question": "What is the effect of a 'low baffle' on the sound?",
+    "options": [
+      "Darker, warmer tone",
+      "Brighter, more cutting tone",
+      "Softer, breathier tone",
+      "Louder, more aggressive tone"
+    ],
+    "answer": "Darker, warmer tone",
+    "difficulty": "Hard"
+  },
+  {
+    "question": "What is the effect of a 'large chamber' on the sound?",
+    "options": [
+      "Darker, more spread tone",
+      "Brighter, more focused tone",
+      "Softer, breathier tone",
+      "Louder, more aggressive tone"
+    ],
+    "answer": "Darker, more spread tone",
+    "difficulty": "Hard"
+  },
+  {
+    "question": "What is the effect of a 'small chamber' on the sound?",
+    "options": [
+      "Brighter, more focused tone",
+      "Darker, more spread tone",
+      "Softer, breathier tone",
+      "Louder, more aggressive tone"
+    ],
+    "answer": "Brighter, more focused tone",
+    "difficulty": "Hard"
+  },
+  {
+    "question": "What is a 'refacing' a mouthpiece?",
+    "options": [
+      "Altering the facing curve and other parts of the mouthpiece to change its playing characteristics",
+      "Cleaning the mouthpiece",
+      "Polishing the mouthpiece",
+      "Replacing the mouthpiece"
+    ],
+    "answer": "Altering the facing curve and other parts of the mouthpiece to change its playing characteristics",
+    "difficulty": "Hard"
+  },
+  {
+    "question": "What is the 'harmonic' or 'overtone' fingering for high notes?",
+    "options": [
+      "Using a low note fingering and adjusting the embouchure to produce a higher harmonic",
+      "Using the palm keys",
+      "Using the side keys",
+      "Using the front F key"
+    ],
+    "answer": "Using a low note fingering and adjusting the embouchure to produce a higher harmonic",
+    "difficulty": "Hard"
+  },
+  {
+    "question": "What is the 'bis key'?",
+    "options": [
+      "An alternate fingering for B-flat using a key between the A and B keys",
+      "A key for playing high B-flat",
+      "A key for playing low B-flat",
+      "A trill key for B-flat"
+    ],
+    "answer": "An alternate fingering for B-flat using a key between the A and B keys",
+    "difficulty": "Hard"
+  },
+  {
+    "question": "What is the 'front F' key?",
+    "options": [
+      "An alternate fingering for high F",
+      "A key for playing low F",
+      "A trill key for F",
+      "A key for adjusting the pitch of F"
+    ],
+    "answer": "An alternate fingering for high F",
+    "difficulty": "Hard"
+  },
+  {
+    "question": "What is the 'side C' key?",
+    "options": [
+      "An alternate fingering for middle C",
+      "A key for playing high C",
+      "A key for playing low C",
+      "A trill key for C"
+    ],
+    "answer": "An alternate fingering for middle C",
+    "difficulty": "Hard"
+  },
+  {
+    "question": "What is the 'low C#' key?",
+    "options": [
+      "A key played with the left pinky to produce low C#",
+      "A key for high C#",
+      "A trill key for C#",
+      "An alternate fingering for C#"
+    ],
+    "answer": "A key played with the left pinky to produce low C#",
+    "difficulty": "Hard"
+  },
+  {
+    "question": "What is the 'low B' key?",
+    "options": [
+      "A key played with the left pinky to produce low B",
+      "A key for high B",
+      "A trill key for B",
+      "An alternate fingering for B"
+    ],
+    "answer": "A key played with the left pinky to produce low B",
+    "difficulty": "Hard"
+  },
+  {
+    "question": "What is the 'low B-flat' key?",
+    "options": [
+      "A key played with the left pinky to produce low B-flat",
+      "A key for high B-flat",
+      "A trill key for B-flat",
+      "An alternate fingering for B-flat"
+    ],
+    "answer": "A key played with the left pinky to produce low B-flat",
+    "difficulty": "Hard"
+  },
+  {
+    "question": "What is the 'Lydian Chromatic Concept of Tonal Organization,' a complex improvisational theory heavily associated with a famous jazz saxophonist?",
+    "options": [
+      "George Russell's theory",
+      "John Coltrane's 'sheets of sound'",
+      "Ornette Coleman's 'harmolodics'",
+      "David Liebman's 'chromatic approach'"
+    ],
+    "answer": "George Russell's theory",
+    "difficulty": "Expert"
+  },
+  {
+    "question": "The original 1846 patent for the saxophone family included 14 different members. Which of these was NOT part of the original patent?",
+    "options": [
+      "Sopranino saxophone",
+      "Contrabass saxophone",
+      "C melody saxophone",
+      "F baritone saxophone"
+    ],
+    "answer": "Sopranino saxophone",
+    "difficulty": "Expert"
+  },
+  {
+    "question": "What is the term for the technique of producing two or more notes simultaneously on a saxophone, often by using unconventional fingerings and embouchure adjustments?",
+    "options": ["Multiphonics", "Altissimo", "Subtone", "Growling"],
+    "answer": "Multiphonics",
+    "difficulty": "Expert"
+  },
+  {
+    "question": "Which 20th-century classical composer wrote a significant 'Concerto for Alto Saxophone and String Orchestra' in 1949?",
+    "options": [
+      "Alexander Glazunov",
+      "Jacques Ibert",
+      "Paul Creston",
+      "Ingolf Dahl"
+    ],
+    "answer": "Alexander Glazunov",
+    "difficulty": "Expert"
+  },
+  {
+    "question": "What does the term 'baffle' refer to in a saxophone mouthpiece?",
+    "options": [
+      "The surface inside the mouthpiece that the airstream hits, affecting brightness",
+      "The opening at the tip of the mouthpiece",
+      "The chamber size of the mouthpiece",
+      "The material the mouthpiece is made from"
+    ],
+    "answer": "The surface inside the mouthpiece that the airstream hits, affecting brightness",
+    "difficulty": "Expert"
+  },
+  {
+    "question": "Who is credited with pioneering the 'sheets of sound' improvisational style on the tenor saxophone?",
+    "options": [
+      "John Coltrane",
+      "Sonny Rollins",
+      "Lester Young",
+      "Coleman Hawkins"
+    ],
+    "answer": "John Coltrane",
+    "difficulty": "Expert"
+  },
+  {
+    "question": "What is the 'bis key' on a saxophone?",
+    "options": [
+      "An alternate fingering for B-flat, played with the first finger of the left hand",
+      "A key for playing in the altissimo register",
+      "A key that is only present on baritone saxophones",
+      "A key for producing multiphonics"
+    ],
+    "answer": "An alternate fingering for B-flat, played with the first finger of the left hand",
+    "difficulty": "Expert"
+  },
+  {
+    "question": "The 'Top Tones for the Saxophone' method book, essential for altissimo playing, was written by whom?",
+    "options": [
+      "Sigurd Raschèr",
+      "Marcel Mule",
+      "Eugene Rousseau",
+      "Larry Teal"
+    ],
+    "answer": "Sigurd Raschèr",
+    "difficulty": "Expert"
+  },
+  {
+    "question": "What is a 'C-melody' saxophone?",
+    "options": [
+      "A saxophone pitched in the key of C, which does not require transposition",
+      "A saxophone made of cedar wood",
+      "A type of soprano saxophone",
+      "A saxophone with a curved bell"
+    ],
+    "answer": "A saxophone pitched in the key of C, which does not require transposition",
+    "difficulty": "Expert"
+  },
+  {
+    "question": "Which part of the saxophone's construction has the most significant influence on its overall timbre?",
+    "options": [
+      "The mouthpiece and reed combination",
+      "The lacquer or finish",
+      "The material of the neck",
+      "The shape of the bow"
+    ],
+    "answer": "The mouthpiece and reed combination",
+    "difficulty": "Expert"
+  },
+  {
+    "question": "What is 'slap tonguing'?",
+    "options": [
+      "A percussive articulation technique creating a 'popping' sound",
+      "A very fast style of tonguing",
+      "A mistake in articulation",
+      "A way of playing without the tongue"
+    ],
+    "answer": "A percussive articulation technique creating a 'popping' sound",
+    "difficulty": "Expert"
+  },
+  {
+    "question": "In a standard big band, how many saxophones are typically in the saxophone section?",
+    "options": [
+      "Five (two altos, two tenors, one baritone)",
+      "Four (one of each type)",
+      "Six (two of each main type)",
+      "Three (alto, tenor, baritone)"
+    ],
+    "answer": "Five (two altos, two tenors, one baritone)",
+    "difficulty": "Expert"
+  },
+  {
+    "question": "What is the purpose of the 'low A' key on a baritone saxophone?",
+    "options": [
+      "To extend the range of the instrument down to a low A",
+      "To improve the intonation of low C",
+      "To facilitate altissimo playing",
+      "To provide an alternate fingering for B-flat"
+    ],
+    "answer": "To extend the range of the instrument down to a low A",
+    "difficulty": "Expert"
+  },
+  {
+    "question": "Which jazz saxophonist was known as 'Pres' or 'Prez' and was a major influence on Charlie Parker?",
+    "options": [
+      "Lester Young",
+      "Coleman Hawkins",
+      "Ben Webster",
+      "Johnny Hodges"
+    ],
+    "answer": "Lester Young",
+    "difficulty": "Expert"
+  },
+  {
+    "question": "What is the 'facing curve' of a saxophone mouthpiece?",
+    "options": [
+      "The length and shape of the opening between the reed and the mouthpiece tip",
+      "The angle of the baffle",
+      "The size of the chamber",
+      "The material of the mouthpiece"
+    ],
+    "answer": "The length and shape of the opening between the reed and the mouthpiece tip",
+    "difficulty": "Expert"
+  },
+  {
+    "question": "The 'Ferling Etudes,' a staple for saxophonists, were originally written for which instrument?",
+    "options": ["Oboe", "Clarinet", "Flute", "Bassoon"],
+    "answer": "Oboe",
+    "difficulty": "Expert"
+  },
+  {
+    "question": "What is the primary material used for the pads on a professional saxophone?",
+    "options": [
+      "Leather with a metal or plastic resonator",
+      "Cork",
+      "Felt",
+      "Rubber"
+    ],
+    "answer": "Leather with a metal or plastic resonator",
+    "difficulty": "Expert"
+  },
+  {
+    "question": "Which composer wrote 'Scaramouche' for alto saxophone and piano (or orchestra)?",
+    "options": [
+      "Darius Milhaud",
+      "Jacques Ibert",
+      "Claude Debussy",
+      "Maurice Ravel"
+    ],
+    "answer": "Darius Milhaud",
+    "difficulty": "Expert"
+  },
+  {
+    "question": "What is the function of the 'front F' key on a saxophone?",
+    "options": [
+      "An alternate or auxiliary fingering for high F",
+      "A key for playing low F",
+      "A key for trilling",
+      "A key for adjusting intonation"
+    ],
+    "answer": "An alternate or auxiliary fingering for high F",
+    "difficulty": "Expert"
+  },
+  {
+    "question": "What is a 'double-tonguing' technique on the saxophone?",
+    "options": [
+      "Using syllables like 'tuh-kuh' to articulate rapid passages",
+      "Using two reeds at once",
+      "A technique for playing two notes at once",
+      "A specific type of mouthpiece"
+    ],
+    "answer": "Using syllables like 'tuh-kuh' to articulate rapid passages",
+    "difficulty": "Expert"
+  },
+  {
+    "question": "Which contemporary saxophonist is known for his work with the 'Flecktones' and use of electronic effects?",
+    "options": [
+      "Jeff Coffin",
+      "Chris Potter",
+      "Joshua Redman",
+      "Kenny Garrett"
+    ],
+    "answer": "Jeff Coffin",
+    "difficulty": "Expert"
+  },
+  {
+    "question": "What is the 'side C' key on a saxophone used for?",
+    "options": [
+      "An alternate fingering for middle C",
+      "A key for playing high C",
+      "A key for trilling",
+      "A key for adjusting intonation"
+    ],
+    "answer": "An alternate fingering for middle C",
+    "difficulty": "Expert"
+  },
+  {
+    "question": "The saxophone is a transposing instrument. If an alto saxophone plays a written C, what note sounds at concert pitch?",
+    "options": ["E-flat", "C", "B-flat", "A"],
+    "answer": "E-flat",
+    "difficulty": "Expert"
+  },
+  {
+    "question": "What is the 'lyre holder' on a saxophone?",
+    "options": [
+      "A small box used to attach a music lyre for marching band",
+      "A part of the neck strap",
+      "A tool for repair",
+      "A part of the case"
+    ],
+    "answer": "A small box used to attach a music lyre for marching band",
+    "difficulty": "Expert"
+  },
+  {
+    "question": "Which of these is a type of saxophone not commonly found in a modern ensemble?",
+    "options": [
+      "Sopranino saxophone",
+      "Soprano saxophone",
+      "Alto saxophone",
+      "Tenor saxophone"
+    ],
+    "answer": "Sopranino saxophone",
+    "difficulty": "Expert"
+  },
+  {
+    "question": "What is the 'chamber' of a saxophone mouthpiece?",
+    "options": [
+      "The interior space of the mouthpiece, which affects the tone",
+      "The opening at the tip",
+      "The baffle",
+      "The shank"
+    ],
+    "answer": "The interior space of the mouthpiece, which affects the tone",
+    "difficulty": "Expert"
+  },
+  {
+    "question": "Who was the first professor of saxophone at the Paris Conservatory?",
+    "options": [
+      "Adolphe Sax",
+      "Marcel Mule",
+      "Jean-Marie Londeix",
+      "Eugene Rousseau"
+    ],
+    "answer": "Adolphe Sax",
+    "difficulty": "Expert"
+  },
+  {
+    "question": "What is the 'neck tenon' on a saxophone?",
+    "options": [
+      "The part of the neck that inserts into the body of the saxophone",
+      "The screw that tightens the neck",
+      "The octave key mechanism",
+      "The cork on the end of the neck"
+    ],
+    "answer": "The part of the neck that inserts into the body of the saxophone",
+    "difficulty": "Expert"
+  },
+  {
+    "question": "In which of his orchestral works did Ravel include a famous solo for the alto saxophone?",
+    "options": [
+      "Boléro",
+      "Daphnis et Chloé",
+      "La Valse",
+      "Le Tombeau de Couperin"
+    ],
+    "answer": "Boléro",
+    "difficulty": "Expert"
+  },
+  {
+    "question": "What is the primary difference between a classical and a jazz saxophone setup (mouthpiece and reed)?",
+    "options": [
+      "Classical setups typically have a smaller tip opening and harder reed for a darker, more controlled tone",
+      "Jazz setups use metal mouthpieces exclusively",
+      "Classical setups use synthetic reeds",
+      "There is no significant difference"
+    ],
+    "answer": "Classical setups typically have a smaller tip opening and harder reed for a darker, more controlled tone",
+    "difficulty": "Expert"
+  }
+]

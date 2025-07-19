@@ -1,0 +1,1185 @@
+[
+  {
+    "question": "What family of instruments does the trombone belong to?",
+    "options": ["Brass", "Woodwind", "Percussion", "Strings"],
+    "answer": "Brass",
+    "difficulty": "Easy"
+  },
+  {
+    "question": "How do you change notes on a trombone?",
+    "options": [
+      "By moving the slide",
+      "By pressing valves",
+      "By pressing keys",
+      "By changing strings"
+    ],
+    "answer": "By moving the slide",
+    "difficulty": "Easy"
+  },
+  {
+    "question": "What is the long, U-shaped tube on a trombone called?",
+    "options": ["Slide", "Bell", "Leadpipe", "Tuning slide"],
+    "answer": "Slide",
+    "difficulty": "Easy"
+  },
+  {
+    "question": "What part of the trombone do you buzz your lips into?",
+    "options": ["Mouthpiece", "Bell", "Slide", "Water key"],
+    "answer": "Mouthpiece",
+    "difficulty": "Easy"
+  },
+  {
+    "question": "What is the flared end of the trombone called?",
+    "options": ["Bell", "Horn", "Cone", "Funnel"],
+    "answer": "Bell",
+    "difficulty": "Easy"
+  },
+  {
+    "question": "How many main slide positions are there on a trombone?",
+    "options": ["Seven", "Six", "Eight", "Five"],
+    "answer": "Seven",
+    "difficulty": "Easy"
+  },
+  {
+    "question": "What is a musician who plays the trombone called?",
+    "options": ["Trombonist", "Tromboner", "Trombone-player", "Slider"],
+    "answer": "Trombonist",
+    "difficulty": "Easy"
+  },
+  {
+    "question": "What is the purpose of the 'water key' or 'spit valve'?",
+    "options": [
+      "To release condensation",
+      "To lubricate the slide",
+      "To change the pitch",
+      "To mute the sound"
+    ],
+    "answer": "To release condensation",
+    "difficulty": "Easy"
+  },
+  {
+    "question": "What is the most common type of trombone?",
+    "options": [
+      "Tenor trombone",
+      "Bass trombone",
+      "Alto trombone",
+      "Soprano trombone"
+    ],
+    "answer": "Tenor trombone",
+    "difficulty": "Easy"
+  },
+  {
+    "question": "What should you use to lubricate the trombone slide?",
+    "options": ["Slide cream or oil", "Valve oil", "Water", "Grease"],
+    "answer": "Slide cream or oil",
+    "difficulty": "Easy"
+  },
+  {
+    "question": "What is a 'mute' used for?",
+    "options": [
+      "To change the sound of the trombone",
+      "To make the trombone louder",
+      "To clean the trombone",
+      "To hold the trombone"
+    ],
+    "answer": "To change the sound of the trombone",
+    "difficulty": "Easy"
+  },
+  {
+    "question": "What is the name of the tube that connects the mouthpiece to the main body?",
+    "options": ["Leadpipe", "Bell pipe", "Slide pipe", "Mouth pipe"],
+    "answer": "Leadpipe",
+    "difficulty": "Easy"
+  },
+  {
+    "question": "True or False: The trombone is a transposing instrument.",
+    "options": ["False", "True"],
+    "answer": "False",
+    "difficulty": "Easy"
+  },
+  {
+    "question": "What is a common brand of trombone?",
+    "options": ["Conn", "Bach", "Yamaha", "King"],
+    "answer": "Conn",
+    "difficulty": "Easy"
+  },
+  {
+    "question": "What is a 'scale' in music?",
+    "options": [
+      "A series of notes played in order",
+      "A type of rhythm",
+      "A dynamic marking",
+      "A part of the trombone"
+    ],
+    "answer": "A series of notes played in order",
+    "difficulty": "Easy"
+  },
+  {
+    "question": "What does the marking 'p' mean in music?",
+    "options": ["Play softly", "Play loudly", "Play quickly", "Play slowly"],
+    "answer": "Play softly",
+    "difficulty": "Easy"
+  },
+  {
+    "question": "What does the marking 'f' mean in music?",
+    "options": ["Play loudly", "Play softly", "Play quickly", "Play slowly"],
+    "answer": "Play loudly",
+    "difficulty": "Easy"
+  },
+  {
+    "question": "How do you produce a sound on a brass instrument?",
+    "options": [
+      "By buzzing your lips",
+      "By blowing air",
+      "By pressing keys",
+      "By hitting it"
+    ],
+    "answer": "By buzzing your lips",
+    "difficulty": "Easy"
+  },
+  {
+    "question": "What is the name of the case that protects the trombone?",
+    "options": ["Hard case", "Gig bag", "Flight case", "All of the above"],
+    "answer": "All of the above",
+    "difficulty": "Easy"
+  },
+  {
+    "question": "What is a 'rest' in music?",
+    "options": [
+      "A period of silence",
+      "A very long note",
+      "A very loud note",
+      "A type of scale"
+    ],
+    "answer": "A period of silence",
+    "difficulty": "Easy"
+  },
+  {
+    "question": "What does a sharp sign (#) do to a note?",
+    "options": [
+      "Raises it by a half step",
+      "Lowers it by a half step",
+      "Makes it longer",
+      "Makes it shorter"
+    ],
+    "answer": "Raises it by a half step",
+    "difficulty": "Easy"
+  },
+  {
+    "question": "What does a flat sign (b) do to a note?",
+    "options": [
+      "Lowers it by a half step",
+      "Raises it by a half step",
+      "Makes it longer",
+      "Makes it shorter"
+    ],
+    "answer": "Lowers it by a half step",
+    "difficulty": "Easy"
+  },
+  {
+    "question": "What is the name of the five lines that music is written on?",
+    "options": ["Staff", "Grid", "Ledger", "Lines"],
+    "answer": "Staff",
+    "difficulty": "Easy"
+  },
+  {
+    "question": "What is the main tuning slide used for?",
+    "options": [
+      "To adjust the overall pitch of the trombone",
+      "To change individual notes",
+      "To release water",
+      "To hold the trombone"
+    ],
+    "answer": "To adjust the overall pitch of the trombone",
+    "difficulty": "Easy"
+  },
+  {
+    "question": "What is a 'lip slur'?",
+    "options": [
+      "Changing notes without using the tongue",
+      "A mistake",
+      "A type of mute",
+      "A very high note"
+    ],
+    "answer": "Changing notes without using the tongue",
+    "difficulty": "Easy"
+  },
+  {
+    "question": "What is a 'triplet'?",
+    "options": [
+      "Three notes played in the time of two",
+      "A three-note chord",
+      "A three-measure rest",
+      "A type of trombone"
+    ],
+    "answer": "Three notes played in the time of two",
+    "difficulty": "Easy"
+  },
+  {
+    "question": "What does 'a cappella' mean?",
+    "options": [
+      "Without instrumental accompaniment",
+      "With a large orchestra",
+      "Very slowly",
+      "Very loudly"
+    ],
+    "answer": "Without instrumental accompaniment",
+    "difficulty": "Easy"
+  },
+  {
+    "question": "What is a 'crescendo'?",
+    "options": [
+      "Gradually getting louder",
+      "Gradually getting softer",
+      "Gradually getting faster",
+      "Gradually getting slower"
+    ],
+    "answer": "Gradually getting louder",
+    "difficulty": "Easy"
+  },
+  {
+    "question": "What is a 'decrescendo' or 'diminuendo'?",
+    "options": [
+      "Gradually getting softer",
+      "Gradually getting louder",
+      "Gradually getting faster",
+      "Gradually getting slower"
+    ],
+    "answer": "Gradually getting softer",
+    "difficulty": "Easy"
+  },
+  {
+    "question": "What is the 'slide lock' for?",
+    "options": [
+      "To keep the slide from falling off",
+      "To change the pitch",
+      "To attach a mute",
+      "It is decorative"
+    ],
+    "answer": "To keep the slide from falling off",
+    "difficulty": "Easy"
+  },
+  {
+    "question": "What clef does the trombone primarily read in?",
+    "options": ["Bass clef", "Treble clef", "Alto clef", "Tenor clef"],
+    "answer": "Bass clef",
+    "difficulty": "Medium"
+  },
+  {
+    "question": "What is an 'F attachment' or 'trigger'?",
+    "options": [
+      "A valve that lowers the pitch of the instrument, allowing for alternate positions and a lower range",
+      "A device to attach the trombone to a stand",
+      "A special type of mute",
+      "A decorative piece"
+    ],
+    "answer": "A valve that lowers the pitch of the instrument, allowing for alternate positions and a lower range",
+    "difficulty": "Medium"
+  },
+  {
+    "question": "What is a 'glissando'?",
+    "options": [
+      "A smooth, continuous slide between notes",
+      "A short, detached note",
+      "A very loud note",
+      "A type of mute"
+    ],
+    "answer": "A smooth, continuous slide between notes",
+    "difficulty": "Medium"
+  },
+  {
+    "question": "Who was a famous big band leader known for his trombone playing?",
+    "options": [
+      "Glenn Miller",
+      "Benny Goodman",
+      "Duke Ellington",
+      "Count Basie"
+    ],
+    "answer": "Glenn Miller",
+    "difficulty": "Medium"
+  },
+  {
+    "question": "What is the difference between a 'large bore' and 'small bore' trombone?",
+    "options": [
+      "The diameter of the tubing",
+      "The length of the slide",
+      "The size of the bell",
+      "The material it is made of"
+    ],
+    "answer": "The diameter of the tubing",
+    "difficulty": "Medium"
+  },
+  {
+    "question": "What is a 'straight mute'?",
+    "options": [
+      "A cone-shaped mute that produces a buzzy, metallic sound",
+      "A mute that makes the trombone silent",
+      "A mute made of rubber",
+      "A mute that fits inside the bell"
+    ],
+    "answer": "A cone-shaped mute that produces a buzzy, metallic sound",
+    "difficulty": "Medium"
+  },
+  {
+    "question": "What is a 'cup mute'?",
+    "options": [
+      "A mute that covers the bell and produces a softer, more muffled sound",
+      "A mute shaped like a cup",
+      "A mute used for practicing quietly",
+      "A mute that makes the trombone sound like a trumpet"
+    ],
+    "answer": "A mute that covers the bell and produces a softer, more muffled sound",
+    "difficulty": "Medium"
+  },
+  {
+    "question": "What is a 'Harmon mute' or 'wah-wah mute'?",
+    "options": [
+      "A mute with a stem that can be moved to create a 'wah-wah' effect",
+      "A mute that harmonizes with the played note",
+      "A mute made by the Harmon company",
+      "A mute that makes the trombone sound like a saxophone"
+    ],
+    "answer": "A mute with a stem that can be moved to create a 'wah-wah' effect",
+    "difficulty": "Medium"
+  },
+  {
+    "question": "What is 'legato tonguing'?",
+    "options": [
+      "A very soft and smooth way of articulating notes",
+      "A very hard and accented way of tonguing",
+      "Not using the tongue at all",
+      "A mistake"
+    ],
+    "answer": "A very soft and smooth way of articulating notes",
+    "difficulty": "Medium"
+  },
+  {
+    "question": "What is the 'harmonic series'?",
+    "options": [
+      "A series of notes that can be played on a single slide position by changing lip tension",
+      "A type of scale",
+      "A method book",
+      "A brand of trombone"
+    ],
+    "answer": "A series of notes that can be played on a single slide position by changing lip tension",
+    "difficulty": "Medium"
+  },
+  {
+    "question": "What is a 'pedal tone'?",
+    "options": [
+      "The lowest note in the harmonic series for a given slide position",
+      "A note played with a foot pedal",
+      "A very quiet note",
+      "A note played with a special mute"
+    ],
+    "answer": "The lowest note in the harmonic series for a given slide position",
+    "difficulty": "Medium"
+  },
+  {
+    "question": "What is a 'bass trombone'?",
+    "options": [
+      "A larger trombone with one or two valves, capable of playing lower notes",
+      "A trombone made of basswood",
+      "A very small trombone",
+      "A trombone played by a bass player"
+    ],
+    "answer": "A larger trombone with one or two valves, capable of playing lower notes",
+    "difficulty": "Medium"
+  },
+  {
+    "question": "What is a 'trill' on a trombone?",
+    "options": [
+      "A rapid alternation between two notes, often achieved with a lip slur or a valve",
+      "A long, sustained note",
+      "A short, detached note",
+      "A sliding between notes"
+    ],
+    "answer": "A rapid alternation between two notes, often achieved with a lip slur or a valve",
+    "difficulty": "Medium"
+  },
+  {
+    "question": "What is the role of the 'counterweight' on some trombones?",
+    "options": [
+      "To balance the instrument, making it easier to hold",
+      "To change the tone",
+      "To hold a mute",
+      "It is decorative"
+    ],
+    "answer": "To balance the instrument, making it easier to hold",
+    "difficulty": "Medium"
+  },
+  {
+    "question": "What is a 'lick' in jazz music?",
+    "options": [
+      "A short, melodic phrase",
+      "A mistake",
+      "A type of scale",
+      "A long solo"
+    ],
+    "answer": "A short, melodic phrase",
+    "difficulty": "Medium"
+  },
+  {
+    "question": "What does 'swing' mean in jazz?",
+    "options": [
+      "A rhythmic feel where eighth notes are played unevenly",
+      "Playing very fast",
+      "Playing very slow",
+      "Playing with a lot of vibrato"
+    ],
+    "answer": "A rhythmic feel where eighth notes are played unevenly",
+    "difficulty": "Medium"
+  },
+  {
+    "question": "What is a 'standard' in jazz?",
+    "options": [
+      "A well-known song that is commonly played by jazz musicians",
+      "A type of trombone",
+      "A specific rhythm",
+      "A brand of mouthpiece"
+    ],
+    "answer": "A well-known song that is commonly played by jazz musicians",
+    "difficulty": "Medium"
+  },
+  {
+    "question": "What is 'articulation'?",
+    "options": [
+      "The way notes are started and separated",
+      "The volume of the notes",
+      "The pitch of the notes",
+      "The speed of the notes"
+    ],
+    "answer": "The way notes are started and separated",
+    "difficulty": "Medium"
+  },
+  {
+    "question": "What is a 'solo break' in a jazz tune?",
+    "options": [
+      "A short section where the soloist plays unaccompanied",
+      "When the soloist stops playing",
+      "When the whole band stops playing",
+      "A very fast solo"
+    ],
+    "answer": "A short section where the soloist plays unaccompanied",
+    "difficulty": "Medium"
+  },
+  {
+    "question": "What is a 'whole note'?",
+    "options": [
+      "A note that lasts for four beats in 4/4 time",
+      "A note that lasts for one beat",
+      "A note that lasts for two beats",
+      "A note that lasts for a half beat"
+    ],
+    "answer": "A note that lasts for four beats in 4/4 time",
+    "difficulty": "Medium"
+  },
+  {
+    "question": "What is a 'half note'?",
+    "options": [
+      "A note that lasts for two beats in 4/4 time",
+      "A note that lasts for one beat",
+      "A note that lasts for four beats",
+      "A note that lasts for a half beat"
+    ],
+    "answer": "A note that lasts for two beats in 4/4 time",
+    "difficulty": "Medium"
+  },
+  {
+    "question": "What is a 'quarter note'?",
+    "options": [
+      "A note that lasts for one beat in 4/4 time",
+      "A note that lasts for two beats",
+      "A note that lasts for four beats",
+      "A note that lasts for a half beat"
+    ],
+    "answer": "A note that lasts for one beat in 4/4 time",
+    "difficulty": "Medium"
+  },
+  {
+    "question": "What is an 'eighth note'?",
+    "options": [
+      "A note that lasts for half a beat in 4/4 time",
+      "A note that lasts for one beat",
+      "A note that lasts for two beats",
+      "A note that lasts for four beats"
+    ],
+    "answer": "A note that lasts for half a beat in 4/4 time",
+    "difficulty": "Medium"
+  },
+  {
+    "question": "What is 'vibrato' on a trombone?",
+    "options": [
+      "A slight, regular pulsation of pitch, often created with the slide or jaw",
+      "Playing very loudly",
+      "Playing very softly",
+      "Playing very fast"
+    ],
+    "answer": "A slight, regular pulsation of pitch, often created with the slide or jaw",
+    "difficulty": "Medium"
+  },
+  {
+    "question": "What is the name of the famous piece by Henry Fillmore known as the 'trombone smear'?",
+    "options": [
+      "'Lassus Trombone'",
+      "'The Trombone King'",
+      "'Shoutin' Liza Trombone'",
+      "'Teddy Trombone'"
+    ],
+    "answer": "'Lassus Trombone'",
+    "difficulty": "Medium"
+  },
+  {
+    "question": "What is a 'slide position chart'?",
+    "options": [
+      "A chart that shows which notes correspond to which slide positions",
+      "A chart of different trombone brands",
+      "A chart of trombone prices",
+      "A chart of famous trombonists"
+    ],
+    "answer": "A chart that shows which notes correspond to which slide positions",
+    "difficulty": "Medium"
+  },
+  {
+    "question": "What is a 'lip trill'?",
+    "options": [
+      "A trill produced by rapidly changing lip tension between two adjacent harmonics",
+      "A trill using the F attachment",
+      "A very fast glissando",
+      "A mistake"
+    ],
+    "answer": "A trill produced by rapidly changing lip tension between two adjacent harmonics",
+    "difficulty": "Medium"
+  },
+  {
+    "question": "What is an 'alto trombone'?",
+    "options": [
+      "A smaller trombone pitched higher than a tenor trombone, often used in classical orchestral music",
+      "A very large trombone",
+      "A trombone with valves",
+      "A plastic trombone"
+    ],
+    "answer": "A smaller trombone pitched higher than a tenor trombone, often used in classical orchestral music",
+    "difficulty": "Medium"
+  },
+  {
+    "question": "What is a 'valve trombone'?",
+    "options": [
+      "A trombone that uses valves instead of a slide to change notes",
+      "A trombone with a very large valve",
+      "A trombone with no valves",
+      "A trombone with a detachable valve section"
+    ],
+    "answer": "A trombone that uses valves instead of a slide to change notes",
+    "difficulty": "Medium"
+  },
+  {
+    "question": "What is a 'sackbut'?",
+    "options": [
+      "The ancestor of the modern trombone",
+      "A type of mute",
+      "A cleaning tool",
+      "A brand of trombone"
+    ],
+    "answer": "The ancestor of the modern trombone",
+    "difficulty": "Hard"
+  },
+  {
+    "question": "What is 'tenor clef' used for in trombone music?",
+    "options": [
+      "To write high passages without using too many ledger lines",
+      "To write low passages",
+      "It is the primary clef for trombone",
+      "It is never used for trombone"
+    ],
+    "answer": "To write high passages without using too many ledger lines",
+    "difficulty": "Hard"
+  },
+  {
+    "question": "What is a 'Thayer valve' or 'axial flow valve'?",
+    "options": [
+      "A type of valve on a trombone with a conical rotor that allows for a less restricted airflow than a standard rotary valve",
+      "A standard rotary valve",
+      "A piston valve",
+      "A type of mute"
+    ],
+    "answer": "A type of valve on a trombone with a conical rotor that allows for a less restricted airflow than a standard rotary valve",
+    "difficulty": "Hard"
+  },
+  {
+    "question": "Who composed the 'Symphonie Fantastique,' which was one of the first orchestral pieces to use the trombone in a prominent melodic role?",
+    "options": [
+      "Hector Berlioz",
+      "Ludwig van Beethoven",
+      "Wolfgang Amadeus Mozart",
+      "Johannes Brahms"
+    ],
+    "answer": "Hector Berlioz",
+    "difficulty": "Hard"
+  },
+  {
+    "question": "What is a 'double trigger' bass trombone?",
+    "options": [
+      "A bass trombone with two valves, typically an F and a G-flat or D attachment",
+      "A trombone with two slides",
+      "A trombone with two bells",
+      "A trombone that plays two notes at once"
+    ],
+    "answer": "A bass trombone with two valves, typically an F and a G-flat or D attachment",
+    "difficulty": "Hard"
+  },
+  {
+    "question": "What is 'doodle tonguing'?",
+    "options": [
+      "A very smooth and connected style of tonguing used in jazz, often using syllables like 'doo-dle'",
+      "A very short and detached style of tonguing",
+      "A mistake",
+      "A type of mute"
+    ],
+    "answer": "A very smooth and connected style of tonguing used in jazz, often using syllables like 'doo-dle'",
+    "difficulty": "Hard"
+  },
+  {
+    "question": "Who was the influential jazz trombonist who pioneered the use of the plunger mute?",
+    "options": [
+      "'Tricky Sam' Nanton",
+      "J.J. Johnson",
+      "Jack Teagarden",
+      "Tommy Dorsey"
+    ],
+    "answer": "'Tricky Sam' Nanton",
+    "difficulty": "Hard"
+  },
+  {
+    "question": "What is the 'Arban's Famous Method for Trombone'?",
+    "options": [
+      "A comprehensive method book covering all aspects of trombone playing",
+      "A book of trombone solos",
+      "A book on trombone history",
+      "A book on trombone repair"
+    ],
+    "answer": "A comprehensive method book covering all aspects of trombone playing",
+    "difficulty": "Hard"
+  },
+  {
+    "question": "What is a 'contrabass trombone'?",
+    "options": [
+      "A very large trombone pitched an octave below a tenor trombone",
+      "A very small trombone",
+      "A trombone made of carbon fiber",
+      "A trombone with three valves"
+    ],
+    "answer": "A very large trombone pitched an octave below a tenor trombone",
+    "difficulty": "Hard"
+  },
+  {
+    "question": "What is a 'rim' on a mouthpiece?",
+    "options": [
+      "The edge of the mouthpiece that makes contact with the player's lips",
+      "The cup of the mouthpiece",
+      "The throat of the mouthpiece",
+      "The shank of the mouthpiece"
+    ],
+    "answer": "The edge of the mouthpiece that makes contact with the player's lips",
+    "difficulty": "Hard"
+  },
+  {
+    "question": "What is a 'cup' on a mouthpiece?",
+    "options": [
+      "The hollow part of the mouthpiece that the player buzzes into",
+      "The rim of the mouthpiece",
+      "The throat of the mouthpiece",
+      "The shank of the mouthpiece"
+    ],
+    "answer": "The cup of the mouthpiece",
+    "difficulty": "Hard"
+  },
+  {
+    "question": "What is a 'throat' on a mouthpiece?",
+    "options": [
+      "The narrowest part of the mouthpiece that connects the cup to the backbore",
+      "The rim of the mouthpiece",
+      "The cup of the mouthpiece",
+      "The shank of the mouthpiece"
+    ],
+    "answer": "The narrowest part of the mouthpiece that connects the cup to the backbore",
+    "difficulty": "Hard"
+  },
+  {
+    "question": "What is a 'backbore' on a mouthpiece?",
+    "options": [
+      "The part of the mouthpiece that fits into the leadpipe",
+      "The rim of the mouthpiece",
+      "The cup of the mouthpiece",
+      "The throat of the mouthpiece"
+    ],
+    "answer": "The part of the mouthpiece that fits into the leadpipe",
+    "difficulty": "Hard"
+  },
+  {
+    "question": "What is the effect of a 'deep cup' on the sound?",
+    "options": [
+      "A darker, richer tone",
+      "A brighter, more piercing tone",
+      "A softer, breathier tone",
+      "A louder, more aggressive tone"
+    ],
+    "answer": "A darker, richer tone",
+    "difficulty": "Hard"
+  },
+  {
+    "question": "What is the effect of a 'shallow cup' on the sound?",
+    "options": [
+      "A brighter, more piercing tone and easier high notes",
+      "A darker, richer tone",
+      "A softer, breathier tone",
+      "A louder, more aggressive tone"
+    ],
+    "answer": "A brighter, more piercing tone and easier high notes",
+    "difficulty": "Hard"
+  },
+  {
+    "question": "What is a 'natural slur'?",
+    "options": [
+      "A slur between two notes in the same harmonic series, played without the tongue",
+      "A slur using the tongue",
+      "A slur using the F attachment",
+      "A mistake"
+    ],
+    "answer": "A slur between two notes in the same harmonic series, played without the tongue",
+    "difficulty": "Hard"
+  },
+  {
+    "question": "What is a 'cross-grain' slur?",
+    "options": [
+      "A slur between two notes in different harmonic series, requiring a very smooth and fast slide motion",
+      "A slur using the tongue",
+      "A slur using the F attachment",
+      "A mistake"
+    ],
+    "answer": "A slur between two notes in different harmonic series, requiring a very smooth and fast slide motion",
+    "difficulty": "Hard"
+  },
+  {
+    "question": "What is the 'T-bone' a nickname for?",
+    "options": ["The trombone", "The trumpet", "The tuba", "The saxophone"],
+    "answer": "The trombone",
+    "difficulty": "Hard"
+  },
+  {
+    "question": "What is the 'tailgate' style of trombone playing?",
+    "options": [
+      "An early style of jazz playing with many glissandos, often played from the back of a wagon",
+      "A very modern style of playing",
+      "A classical style of playing",
+      "A very quiet style of playing"
+    ],
+    "answer": "An early style of jazz playing with many glissandos, often played from the back of a wagon",
+    "difficulty": "Hard"
+  },
+  {
+    "question": "Who composed the 'Blue Bells of Scotland,' a famous theme and variations piece for trombone?",
+    "options": [
+      "Arthur Pryor",
+      "Henry Fillmore",
+      "John Philip Sousa",
+      "Glenn Miller"
+    ],
+    "answer": "Arthur Pryor",
+    "difficulty": "Hard"
+  },
+  {
+    "question": "What is a 'cimbasso'?",
+    "options": [
+      "A low brass instrument in the trombone family, often used in Italian opera",
+      "A type of mute",
+      "A brand of trombone",
+      "A cleaning tool"
+    ],
+    "answer": "A low brass instrument in the trombone family, often used in Italian opera",
+    "difficulty": "Hard"
+  },
+  {
+    "question": "What is a 'superbone'?",
+    "options": [
+      "A hybrid trombone with both a slide and a set of valves",
+      "A very large trombone",
+      "A very small trombone",
+      "A trombone made of plastic"
+    ],
+    "answer": "A hybrid trombone with both a slide and a set of valves",
+    "difficulty": "Hard"
+  },
+  {
+    "question": "What is a 'flute valve' or 'spit valve'?",
+    "options": [
+      "Another name for the water key",
+      "A valve that makes the trombone sound like a flute",
+      "A type of mute",
+      "A decorative valve"
+    ],
+    "answer": "Another name for the water key",
+    "difficulty": "Hard"
+  },
+  {
+    "question": "What is a 'removable leadpipe'?",
+    "options": [
+      "A leadpipe that can be changed to alter the playing characteristics of the trombone",
+      "A leadpipe that is easy to clean",
+      "A leadpipe that is broken",
+      "A leadpipe made of a special material"
+    ],
+    "answer": "A leadpipe that can be changed to alter the playing characteristics of the trombone",
+    "difficulty": "Hard"
+  },
+  {
+    "question": "What is a 'dual bore' slide?",
+    "options": [
+      "A slide where one of the slide tubes is larger than the other",
+      "A slide with two sets of tubes",
+      "A slide that is very heavy",
+      "A slide that is very light"
+    ],
+    "answer": "A slide where one of the slide tubes is larger than the other",
+    "difficulty": "Hard"
+  },
+  {
+    "question": "What is a 'gooseneck'?",
+    "options": [
+      "A curved piece of tubing on some bass trombones that connects the valve section to the bell section",
+      "The tuning slide",
+      "The leadpipe",
+      "The mouthpiece"
+    ],
+    "answer": "A curved piece of tubing on some bass trombones that connects the valve section to the bell section",
+    "difficulty": "Hard"
+  },
+  {
+    "question": "What is a 'slide-o-mix'?",
+    "options": [
+      "A popular brand of two-part trombone slide lubricant",
+      "A type of mute",
+      "A cleaning tool",
+      "A brand of trombone"
+    ],
+    "answer": "A popular brand of two-part trombone slide lubricant",
+    "difficulty": "Hard"
+  },
+  {
+    "question": "What is a 'clef study'?",
+    "options": [
+      "An exercise for practicing reading different clefs, like tenor and alto",
+      "A study of the history of clefs",
+      "A type of musical composition",
+      "A brand of method book"
+    ],
+    "answer": "An exercise for practicing reading different clefs, like tenor and alto",
+    "difficulty": "Hard"
+  },
+  {
+    "question": "What is a 'lip flexibility' study?",
+    "options": [
+      "An exercise for improving the ability to move smoothly between notes in the harmonic series",
+      "An exercise for strengthening the lips",
+      "An exercise for improving tonguing",
+      "An exercise for improving breathing"
+    ],
+    "answer": "An exercise for improving the ability to move smoothly between notes in the harmonic series",
+    "difficulty": "Hard"
+  },
+  {
+    "question": "In orchestral scores, what clef is the trombone part often written in to avoid excessive ledger lines for high passages?",
+    "options": ["Tenor clef", "Alto clef", "Treble clef", "Soprano clef"],
+    "answer": "Tenor clef",
+    "difficulty": "Expert"
+  },
+  {
+    "question": "What is a 'trigger' or 'valve' on a trombone (like an F attachment) technically called?",
+    "options": [
+      "Rotary valve",
+      "Piston valve",
+      "Thayer valve",
+      "Hagmann valve"
+    ],
+    "answer": "Rotary valve",
+    "difficulty": "Expert"
+  },
+  {
+    "question": "Which Berlioz composition famously calls for four separate trombone choirs placed in different parts of the performance hall?",
+    "options": [
+      "'Grande messe des morts' (Requiem)",
+      "'Symphonie fantastique'",
+      "'Harold en Italie'",
+      "'Les Troyens'"
+    ],
+    "answer": "'Grande messe des morts' (Requiem)",
+    "difficulty": "Expert"
+  },
+  {
+    "question": "What is the 'superbone'?",
+    "options": [
+      "A hybrid instrument with both a slide and valves",
+      "A trombone with an exceptionally large bell",
+      "A contrabass trombone",
+      "A trombone made of carbon fiber"
+    ],
+    "answer": "A hybrid instrument with both a slide and valves",
+    "difficulty": "Expert"
+  },
+  {
+    "question": "The 'una corda' marking in a piano score tells the player to use the soft pedal. What is the equivalent instruction for a trombonist to use a mute?",
+    "options": ["con sordino", "senza sordino", "col legno", "sul ponticello"],
+    "answer": "con sordino",
+    "difficulty": "Expert"
+  },
+  {
+    "question": "What is the primary difference between a tenor trombone and a bass trombone?",
+    "options": [
+      "The bass trombone has a larger bore, a larger bell, and one or two valves",
+      "The tenor trombone is pitched higher",
+      "The bass trombone uses a different mouthpiece",
+      "There is no significant difference"
+    ],
+    "answer": "The bass trombone has a larger bore, a larger bell, and one or two valves",
+    "difficulty": "Expert"
+  },
+  {
+    "question": "Who was the influential jazz trombonist who first transferred the bebop language of Charlie Parker and Dizzy Gillespie to the trombone?",
+    "options": [
+      "J.J. Johnson",
+      "Kai Winding",
+      "Jack Teagarden",
+      "Tommy Dorsey"
+    ],
+    "answer": "J.J. Johnson",
+    "difficulty": "Expert"
+  },
+  {
+    "question": "The 'Blazhevich Concert Duets' are a staple of the trombone pedagogical repertoire. What is Vladislav Blazhevich's nationality?",
+    "options": ["Russian", "Polish", "Czech", "German"],
+    "answer": "Russian",
+    "difficulty": "Expert"
+  },
+  {
+    "question": "What is a 'contrabass trombone'?",
+    "options": [
+      "A large trombone pitched an octave lower than the tenor trombone",
+      "A trombone with two bells",
+      "A trombone made of wood",
+      "A very small trombone"
+    ],
+    "answer": "A large trombone pitched an octave lower than the tenor trombone",
+    "difficulty": "Expert"
+  },
+  {
+    "question": "Which part of the trombone has the most significant impact on its overall tone quality?",
+    "options": [
+      "The player's embouchure and concept of sound",
+      "The mouthpiece",
+      "The material of the bell",
+      "The type of slide lubricant"
+    ],
+    "answer": "The player's embouchure and concept of sound",
+    "difficulty": "Expert"
+  },
+  {
+    "question": "What is 'valve tremolo' on a trombone?",
+    "options": [
+      "A rapid alternation between two notes using the F attachment valve",
+      "A type of vibrato",
+      "A shaky sound",
+      "A percussive effect"
+    ],
+    "answer": "A rapid alternation between two notes using the F attachment valve",
+    "difficulty": "Expert"
+  },
+  {
+    "question": "In a standard symphony orchestra, what other instrument's part is often played by the third trombonist?",
+    "options": ["Bass trombone", "Euphonium", "Tuba", "Baritone horn"],
+    "answer": "Bass trombone",
+    "difficulty": "Expert"
+  },
+  {
+    "question": "What is the purpose of the 'water key' or 'spit valve' on a trombone?",
+    "options": [
+      "To expel condensation from the instrument",
+      "To lubricate the slide",
+      "To change the pitch",
+      "To mute the sound"
+    ],
+    "answer": "To expel condensation from the instrument",
+    "difficulty": "Expert"
+  },
+  {
+    "question": "Which jazz trombonist was known for his virtuosic 'tailgate' style of playing in early New Orleans jazz?",
+    "options": ["Kid Ory", "Jack Teagarden", "Miff Mole", "Glenn Miller"],
+    "answer": "Kid Ory",
+    "difficulty": "Expert"
+  },
+  {
+    "question": "What is the 'shank' of a trombone mouthpiece?",
+    "options": [
+      "The part of the mouthpiece that fits into the leadpipe",
+      "The rim",
+      "The cup",
+      "The throat"
+    ],
+    "answer": "The part of the mouthpiece that fits into the leadpipe",
+    "difficulty": "Expert"
+  },
+  {
+    "question": "The 'Concertino for Trombone and Orchestra' by Ferdinand David was a key work in the trombone's development as a solo instrument. In what year was it composed?",
+    "options": ["1837", "1801", "1888", "1920"],
+    "answer": "1837",
+    "difficulty": "Expert"
+  },
+  {
+    "question": "What is the primary material used for the inner slide of a professional trombone?",
+    "options": [
+      "Chrome-plated nickel silver",
+      "Brass",
+      "Stainless steel",
+      "Aluminum"
+    ],
+    "answer": "Chrome-plated nickel silver",
+    "difficulty": "Expert"
+  },
+  {
+    "question": "Which composer wrote the famous 'Tuba Mirum' solo for trombone in his Requiem?",
+    "options": [
+      "Wolfgang Amadeus Mozart",
+      "Hector Berlioz",
+      "Giuseppe Verdi",
+      "Johannes Brahms"
+    ],
+    "answer": "Wolfgang Amadeus Mozart",
+    "difficulty": "Expert"
+  },
+  {
+    "question": "What is the function of the 'second valve' on a bass trombone?",
+    "options": [
+      "To provide additional alternate positions and extend the low range",
+      "To make the instrument louder",
+      "To change the key of the instrument",
+      "To mute the sound"
+    ],
+    "answer": "To provide additional alternate positions and extend the low range",
+    "difficulty": "Expert"
+  },
+  {
+    "question": "What is 'doodle tonguing' on the trombone?",
+    "options": [
+      "A very legato, smooth articulation style, often using syllables like 'doo-dle'",
+      "A percussive effect",
+      "A type of mute",
+      "A way of playing very fast"
+    ],
+    "answer": "A very legato, smooth articulation style, often using syllables like 'doo-dle'",
+    "difficulty": "Expert"
+  },
+  {
+    "question": "Which contemporary trombonist is known for his work with the band 'Snarky Puppy'?",
+    "options": [
+      "Michael Dease",
+      "Marshall Gilkes",
+      "Andy Martin",
+      "Chris Bullock"
+    ],
+    "answer": "Michael Dease",
+    "difficulty": "Expert"
+  },
+  {
+    "question": "What is a 'sackbut'?",
+    "options": [
+      "The ancestor of the modern trombone, popular in the Renaissance and Baroque periods",
+      "A type of mute",
+      "A cleaning tool",
+      "A brand of trombone"
+    ],
+    "answer": "The ancestor of the modern trombone, popular in the Renaissance and Baroque periods",
+    "difficulty": "Expert"
+  },
+  {
+    "question": "The trombone is a non-transposing instrument when read in which clef?",
+    "options": ["Bass clef", "Treble clef", "Alto clef", "Tenor clef"],
+    "answer": "Bass clef",
+    "difficulty": "Expert"
+  },
+  {
+    "question": "What is a 'slide lock' on a trombone?",
+    "options": [
+      "A mechanism to keep the slide from moving when the instrument is not being played",
+      "A tool for cleaning the slide",
+      "A part of the mouthpiece",
+      "A type of mute"
+    ],
+    "answer": "A mechanism to keep the slide from moving when the instrument is not being played",
+    "difficulty": "Expert"
+  },
+  {
+    "question": "Which of these is a type of trombone not commonly found in a modern orchestra?",
+    "options": [
+      "Alto trombone",
+      "Tenor trombone",
+      "Bass trombone",
+      "Contrabass trombone"
+    ],
+    "answer": "Alto trombone",
+    "difficulty": "Expert"
+  },
+  {
+    "question": "What is the 'bore' of a trombone?",
+    "options": [
+      "The inner diameter of the tubing",
+      "The bell",
+      "The mouthpiece",
+      "The slide"
+    ],
+    "answer": "The inner diameter of the tubing",
+    "difficulty": "Expert"
+  },
+  {
+    "question": "Who is considered the 'Paganini of the trombone'?",
+    "options": [
+      "Christian Lindberg",
+      "Arthur Pryor",
+      "Joseph Alessi",
+      "Urbie Green"
+    ],
+    "answer": "Christian Lindberg",
+    "difficulty": "Expert"
+  },
+  {
+    "question": "What is the 'tuning slide' on a trombone?",
+    "options": [
+      "The main slide used to adjust the overall pitch of the instrument",
+      "The slide used to play different notes",
+      "A slide for cleaning",
+      "A slide for holding a mute"
+    ],
+    "answer": "The main slide used to adjust the overall pitch of the instrument",
+    "difficulty": "Expert"
+  },
+  {
+    "question": "In which of his symphonies did Mahler write a prominent solo for the tenor trombone?",
+    "options": [
+      "Symphony No. 3",
+      "Symphony No. 5",
+      "Symphony No. 2",
+      "Symphony No. 9"
+    ],
+    "answer": "Symphony No. 3",
+    "difficulty": "Expert"
+  },
+  {
+    "question": "What is the primary difference between a 'straight' mute and a 'cup' mute for trombone?",
+    "options": [
+      "The cup mute has a cup-shaped resonator at the end, creating a more muffled sound",
+      "The straight mute is made of metal, the cup mute of cardboard",
+      "The straight mute is used for jazz, the cup mute for classical",
+      "There is no difference"
+    ],
+    "answer": "The cup mute has a cup-shaped resonator at the end, creating a more muffled sound",
+    "difficulty": "Expert"
+  }
+]

@@ -1,0 +1,1241 @@
+[
+  {
+    "question": "What family of instruments does the violin belong to?",
+    "options": ["String", "Woodwind", "Brass", "Percussion"],
+    "answer": "String",
+    "difficulty": "Easy"
+  },
+  {
+    "question": "How many strings does a standard violin have?",
+    "options": ["Four", "Five", "Six", "Three"],
+    "answer": "Four",
+    "difficulty": "Easy"
+  },
+  {
+    "question": "What is the stick used to play the violin called?",
+    "options": ["Bow", "Stick", "Rod", "Wand"],
+    "answer": "Bow",
+    "difficulty": "Easy"
+  },
+  {
+    "question": "What is the body of the violin typically made of?",
+    "options": ["Wood", "Metal", "Plastic", "Carbon fiber"],
+    "answer": "Wood",
+    "difficulty": "Easy"
+  },
+  {
+    "question": "What are the names of the open strings on a violin, from lowest to highest?",
+    "options": ["G, D, A, E", "E, A, D, G", "C, G, D, A", "A, D, G, C"],
+    "answer": "G, D, A, E",
+    "difficulty": "Easy"
+  },
+  {
+    "question": "What do you use to make the bow hair sticky?",
+    "options": ["Rosin", "Glue", "Wax", "Honey"],
+    "answer": "Rosin",
+    "difficulty": "Easy"
+  },
+  {
+    "question": "What is the scroll on a violin?",
+    "options": [
+      "The carved, decorative end of the pegbox",
+      "A piece of music",
+      "The chinrest",
+      "The bridge"
+    ],
+    "answer": "The carved, decorative end of the pegbox",
+    "difficulty": "Easy"
+  },
+  {
+    "question": "What is the purpose of the bridge?",
+    "options": [
+      "To hold the strings up and transfer vibrations to the body",
+      "To tune the strings",
+      "To hold the bow",
+      "It is decorative"
+    ],
+    "answer": "To hold the strings up and transfer vibrations to the body",
+    "difficulty": "Easy"
+  },
+  {
+    "question": "What is a musician who plays the violin called?",
+    "options": ["Violinist", "Violer", "Fiddler", "Stringer"],
+    "answer": "Violinist",
+    "difficulty": "Easy"
+  },
+  {
+    "question": "What are the 'f-holes' on a violin?",
+    "options": [
+      "The sound holes on the top of the violin",
+      "Holes for your fingers",
+      "Holes to make the violin lighter",
+      "Decorative holes"
+    ],
+    "answer": "The sound holes on the top of the violin",
+    "difficulty": "Easy"
+  },
+  {
+    "question": "What is the chinrest for?",
+    "options": [
+      "To comfortably hold the violin with your chin",
+      "To rest the bow",
+      "To tune the violin",
+      "It is decorative"
+    ],
+    "answer": "To comfortably hold the violin with your chin",
+    "difficulty": "Easy"
+  },
+  {
+    "question": "What is the purpose of the tuning pegs?",
+    "options": [
+      "To change the pitch of the strings",
+      "To hold the strings down",
+      "To attach the bow",
+      "To clean the violin"
+    ],
+    "answer": "To change the pitch of the strings",
+    "difficulty": "Easy"
+  },
+  {
+    "question": "What is the fingerboard?",
+    "options": [
+      "The part of the neck where you press the strings down",
+      "The body of the violin",
+      "The bow",
+      "The case"
+    ],
+    "answer": "The part of the neck where you press the strings down",
+    "difficulty": "Easy"
+  },
+  {
+    "question": "What is a 'pizzicato'?",
+    "options": [
+      "Plucking the strings with your finger",
+      "Bowing the strings",
+      "Tapping the violin",
+      "A type of violin"
+    ],
+    "answer": "Plucking the strings with your finger",
+    "difficulty": "Easy"
+  },
+  {
+    "question": "What is a 'vibrato'?",
+    "options": [
+      "A slight, rapid back-and-forth movement of the finger on the string to vary the pitch",
+      "Playing very loudly",
+      "Playing very softly",
+      "Playing very fast"
+    ],
+    "answer": "A slight, rapid back-and-forth movement of the finger on the string to vary the pitch",
+    "difficulty": "Easy"
+  },
+  {
+    "question": "What is a 'scale' in music?",
+    "options": [
+      "A series of notes played in order",
+      "A type of rhythm",
+      "A dynamic marking",
+      "A part of the violin"
+    ],
+    "answer": "A series of notes played in order",
+    "difficulty": "Easy"
+  },
+  {
+    "question": "What does the marking 'p' mean in music?",
+    "options": ["Play softly", "Play loudly", "Play quickly", "Play slowly"],
+    "answer": "Play softly",
+    "difficulty": "Easy"
+  },
+  {
+    "question": "What does the marking 'f' mean in music?",
+    "options": ["Play loudly", "Play softly", "Play quickly", "Play slowly"],
+    "answer": "Play loudly",
+    "difficulty": "Easy"
+  },
+  {
+    "question": "What is a 'rest' in music?",
+    "options": [
+      "A period of silence",
+      "A very long note",
+      "A very loud note",
+      "A type of scale"
+    ],
+    "answer": "A period of silence",
+    "difficulty": "Easy"
+  },
+  {
+    "question": "What does a sharp sign (#) do to a note?",
+    "options": [
+      "Raises it by a half step",
+      "Lowers it by a half step",
+      "Makes it longer",
+      "Makes it shorter"
+    ],
+    "answer": "Raises it by a half step",
+    "difficulty": "Easy"
+  },
+  {
+    "question": "What does a flat sign (b) do to a note?",
+    "options": [
+      "Lowers it by a half step",
+      "Raises it by a half step",
+      "Makes it longer",
+      "Makes it shorter"
+    ],
+    "answer": "Lowers it by a half step",
+    "difficulty": "Easy"
+  },
+  {
+    "question": "What is the name of the five lines that music is written on?",
+    "options": ["Staff", "Grid", "Ledger", "Lines"],
+    "answer": "Staff",
+    "difficulty": "Easy"
+  },
+  {
+    "question": "What is a 'clef'?",
+    "options": [
+      "A symbol at the beginning of the staff that indicates the pitch of the notes",
+      "A type of bow",
+      "A part of the violin",
+      "A musical piece"
+    ],
+    "answer": "A symbol at the beginning of the staff that indicates the pitch of the notes",
+    "difficulty": "Easy"
+  },
+  {
+    "question": "What clef does the violin primarily use?",
+    "options": ["Treble clef", "Bass clef", "Alto clef", "Tenor clef"],
+    "answer": "Treble clef",
+    "difficulty": "Easy"
+  },
+  {
+    "question": "What is a 'shoulder rest' used for?",
+    "options": [
+      "To help support the violin on the shoulder",
+      "To rest the bow",
+      "To mute the sound",
+      "It is decorative"
+    ],
+    "answer": "To help support the violin on the shoulder",
+    "difficulty": "Easy"
+  },
+  {
+    "question": "What is a 'mute' used for on a violin?",
+    "options": [
+      "To soften the sound",
+      "To make the sound louder",
+      "To clean the strings",
+      "To tune the strings"
+    ],
+    "answer": "To soften the sound",
+    "difficulty": "Easy"
+  },
+  {
+    "question": "What is a 'double stop'?",
+    "options": [
+      "Playing two notes at once",
+      "Stopping the bow twice",
+      "Playing a note twice",
+      "A type of rest"
+    ],
+    "answer": "Playing two notes at once",
+    "difficulty": "Easy"
+  },
+  {
+    "question": "What is the 'frog' of the bow?",
+    "options": [
+      "The part of the bow that you hold",
+      "The tip of the bow",
+      "The hair of the bow",
+      "The stick of the bow"
+    ],
+    "answer": "The part of the bow that you hold",
+    "difficulty": "Easy"
+  },
+  {
+    "question": "What is the hair on a violin bow usually made from?",
+    "options": ["Horsehair", "Nylon", "Silk", "Cotton"],
+    "answer": "Horsehair",
+    "difficulty": "Easy"
+  },
+  {
+    "question": "What is the purpose of the 'fine tuners'?",
+    "options": [
+      "To make small adjustments to the pitch of the strings",
+      "To make large adjustments to the pitch",
+      "To hold the strings in place",
+      "To clean the strings"
+    ],
+    "answer": "To make small adjustments to the pitch of the strings",
+    "difficulty": "Easy"
+  },
+  {
+    "question": "What is a 'bow hold'?",
+    "options": [
+      "The way a player holds the bow",
+      "A case for the bow",
+      "A type of bow",
+      "A part of the bow"
+    ],
+    "answer": "The way a player holds the bow",
+    "difficulty": "Medium"
+  },
+  {
+    "question": "What is 'intonation'?",
+    "options": [
+      "Playing the notes in tune",
+      "Playing with a good tone",
+      "Playing with a steady rhythm",
+      "Playing with expression"
+    ],
+    "answer": "Playing the notes in tune",
+    "difficulty": "Medium"
+  },
+  {
+    "question": "What is the difference between a violin and a viola?",
+    "options": [
+      "A viola is larger and has a lower sound",
+      "A violin is larger",
+      "They are the same size",
+      "A viola has five strings"
+    ],
+    "answer": "A viola is larger and has a lower sound",
+    "difficulty": "Medium"
+  },
+  {
+    "question": "What is a 'concerto'?",
+    "options": [
+      "A musical piece for a solo instrument accompanied by an orchestra",
+      "A piece for a solo instrument only",
+      "A piece for a large orchestra",
+      "A piece for a small group of instruments"
+    ],
+    "answer": "A musical piece for a solo instrument accompanied by an orchestra",
+    "difficulty": "Medium"
+  },
+  {
+    "question": "Who composed 'The Four Seasons'?",
+    "options": [
+      "Antonio Vivaldi",
+      "Johann Sebastian Bach",
+      "Wolfgang Amadeus Mozart",
+      "Ludwig van Beethoven"
+    ],
+    "answer": "Antonio Vivaldi",
+    "difficulty": "Medium"
+  },
+  {
+    "question": "What is a 'sonata'?",
+    "options": [
+      "A piece for a solo instrument, often with a piano accompaniment",
+      "A piece for a large orchestra",
+      "A piece for a choir",
+      "A type of dance"
+    ],
+    "answer": "A piece for a solo instrument, often with a piano accompaniment",
+    "difficulty": "Medium"
+  },
+  {
+    "question": "What is a 'down bow'?",
+    "options": [
+      "Moving the bow from the frog to the tip",
+      "Moving the bow from the tip to the frog",
+      "A very quiet bow stroke",
+      "A very loud bow stroke"
+    ],
+    "answer": "Moving the bow from the frog to the tip",
+    "difficulty": "Medium"
+  },
+  {
+    "question": "What is an 'up bow'?",
+    "options": [
+      "Moving the bow from the tip to the frog",
+      "Moving the bow from the frog to the tip",
+      "A very quiet bow stroke",
+      "A very loud bow stroke"
+    ],
+    "answer": "Moving the bow from the tip to the frog",
+    "difficulty": "Medium"
+  },
+  {
+    "question": "What is 'staccato'?",
+    "options": [
+      "Short, detached notes",
+      "Smooth, connected notes",
+      "Loud notes",
+      "Quiet notes"
+    ],
+    "answer": "Short, detached notes",
+    "difficulty": "Medium"
+  },
+  {
+    "question": "What is 'legato'?",
+    "options": [
+      "Smooth, connected notes",
+      "Short, detached notes",
+      "Loud notes",
+      "Quiet notes"
+    ],
+    "answer": "Smooth, connected notes",
+    "difficulty": "Medium"
+  },
+  {
+    "question": "What is a 'trill'?",
+    "options": [
+      "A rapid alternation between two notes",
+      "A long, sustained note",
+      "A short, detached note",
+      "A sliding between notes"
+    ],
+    "answer": "A rapid alternation between two notes",
+    "difficulty": "Medium"
+  },
+  {
+    "question": "What is a 'harmonic'?",
+    "options": [
+      "A high, bell-like tone produced by lightly touching the string at a specific point",
+      "A very low note",
+      "A very loud note",
+      "A mistake"
+    ],
+    "answer": "A high, bell-like tone produced by lightly touching the string at a specific point",
+    "difficulty": "Medium"
+  },
+  {
+    "question": "What is a 'glissando'?",
+    "options": [
+      "Sliding the finger along the string to produce a continuous change in pitch",
+      "A very short note",
+      "A very long note",
+      "A type of rest"
+    ],
+    "answer": "Sliding the finger along the string to produce a continuous change in pitch",
+    "difficulty": "Medium"
+  },
+  {
+    "question": "What is a 'cadenza'?",
+    "options": [
+      "A virtuosic solo passage in a concerto, often improvised or written to sound improvised",
+      "The end of a piece",
+      "The beginning of a piece",
+      "A quiet section"
+    ],
+    "answer": "A virtuosic solo passage in a concerto, often improvised or written to sound improvised",
+    "difficulty": "Medium"
+  },
+  {
+    "question": "What is a 'string quartet'?",
+    "options": [
+      "A group of four string players: two violins, one viola, and one cello",
+      "A group of four violins",
+      "A piece of music for four string players",
+      "Both A and C"
+    ],
+    "answer": "Both A and C",
+    "difficulty": "Medium"
+  },
+  {
+    "question": "What is the 'tailpiece'?",
+    "options": [
+      "The part of the violin that holds the strings at the bottom",
+      "The scroll",
+      "The bridge",
+      "The chinrest"
+    ],
+    "answer": "The part of the violin that holds the strings at the bottom",
+    "difficulty": "Medium"
+  },
+  {
+    "question": "What is the 'nut'?",
+    "options": [
+      "The small piece of wood at the top of the fingerboard that guides the strings",
+      "The bridge",
+      "The scroll",
+      "The chinrest"
+    ],
+    "answer": "The small piece of wood at the top of the fingerboard that guides the strings",
+    "difficulty": "Medium"
+  },
+  {
+    "question": "What is the 'endpin'?",
+    "options": [
+      "The small button at the bottom of the violin where the tailpiece is attached",
+      "The scroll",
+      "The bridge",
+      "The chinrest"
+    ],
+    "answer": "The small button at the bottom of the violin where the tailpiece is attached",
+    "difficulty": "Medium"
+  },
+  {
+    "question": "What is a 'luthier'?",
+    "options": [
+      "A person who makes or repairs string instruments",
+      "A violin teacher",
+      "A professional violinist",
+      "A composer of violin music"
+    ],
+    "answer": "A person who makes or repairs string instruments",
+    "difficulty": "Medium"
+  },
+  {
+    "question": "What is a 'Stradivarius'?",
+    "options": [
+      "A famous and highly valuable type of violin made by Antonio Stradivari",
+      "A type of bow",
+      "A brand of rosin",
+      "A music school"
+    ],
+    "answer": "A famous and highly valuable type of violin made by Antonio Stradivari",
+    "difficulty": "Medium"
+  },
+  {
+    "question": "What is a 'Guarneri'?",
+    "options": [
+      "Another famous and valuable type of violin made by the Guarneri family",
+      "A type of string",
+      "A type of case",
+      "A music festival"
+    ],
+    "answer": "Another famous and valuable type of violin made by the Guarneri family",
+    "difficulty": "Medium"
+  },
+  {
+    "question": "What is a 'whole note'?",
+    "options": [
+      "A note that lasts for four beats in 4/4 time",
+      "A note that lasts for one beat",
+      "A note that lasts for two beats",
+      "A note that lasts for a half beat"
+    ],
+    "answer": "A note that lasts for four beats in 4/4 time",
+    "difficulty": "Medium"
+  },
+  {
+    "question": "What is a 'half note'?",
+    "options": [
+      "A note that lasts for two beats in 4/4 time",
+      "A note that lasts for one beat",
+      "A note that lasts for four beats",
+      "A note that lasts for a half beat"
+    ],
+    "answer": "A note that lasts for two beats in 4/4 time",
+    "difficulty": "Medium"
+  },
+  {
+    "question": "What is a 'quarter note'?",
+    "options": [
+      "A note that lasts for one beat in 4/4 time",
+      "A note that lasts for two beats",
+      "A note that lasts for four beats",
+      "A note that lasts for a half beat"
+    ],
+    "answer": "A note that lasts for one beat in 4/4 time",
+    "difficulty": "Medium"
+  },
+  {
+    "question": "What is an 'eighth note'?",
+    "options": [
+      "A note that lasts for half a beat in 4/4 time",
+      "A note that lasts for one beat",
+      "A note that lasts for two beats",
+      "A note that lasts for four beats"
+    ],
+    "answer": "A note that lasts for half a beat in 4/4 time",
+    "difficulty": "Medium"
+  },
+  {
+    "question": "What is a 'fermata'?",
+    "options": [
+      "A symbol that indicates a note should be held longer than its normal duration",
+      "A very short rest",
+      "A very loud note",
+      "A type of trill"
+    ],
+    "answer": "A symbol that indicates a note should be held longer than its normal duration",
+    "difficulty": "Medium"
+  },
+  {
+    "question": "What is 'dynamics' in music?",
+    "options": [
+      "The volume of the music",
+      "The speed of the music",
+      "The pitch of the music",
+      "The rhythm of the music"
+    ],
+    "answer": "The volume of the music",
+    "difficulty": "Medium"
+  },
+  {
+    "question": "What is 'tempo' in music?",
+    "options": [
+      "The speed of the music",
+      "The volume of the music",
+      "The pitch of the music",
+      "The rhythm of the music"
+    ],
+    "answer": "The speed of the music",
+    "difficulty": "Medium"
+  },
+  {
+    "question": "What is an 'arpeggio'?",
+    "options": [
+      "Playing the notes of a chord one after another instead of at the same time",
+      "Playing a scale very fast",
+      "A type of bow stroke",
+      "A very long note"
+    ],
+    "answer": "Playing the notes of a chord one after another instead of at the same time",
+    "difficulty": "Medium"
+  },
+  {
+    "question": "What is 'col legno'?",
+    "options": [
+      "Playing with the wood of the bow instead of the hair",
+      "Playing near the bridge",
+      "Playing near the fingerboard",
+      "Plucking the string"
+    ],
+    "answer": "Playing with the wood of the bow instead of the hair",
+    "difficulty": "Hard"
+  },
+  {
+    "question": "What is 'sul tasto'?",
+    "options": [
+      "Playing with the bow over the fingerboard to create a soft, flute-like sound",
+      "Playing near the bridge",
+      "Playing with the wood of the bow",
+      "Plucking the string"
+    ],
+    "answer": "Playing with the bow over the fingerboard to create a soft, flute-like sound",
+    "difficulty": "Hard"
+  },
+  {
+    "question": "What is 'sul ponticello'?",
+    "options": [
+      "Playing with the bow near the bridge to create a glassy, eerie sound",
+      "Playing over the fingerboard",
+      "Playing with the wood of the bow",
+      "Plucking the string"
+    ],
+    "answer": "Playing with the bow near the bridge to create a glassy, eerie sound",
+    "difficulty": "Hard"
+  },
+  {
+    "question": "What is a 'left-hand pizzicato'?",
+    "options": [
+      "Plucking the string with a finger of the left hand",
+      "Plucking the string with the right hand",
+      "A very loud pizzicato",
+      "A very soft pizzicato"
+    ],
+    "answer": "Plucking the string with a finger of the left hand",
+    "difficulty": "Hard"
+  },
+  {
+    "question": "What is a 'Bartók pizzicato'?",
+    "options": [
+      "A forceful pizzicato where the string snaps back against the fingerboard",
+      "A very soft pizzicato",
+      "A pizzicato played with the bow",
+      "A pizzicato played with a pick"
+    ],
+    "answer": "A forceful pizzicato where the string snaps back against the fingerboard",
+    "difficulty": "Hard"
+  },
+  {
+    "question": "What is a 'jeté' or 'ricochet' bow stroke?",
+    "options": [
+      "A stroke where the bow is thrown onto the string and allowed to bounce",
+      "A very smooth bow stroke",
+      "A very short bow stroke",
+      "A very long bow stroke"
+    ],
+    "answer": "A stroke where the bow is thrown onto the string and allowed to bounce",
+    "difficulty": "Hard"
+  },
+  {
+    "question": "What is a 'Louré' or 'portato' bow stroke?",
+    "options": [
+      "A series of gently pulsed, slurred notes",
+      "A series of short, detached notes",
+      "A very smooth, connected stroke",
+      "A very heavy, accented stroke"
+    ],
+    "answer": "A series of gently pulsed, slurred notes",
+    "difficulty": "Hard"
+  },
+  {
+    "question": "What is a 'martelé' bow stroke?",
+    "options": [
+      "A sharp, accented bow stroke with a clean start and stop",
+      "A smooth, connected stroke",
+      "A bouncing bow stroke",
+      "A very light stroke"
+    ],
+    "answer": "A sharp, accented bow stroke with a clean start and stop",
+    "difficulty": "Hard"
+  },
+  {
+    "question": "What is a 'détaché' bow stroke?",
+    "options": [
+      "A stroke with separate bows for each note, but played smoothly",
+      "A short, detached stroke",
+      "A bouncing bow stroke",
+      "A very heavy stroke"
+    ],
+    "answer": "A stroke with separate bows for each note, but played smoothly",
+    "difficulty": "Hard"
+  },
+  {
+    "question": "What is a 'spiccato' bow stroke?",
+    "options": [
+      "A light, bouncing bow stroke used for fast passages",
+      "A heavy, accented stroke",
+      "A smooth, connected stroke",
+      "A very short, on-the-string stroke"
+    ],
+    "answer": "A light, bouncing bow stroke used for fast passages",
+    "difficulty": "Hard"
+  },
+  {
+    "question": "What is a 'sautillé' bow stroke?",
+    "options": [
+      "A very fast, uncontrolled bouncing stroke that happens naturally at a certain speed",
+      "A controlled bouncing stroke",
+      "A heavy, accented stroke",
+      "A smooth, connected stroke"
+    ],
+    "answer": "A very fast, uncontrolled bouncing stroke that happens naturally at a certain speed",
+    "difficulty": "Hard"
+  },
+  {
+    "question": "What is a 'scordatura'?",
+    "options": [
+      "An unconventional tuning of the strings for a particular piece",
+      "A type of violin",
+      "A brand of strings",
+      "A bowing technique"
+    ],
+    "answer": "An unconventional tuning of the strings for a particular piece",
+    "difficulty": "Hard"
+  },
+  {
+    "question": "What is a 'chaconne'?",
+    "options": [
+      "A piece of music consisting of variations over a repeated bass line or harmonic progression",
+      "A fast dance",
+      "A slow song",
+      "A type of scale"
+    ],
+    "answer": "A piece of music consisting of variations over a repeated bass line or harmonic progression",
+    "difficulty": "Hard"
+  },
+  {
+    "question": "What is a 'passacaglia'?",
+    "options": [
+      "Similar to a chaconne, a piece with variations over a repeated bass line",
+      "A fast dance",
+      "A slow song",
+      "A type of scale"
+    ],
+    "answer": "Similar to a chaconne, a piece with variations over a repeated bass line",
+    "difficulty": "Hard"
+  },
+  {
+    "question": "Who composed the '24 Caprices for Solo Violin'?",
+    "options": [
+      "Niccolò Paganini",
+      "Johann Sebastian Bach",
+      "Ludwig van Beethoven",
+      "Wolfgang Amadeus Mozart"
+    ],
+    "answer": "Niccolò Paganini",
+    "difficulty": "Hard"
+  },
+  {
+    "question": "Who composed the 'Six Sonatas and Partitas for Solo Violin'?",
+    "options": [
+      "Johann Sebastian Bach",
+      "Niccolò Paganini",
+      "Ludwig van Beethoven",
+      "Wolfgang Amadeus Mozart"
+    ],
+    "answer": "Johann Sebastian Bach",
+    "difficulty": "Hard"
+  },
+  {
+    "question": "What is the 'Kreutzer Sonata'?",
+    "options": [
+      "A famous violin sonata by Beethoven",
+      "A sonata by Kreutzer",
+      "A method book",
+      "A type of violin"
+    ],
+    "answer": "A famous violin sonata by Beethoven",
+    "difficulty": "Hard"
+  },
+  {
+    "question": "What is the 'Devil's Trill Sonata'?",
+    "options": [
+      "A violin sonata by Giuseppe Tartini, famous for its technical difficulty",
+      "A sonata by Paganini",
+      "A sonata by Bach",
+      "A sonata by Beethoven"
+    ],
+    "answer": "A violin sonata by Giuseppe Tartini, famous for its technical difficulty",
+    "difficulty": "Hard"
+  },
+  {
+    "question": "What is the 'sound post'?",
+    "options": [
+      "A small wooden dowel inside the violin that connects the top and back, crucial for the instrument's sound",
+      "A microphone",
+      "The bridge",
+      "The endpin"
+    ],
+    "answer": "A small wooden dowel inside the violin that connects the top and back, crucial for the instrument's sound",
+    "difficulty": "Hard"
+  },
+  {
+    "question": "What is the 'bass bar'?",
+    "options": [
+      "A strip of wood glued to the inside of the top plate that supports the bass-side foot of the bridge",
+      "A metal bar for support",
+      "A part of the bow",
+      "A type of mute"
+    ],
+    "answer": "A strip of wood glued to the inside of the top plate that supports the bass-side foot of the bridge",
+    "difficulty": "Hard"
+  },
+  {
+    "question": "What is 'purfling'?",
+    "options": [
+      "The inlaid wooden strip around the edge of the violin's top and back plates",
+      "A type of string",
+      "A brand of rosin",
+      "A decorative carving"
+    ],
+    "answer": "The inlaid wooden strip around the edge of the violin's top and back plates",
+    "difficulty": "Hard"
+  },
+  {
+    "question": "What is a 'Baroque violin'?",
+    "options": [
+      "An earlier version of the violin with a different neck, bridge, and gut strings",
+      "A modern violin played in a Baroque style",
+      "A very ornate violin",
+      "A five-string violin"
+    ],
+    "answer": "An earlier version of the violin with a different neck, bridge, and gut strings",
+    "difficulty": "Hard"
+  },
+  {
+    "question": "What is a 'pegbox'?",
+    "options": [
+      "The part of the violin that houses the tuning pegs",
+      "A box for storing pegs",
+      "The chinrest",
+      "The scroll"
+    ],
+    "answer": "The part of the violin that houses the tuning pegs",
+    "difficulty": "Hard"
+  },
+  {
+    "question": "What is a 'tailgut'?",
+    "options": [
+      "The cord that attaches the tailpiece to the endpin",
+      "A string made from gut",
+      "A part of the bow",
+      "A cleaning tool"
+    ],
+    "answer": "The cord that attaches the tailpiece to the endpin",
+    "difficulty": "Hard"
+  },
+  {
+    "question": "What is a 'lupot' style tailpiece?",
+    "options": [
+      "A common style of tailpiece with a rounded top",
+      "A tailpiece with built-in fine tuners",
+      "A tailpiece made of metal",
+      "A tailpiece for a cello"
+    ],
+    "answer": "A common style of tailpiece with a rounded top",
+    "difficulty": "Hard"
+  },
+  {
+    "question": "What is a 'hill' style tailpiece?",
+    "options": [
+      "A common style of tailpiece with a flat top",
+      "A tailpiece with built-in fine tuners",
+      "A tailpiece made of metal",
+      "A tailpiece for a viola"
+    ],
+    "answer": "A common style of tailpiece with a flat top",
+    "difficulty": "Hard"
+  },
+  {
+    "question": "What is a 'french' style bridge?",
+    "options": [
+      "A style of violin bridge with a more curved top",
+      "A bridge with a flat top",
+      "A bridge made in France",
+      "A bridge for a cello"
+    ],
+    "answer": "A style of violin bridge with a more curved top",
+    "difficulty": "Hard"
+  },
+  {
+    "question": "What is a 'belgian' style bridge?",
+    "options": [
+      "A style of violin bridge with a flatter top",
+      "A bridge with a curved top",
+      "A bridge made in Belgium",
+      "A bridge for a viola"
+    ],
+    "answer": "A style of violin bridge with a flatter top",
+    "difficulty": "Hard"
+  },
+  {
+    "question": "What is a 'tourte' mute?",
+    "options": [
+      "A common type of rubber mute that slides onto the bridge",
+      "A metal mute",
+      "A wooden mute",
+      "A practice mute"
+    ],
+    "answer": "A common type of rubber mute that slides onto the bridge",
+    "difficulty": "Hard"
+  },
+  {
+    "question": "What is a 'heifetz' mute?",
+    "options": [
+      "A metal mute that clips onto the bridge, known for its distinct sound",
+      "A rubber mute",
+      "A wooden mute",
+      "A practice mute"
+    ],
+    "answer": "A metal mute that clips onto the bridge, known for its distinct sound",
+    "difficulty": "Hard"
+  },
+  {
+    "question": "What is the 'wolf tone' on a string instrument?",
+    "options": [
+      "An unstable, wavering sound produced when a note matches the main resonance frequency of the instrument's body",
+      "A harsh sound from excessive bow pressure",
+      "A note played out of tune",
+      "A type of artificial harmonic"
+    ],
+    "answer": "An unstable, wavering sound produced when a note matches the main resonance frequency of the instrument's body",
+    "difficulty": "Expert"
+  },
+  {
+    "question": "The 'Chaconne' from Bach's Partita No. 2 in D minor is a monumental work for solo violin. What is a chaconne?",
+    "options": [
+      "A set of variations over a repeated bass line or harmonic progression",
+      "A fast-paced dance in triple meter",
+      "A slow, mournful lament",
+      "A free-form improvisatory piece"
+    ],
+    "answer": "A set of variations over a repeated bass line or harmonic progression",
+    "difficulty": "Expert"
+  },
+  {
+    "question": "What is 'scordatura'?",
+    "options": [
+      "The practice of tuning the violin strings to different pitches than the standard G-D-A-E",
+      "A specific bowing technique for fast passages",
+      "A type of violin mute",
+      "The study of violin acoustics"
+    ],
+    "answer": "The practice of tuning the violin strings to different pitches than the standard G-D-A-E",
+    "difficulty": "Expert"
+  },
+  {
+    "question": "Which 20th-century composer utilized extensive microtonal writing (notes between the standard half-steps) in his violin works?",
+    "options": [
+      "György Ligeti",
+      "Arnold Schoenberg",
+      "Igor Stravinsky",
+      "Béla Bartók"
+    ],
+    "answer": "György Ligeti",
+    "difficulty": "Expert"
+  },
+  {
+    "question": "What is the 'Tourte bow,' developed in the late 18th century, known for?",
+    "options": [
+      "Its concave shape, which allowed for greater control and a wider range of articulations",
+      "Its convex shape, typical of the Baroque era",
+      "Being the first bow to use synthetic hair",
+      "Its use of a screw mechanism for tightening"
+    ],
+    "answer": "Its concave shape, which allowed for greater control and a wider range of articulations",
+    "difficulty": "Expert"
+  },
+  {
+    "question": "What is the 'sound post' in a violin?",
+    "options": [
+      "A small wooden dowel inside the instrument that connects the top and back plates",
+      "A microphone pickup for amplifying the violin",
+      "The endpin",
+      "The bridge"
+    ],
+    "answer": "A small wooden dowel inside the instrument that connects the top and back plates",
+    "difficulty": "Expert"
+  },
+  {
+    "question": "Who was the violinist for whom Brahms wrote his Violin Concerto?",
+    "options": [
+      "Joseph Joachim",
+      "Pablo de Sarasate",
+      "Ferdinand David",
+      "Henryk Wieniawski"
+    ],
+    "answer": "Joseph Joachim",
+    "difficulty": "Expert"
+  },
+  {
+    "question": "The '24 Caprices for Solo Violin' by Paganini are a landmark of the violin repertoire. What is a 'caprice'?",
+    "options": [
+      "A lively piece of music, typically in a free form and of a virtuosic nature",
+      "A slow, lyrical piece",
+      "A dance movement",
+      "A set of variations"
+    ],
+    "answer": "A lively piece of music, typically in a free form and of a virtuosic nature",
+    "difficulty": "Expert"
+  },
+  {
+    "question": "What is a 'chinrest' on a violin?",
+    "options": [
+      "A piece of wood or plastic attached to the body of the violin for the player to rest their chin on",
+      "A part of the bow",
+      "A mute",
+      "A shoulder rest"
+    ],
+    "answer": "A piece of wood or plastic attached to the body of the violin for the player to rest their chin on",
+    "difficulty": "Expert"
+  },
+  {
+    "question": "Which part of the violin bow has the most significant impact on its balance and handling?",
+    "options": [
+      "The frog and screw mechanism",
+      "The type of wood used",
+      "The hair",
+      "The tip"
+    ],
+    "answer": "The frog and screw mechanism",
+    "difficulty": "Expert"
+  },
+  {
+    "question": "What is 'sul ponticello'?",
+    "options": [
+      "A bowing instruction to play near the bridge, creating a glassy, ethereal tone",
+      "To play near the fingerboard",
+      "To pluck the string with the left hand",
+      "To use the wood of the bow"
+    ],
+    "answer": "A bowing instruction to play near the bridge, creating a glassy, ethereal tone",
+    "difficulty": "Expert"
+  },
+  {
+    "question": "In a standard string quartet, what are the four instruments?",
+    "options": [
+      "Two violins, one viola, and one cello",
+      "Violin, viola, cello, and bass",
+      "Four violins",
+      "Violin, viola, cello, and piano"
+    ],
+    "answer": "Two violins, one viola, and one cello",
+    "difficulty": "Expert"
+  },
+  {
+    "question": "What is the purpose of the 'purfling' on a violin?",
+    "options": [
+      "A decorative inlay that also helps prevent cracks from spreading",
+      "To hold the top and back plates together",
+      "To improve the tone",
+      "To attach the strings"
+    ],
+    "answer": "A decorative inlay that also helps prevent cracks from spreading",
+    "difficulty": "Expert"
+  },
+  {
+    "question": "Which jazz violinist was a pioneer of the 'hot jazz' style and played with Django Reinhardt?",
+    "options": [
+      "Stéphane Grappelli",
+      "Jean-Luc Ponty",
+      "Regina Carter",
+      "Joe Venuti"
+    ],
+    "answer": "Stéphane Grappelli",
+    "difficulty": "Expert"
+  },
+  {
+    "question": "What is the 'fingerboard' of a violin?",
+    "options": [
+      "A thin piece of wood, usually ebony, glued to the top of the neck where the strings are pressed down",
+      "The bridge",
+      "The tailpiece",
+      "The scroll"
+    ],
+    "answer": "A thin piece of wood, usually ebony, glued to the top of the neck where the strings are pressed down",
+    "difficulty": "Expert"
+  },
+  {
+    "question": "The 'Kreutzer Etudes' are a cornerstone of violin pedagogy. To whom did Beethoven originally dedicate his 'Kreutzer' Sonata?",
+    "options": [
+      "George Bridgetower",
+      "Rodolphe Kreutzer",
+      "Pierre Rode",
+      "Giovanni Battista Viotti"
+    ],
+    "answer": "George Bridgetower",
+    "difficulty": "Expert"
+  },
+  {
+    "question": "What is the primary material for the hair of a high-quality violin bow?",
+    "options": [
+      "Horsehair, typically from the tail of a stallion",
+      "Synthetic fiber",
+      "Silk",
+      "Nylon"
+    ],
+    "answer": "Horsehair, typically from the tail of a stallion",
+    "difficulty": "Expert"
+  },
+  {
+    "question": "Which composer wrote 'Verklärte Nacht' (Transfigured Night), a tone poem for string sextet?",
+    "options": [
+      "Arnold Schoenberg",
+      "Richard Strauss",
+      "Gustav Mahler",
+      "Alexander von Zemlinsky"
+    ],
+    "answer": "Arnold Schoenberg",
+    "difficulty": "Expert"
+  },
+  {
+    "question": "What is the function of the 'bass bar' inside a violin?",
+    "options": [
+      "A strip of wood glued to the underside of the top plate, which helps support the tension of the strings and distribute vibrations",
+      "A metal rod to reinforce the neck",
+      "A part of the chinrest",
+      "A mute"
+    ],
+    "answer": "A strip of wood glued to the underside of the top plate, which helps support the tension of the strings and distribute vibrations",
+    "difficulty": "Expert"
+  },
+  {
+    "question": "What is 'ricochet' bowing?",
+    "options": [
+      "A technique where the bow is dropped on the string and allowed to bounce for a series of rapid notes",
+      "A very slow and sustained bow stroke",
+      "Playing with the wood of the bow",
+      "A circular bowing motion"
+    ],
+    "answer": "A technique where the bow is dropped on the string and allowed to bounce for a series of rapid notes",
+    "difficulty": "Expert"
+  },
+  {
+    "question": "Which contemporary violinist is known for their interpretations of Bach and their use of a Baroque bow?",
+    "options": [
+      "Hilary Hahn",
+      "Janine Jansen",
+      "Julia Fischer",
+      "Rachel Podger"
+    ],
+    "answer": "Rachel Podger",
+    "difficulty": "Expert"
+  },
+  {
+    "question": "What is a 'tailpiece' on a violin?",
+    "options": [
+      "A piece of wood, usually ebony, that anchors the strings at the end of the instrument opposite the scroll",
+      "The endpin",
+      "A part of the bow",
+      "A mute"
+    ],
+    "answer": "A piece of wood, usually ebony, that anchors the strings at the end of the instrument opposite the scroll",
+    "difficulty": "Expert"
+  },
+  {
+    "question": "The violin is tuned in perfect fifths. What are the open string notes from lowest to highest?",
+    "options": ["G, D, A, E", "C, G, D, A", "A, E, B, F-sharp", "E, A, D, G"],
+    "answer": "G, D, A, E",
+    "difficulty": "Expert"
+  },
+  {
+    "question": "What is a 'mute' on a violin?",
+    "options": [
+      "A small device placed on the bridge to dampen the vibrations and create a softer, more mellow tone",
+      "A cover for the f-holes",
+      "A cloth placed under the strings",
+      "A special type of bow"
+    ],
+    "answer": "A small device placed on the bridge to dampen the vibrations and create a softer, more mellow tone",
+    "difficulty": "Expert"
+  },
+  {
+    "question": "Which of these is a type of violin not commonly found in a modern orchestra?",
+    "options": ["Violin d'amore", "Viola", "Cello", "Double bass"],
+    "answer": "Violin d'amore",
+    "difficulty": "Expert"
+  },
+  {
+    "question": "What is the 'nut' of a violin?",
+    "options": [
+      "A small piece of wood, usually ebony, at the top of the fingerboard that guides the strings",
+      "The scroll",
+      "The bridge",
+      "A tuning peg"
+    ],
+    "answer": "A small piece of wood, usually ebony, at the top of the fingerboard that guides the strings",
+    "difficulty": "Expert"
+  },
+  {
+    "question": "Who is considered the 'father of modern violin playing' for his pedagogical work in the 18th century?",
+    "options": [
+      "Arcangelo Corelli",
+      "Antonio Vivaldi",
+      "Giuseppe Tartini",
+      "Francesco Geminiani"
+    ],
+    "answer": "Arcangelo Corelli",
+    "difficulty": "Expert"
+  },
+  {
+    "question": "What is the 'endpin' of a violin?",
+    "options": [
+      "A small button at the bottom of the instrument where the tailpiece is attached",
+      "The scroll",
+      "The bridge",
+      "A tuning peg"
+    ],
+    "answer": "A small button at the bottom of the instrument where the tailpiece is attached",
+    "difficulty": "Expert"
+  },
+  {
+    "question": "In which of his works did Vivaldi write a concerto for four violins?",
+    "options": [
+      "L'estro Armonico, Op. 3, No. 10",
+      "The Four Seasons",
+      "Gloria",
+      "Stabat Mater"
+    ],
+    "answer": "L'estro Armonico, Op. 3, No. 10",
+    "difficulty": "Expert"
+  },
+  {
+    "question": "What is the primary difference between a Baroque violin and a modern violin?",
+    "options": [
+      "The Baroque violin has a shorter, thicker neck, a flatter bridge, and gut strings",
+      "The modern violin is made of a different type of wood",
+      "The Baroque violin has five strings",
+      "There is no difference"
+    ],
+    "answer": "The Baroque violin has a shorter, thicker neck, a flatter bridge, and gut strings",
+    "difficulty": "Expert"
+  }
+]

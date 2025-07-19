@@ -105,6 +105,7 @@ export default function Home() {
                   <SelectItem value="Easy">Easy</SelectItem>
                   <SelectItem value="Medium">Medium</SelectItem>
                   <SelectItem value="Hard">Hard</SelectItem>
+                  <SelectItem value="Expert">Expert</SelectItem>
                 </SelectContent>
               </Select>
             </div>
