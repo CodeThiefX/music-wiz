@@ -1,5 +1,5 @@
 import { NextRequest, NextResponse } from "next/server";
-import { head, put, del } from "@vercel/blob";
+import { head, put } from "@vercel/blob";
 
 type LeaderboardEntry = {
   name: string;
@@ -66,8 +66,8 @@ export async function POST(req: NextRequest) {
     }
 
     return NextResponse.json({ message: "Score saved successfully" });
-  } catch (error) {
-    console.error(error);
+  } catch {
+    console.error("An unknown error occurred.");
     return NextResponse.json(
       { error: "Internal Server Error" },
       { status: 500 }

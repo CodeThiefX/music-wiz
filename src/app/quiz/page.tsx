@@ -43,10 +43,10 @@ export default function QuizPage() {
         const allQuestions: Question[] = [];
         for (const instrument of selectedInstruments) {
           try {
-            const module = await import(
+            const questionModule = await import(
               `@/lib/questions/${instrument.toLowerCase()}.json`
             );
-            const instrumentQuestions = module.default as Omit<
+            const instrumentQuestions = questionModule.default as Omit<
               Question,
               "instrument"
             >[];
