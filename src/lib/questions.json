@@ -154,6 +154,106 @@
       "options": ["The bridge key", "The barrel", "The bell", "The ligature"],
       "answer": "The bridge key",
       "difficulty": "Hard"
+    },
+    {
+      "question": "What is the term for the range of notes an instrument can play?",
+      "options": ["Tessitura", "Range", "Register", "Ambitus"],
+      "answer": "Tessitura",
+      "difficulty": "Hard"
+    },
+    {
+      "question": "Which famous composer wrote a concerto for the clarinet in A major?",
+      "options": ["Mozart", "Beethoven", "Bach", "Brahms"],
+      "answer": "Mozart",
+      "difficulty": "Medium"
+    },
+    {
+      "question": "What is the 'break' on a clarinet?",
+      "options": [
+        "The transition between the lower and upper registers",
+        "A crack in the instrument",
+        "A rest in the music",
+        "A type of articulation"
+      ],
+      "answer": "The transition between the lower and upper registers",
+      "difficulty": "Hard"
+    },
+    {
+      "question": "What is a 'ligature' used for on a clarinet?",
+      "options": [
+        "To hold the reed onto the mouthpiece",
+        "To connect the joints",
+        "To clean the instrument",
+        "To hold the music"
+      ],
+      "answer": "To hold the reed onto the mouthpiece",
+      "difficulty": "Easy"
+    },
+    {
+      "question": "Which of these is a famous clarinetist?",
+      "options": [
+        "Benny Goodman",
+        "Louis Armstrong",
+        "Miles Davis",
+        "John Coltrane"
+      ],
+      "answer": "Benny Goodman",
+      "difficulty": "Medium"
+    },
+    {
+      "question": "What does 'subtone' mean in clarinet playing?",
+      "options": [
+        "A very soft, gentle tone",
+        "A very loud, harsh tone",
+        "A note played out of tune",
+        "A note played with vibrato"
+      ],
+      "answer": "A very soft, gentle tone",
+      "difficulty": "Hard"
+    },
+    {
+      "question": "What is the purpose of the thumb rest?",
+      "options": [
+        "To support the weight of the instrument",
+        "To play a specific note",
+        "To change the pitch",
+        "To hold the reed"
+      ],
+      "answer": "To support the weight of the instrument",
+      "difficulty": "Easy"
+    },
+    {
+      "question": "What is a 'chalumeau' register?",
+      "options": [
+        "The lowest register of the clarinet",
+        "The highest register of the clarinet",
+        "The middle register of the clarinet",
+        "A special effect on the clarinet"
+      ],
+      "answer": "The lowest register of the clarinet",
+      "difficulty": "Hard"
+    },
+    {
+      "question": "What is the difference between a B-flat and an A clarinet?",
+      "options": [
+        "The A clarinet is slightly longer and plays in a different key",
+        "The B-flat clarinet is made of a different material",
+        "The A clarinet has more keys",
+        "There is no difference"
+      ],
+      "answer": "The A clarinet is slightly longer and plays in a different key",
+      "difficulty": "Medium"
+    },
+    {
+      "question": "What is a 'throat tone' on the clarinet?",
+      "options": [
+        "Notes played with the left hand first finger and thumb",
+        "Notes played with the right hand",
+        "The highest notes on the instrument",
+        "The lowest notes on the instrument"
+      ],
+      "answer": "Notes played with the left hand first finger and thumb",
+      "difficulty": "Hard"
     }
   ],
   "Saxophone": [
@@ -306,6 +406,116 @@
       "options": ["1.5 or 2", "2.5 or 3", "3.5 or 4", "5"],
       "answer": "1.5 or 2",
       "difficulty": "Medium"
+    },
+    {
+      "question": "Who is considered the inventor of the saxophone?",
+      "options": [
+        "Adolphe Sax",
+        "Antoine-Joseph Sax",
+        "Theobald Boehm",
+        "Henri Selmer"
+      ],
+      "answer": "Adolphe Sax",
+      "difficulty": "Medium"
+    },
+    {
+      "question": "What is the 'altissimo' register on the saxophone?",
+      "options": [
+        "The highest range of notes, above the normal range",
+        "The lowest range of notes",
+        "A special type of vibrato",
+        "A technique for playing multiple notes at once"
+      ],
+      "answer": "The highest range of notes, above the normal range",
+      "difficulty": "Hard"
+    },
+    {
+      "question": "Which famous jazz musician was nicknamed 'Bird' and played the alto saxophone?",
+      "options": [
+        "Charlie Parker",
+        "John Coltrane",
+        "Lester Young",
+        "Sonny Rollins"
+      ],
+      "answer": "Charlie Parker",
+      "difficulty": "Medium"
+    },
+    {
+      "question": "What is a 'growl' on the saxophone?",
+      "options": [
+        "A rough, raspy sound produced by humming while playing",
+        "A very loud note",
+        "A mistake in embouchure",
+        "A type of mute"
+      ],
+      "answer": "A rough, raspy sound produced by humming while playing",
+      "difficulty": "Hard"
+    },
+    {
+      "question": "What is the function of the octave key?",
+      "options": [
+        "To raise the pitch of most notes by an octave",
+        "To lower the pitch by an octave",
+        "To play in a different key",
+        "To mute the sound"
+      ],
+      "answer": "To raise the pitch of most notes by an octave",
+      "difficulty": "Easy"
+    },
+    {
+      "question": "What does 'embouchure' refer to in saxophone playing?",
+      "options": [
+        "The way a player shapes their mouth around the mouthpiece",
+        "The way a player holds the instrument",
+        "The type of reed used",
+        "The brand of saxophone"
+      ],
+      "answer": "The way a player shapes their mouth around the mouthpiece",
+      "difficulty": "Medium"
+    },
+    {
+      "question": "Which of these is NOT a standard member of the saxophone family?",
+      "options": [
+        "Contrabass Saxophone",
+        "Soprano Saxophone",
+        "Baritone Saxophone",
+        "Tenor Saxophone"
+      ],
+      "answer": "Contrabass Saxophone",
+      "difficulty": "Hard"
+    },
+    {
+      "question": "What is a 'lick' in jazz improvisation?",
+      "options": [
+        "A short, recognizable melodic phrase",
+        "A mistake",
+        "A very long note",
+        "A type of scale"
+      ],
+      "answer": "A short, recognizable melodic phrase",
+      "difficulty": "Medium"
+    },
+    {
+      "question": "What is the purpose of the 'water key' or 'spit valve'?",
+      "options": [
+        "To release condensation from the instrument",
+        "To change the key of the instrument",
+        "To add water to the instrument",
+        "To clean the reed"
+      ],
+      "answer": "To release condensation from the instrument",
+      "difficulty": "Easy"
+    },
+    {
+      "question": "What is a 'transcription' in the context of jazz saxophone?",
+      "options": [
+        "Notating a recorded solo by ear",
+        "Writing a new piece of music",
+        "Arranging a piece for a different instrument",
+        "Playing a solo from memory"
+      ],
+      "answer": "Notating a recorded solo by ear",
+      "difficulty": "Hard"
     }
   ],
   "Trumpet": [
@@ -473,6 +683,116 @@
       ],
       "answer": "Valve oil and cleaning snake",
       "difficulty": "Medium"
+    },
+    {
+      "question": "What is a 'half-valve' technique on the trumpet?",
+      "options": [
+        "Depressing a valve only halfway to produce a different tone color",
+        "A broken valve",
+        "Playing with only two valves",
+        "A type of mute"
+      ],
+      "answer": "Depressing a valve only halfway to produce a different tone color",
+      "difficulty": "Hard"
+    },
+    {
+      "question": "Which famous jazz trumpeter was known for his puffed cheeks and bent trumpet bell?",
+      "options": [
+        "Dizzy Gillespie",
+        "Miles Davis",
+        "Louis Armstrong",
+        "Wynton Marsalis"
+      ],
+      "answer": "Dizzy Gillespie",
+      "difficulty": "Medium"
+    },
+    {
+      "question": "What is a 'lip slur' on the trumpet?",
+      "options": [
+        "Changing notes without changing valve combinations, using only the embouchure",
+        "A mistake in buzzing",
+        "A type of articulation",
+        "A way to play faster"
+      ],
+      "answer": "Changing notes without changing valve combinations, using only the embouchure",
+      "difficulty": "Hard"
+    },
+    {
+      "question": "What is the purpose of the 'water key' or 'spit valve'?",
+      "options": [
+        "To release condensation from the instrument",
+        "To change the key of the instrument",
+        "To add water to the instrument",
+        "To clean the mouthpiece"
+      ],
+      "answer": "To release condensation from the instrument",
+      "difficulty": "Easy"
+    },
+    {
+      "question": "What is a 'double tongue' technique?",
+      "options": [
+        "A method for articulating notes rapidly using 'ta-ka' syllables",
+        "Playing two notes at once",
+        "A type of mute",
+        "A way to play very high notes"
+      ],
+      "answer": "A method for articulating notes rapidly using 'ta-ka' syllables",
+      "difficulty": "Hard"
+    },
+    {
+      "question": "Which of these is a type of trumpet mute?",
+      "options": [
+        "Harmon mute",
+        "Plunger mute",
+        "Cup mute",
+        "All of the above"
+      ],
+      "answer": "All of the above",
+      "difficulty": "Medium"
+    },
+    {
+      "question": "What is the 'leadpipe' of a trumpet?",
+      "options": [
+        "The tube leading from the mouthpiece to the main tuning slide",
+        "The bell of the trumpet",
+        "The third valve slide",
+        "The mouthpiece itself"
+      ],
+      "answer": "The tube leading from the mouthpiece to the main tuning slide",
+      "difficulty": "Medium"
+    },
+    {
+      "question": "Who composed the famous trumpet piece 'The Carnival of Venice'?",
+      "options": [
+        "Jean-Baptiste Arban",
+        "Herbert L. Clarke",
+        "Johann Nepomuk Hummel",
+        "Joseph Haydn"
+      ],
+      "answer": "Jean-Baptiste Arban",
+      "difficulty": "Hard"
+    },
+    {
+      "question": "What is the difference between a trumpet and a cornet?",
+      "options": [
+        "The cornet has a more conical bore, giving it a mellower tone",
+        "The trumpet has four valves",
+        "The cornet is a woodwind instrument",
+        "There is no difference"
+      ],
+      "answer": "The cornet has a more conical bore, giving it a mellower tone",
+      "difficulty": "Medium"
+    },
+    {
+      "question": "What does 'a2' mean in a trumpet part?",
+      "options": [
+        "Both players on the part should play",
+        "Play the note twice",
+        "Play the note as a harmonic",
+        "Play the note with a specific mute"
+      ],
+      "answer": "Both players on the part should play",
+      "difficulty": "Hard"
     }
   ],
   "Violin": [
@@ -650,6 +970,116 @@
       ],
       "answer": "Pluck the strings with fingers",
       "difficulty": "Medium"
+    },
+    {
+      "question": "What is a 'double stop' on the violin?",
+      "options": [
+        "Playing two notes on adjacent strings at the same time",
+        "Playing a note twice",
+        "A type of rest",
+        "A very difficult passage"
+      ],
+      "answer": "Playing two notes on adjacent strings at the same time",
+      "difficulty": "Hard"
+    },
+    {
+      "question": "Who is a famous violin virtuoso from the Romantic era?",
+      "options": [
+        "Niccolò Paganini",
+        "Antonio Vivaldi",
+        "J.S. Bach",
+        "W.A. Mozart"
+      ],
+      "answer": "Niccolò Paganini",
+      "difficulty": "Medium"
+    },
+    {
+      "question": "What is 'vibrato' in violin playing?",
+      "options": [
+        "A slight and rapid fluctuation in pitch",
+        "Playing with a very straight tone",
+        "A type of bowing technique",
+        "Playing very softly"
+      ],
+      "answer": "A slight and rapid fluctuation in pitch",
+      "difficulty": "Medium"
+    },
+    {
+      "question": "What are 'harmonics' on the violin?",
+      "options": [
+        "Overtones produced by lightly touching the string at a specific point",
+        "Chords played on the violin",
+        "A type of scale",
+        "A special effect using the bow"
+      ],
+      "answer": "Overtones produced by lightly touching the string at a specific point",
+      "difficulty": "Hard"
+    },
+    {
+      "question": "What is the 'bridge' of the violin for?",
+      "options": [
+        "To support the strings and transmit their vibrations to the body",
+        "To tune the strings",
+        "To hold the bow",
+        "To rest your chin on"
+      ],
+      "answer": "To support the strings and transmit their vibrations to the body",
+      "difficulty": "Easy"
+    },
+    {
+      "question": "What does 'col legno' mean?",
+      "options": [
+        "To strike the strings with the wood of the bow",
+        "To play near the bridge",
+        "To play with a mute",
+        "To pluck the strings"
+      ],
+      "answer": "To strike the strings with the wood of the bow",
+      "difficulty": "Hard"
+    },
+    {
+      "question": "What is a 'sonata'?",
+      "options": [
+        "A composition for a solo instrument, often with piano accompaniment",
+        "A piece for a full orchestra",
+        "A short, simple song",
+        "A type of dance"
+      ],
+      "answer": "A composition for a solo instrument, often with piano accompaniment",
+      "difficulty": "Medium"
+    },
+    {
+      "question": "What is the purpose of the 'f-holes' on a violin?",
+      "options": [
+        "To allow the sound to project from the instrument's body",
+        "For decoration",
+        "To help tune the instrument",
+        "To hold the bridge in place"
+      ],
+      "answer": "To allow the sound to project from the instrument's body",
+      "difficulty": "Medium"
+    },
+    {
+      "question": "What does 'spiccato' mean?",
+      "options": [
+        "A bowing technique where the bow bounces lightly off the strings",
+        "To play smoothly and connectedly",
+        "To play with a heavy, accented stroke",
+        "To play near the fingerboard"
+      ],
+      "answer": "A bowing technique where the bow bounces lightly off the strings",
+      "difficulty": "Hard"
+    },
+    {
+      "question": "Who wrote 'The Four Seasons', a famous set of violin concertos?",
+      "options": [
+        "Antonio Vivaldi",
+        "J.S. Bach",
+        "George Frideric Handel",
+        "Arcangelo Corelli"
+      ],
+      "answer": "Antonio Vivaldi",
+      "difficulty": "Easy"
     }
   ],
   "Trombone": [
@@ -827,6 +1257,116 @@
       "options": ["B♭", "C", "E♭", "F"],
       "answer": "B♭",
       "difficulty": "Medium"
+    },
+    {
+      "question": "What is a 'glissando' on the trombone?",
+      "options": [
+        "A continuous slide from one note to another",
+        "A very loud note",
+        "A very soft note",
+        "A type of mute"
+      ],
+      "answer": "A continuous slide from one note to another",
+      "difficulty": "Medium"
+    },
+    {
+      "question": "What is the F attachment on a trombone used for?",
+      "options": [
+        "To lower the pitch of the instrument and provide alternate slide positions",
+        "To make the instrument louder",
+        "To attach a music stand",
+        "To hold a mute"
+      ],
+      "answer": "To lower the pitch of the instrument and provide alternate slide positions",
+      "difficulty": "Hard"
+    },
+    {
+      "question": "Who is a famous jazz trombonist?",
+      "options": [
+        "J.J. Johnson",
+        "Glenn Miller",
+        "Tommy Dorsey",
+        "All of the above"
+      ],
+      "answer": "All of the above",
+      "difficulty": "Medium"
+    },
+    {
+      "question": "What is a 'pedal tone' on the trombone?",
+      "options": [
+        "The lowest fundamental note of the instrument",
+        "A note played with a special pedal",
+        "A very high note",
+        "A note played with a mute"
+      ],
+      "answer": "The lowest fundamental note of the instrument",
+      "difficulty": "Hard"
+    },
+    {
+      "question": "What is the difference between a tenor and a bass trombone?",
+      "options": [
+        "The bass trombone has a larger bore and bell, and usually has two valves",
+        "The tenor trombone is a woodwind instrument",
+        "The bass trombone has no slide",
+        "There is no difference"
+      ],
+      "answer": "The bass trombone has a larger bore and bell, and usually has two valves",
+      "difficulty": "Medium"
+    },
+    {
+      "question": "What does 'legato tonguing' mean on the trombone?",
+      "options": [
+        "A very smooth and connected style of articulation",
+        "A very short and detached style of articulation",
+        "Playing without using the tongue",
+        "A type of double tonguing"
+      ],
+      "answer": "A very smooth and connected style of articulation",
+      "difficulty": "Hard"
+    },
+    {
+      "question": "What is a 'spit valve' or 'water key' for?",
+      "options": [
+        "To release condensation from the instrument",
+        "To add water to the slide",
+        "To clean the mouthpiece",
+        "To change the pitch"
+      ],
+      "answer": "To release condensation from the instrument",
+      "difficulty": "Easy"
+    },
+    {
+      "question": "Which composer wrote 'Trombone Concerto' for Ferdinand David?",
+      "options": [
+        "Ferdinand David",
+        "Felix Mendelssohn",
+        "Carl Maria von Weber",
+        "Nikolai Rimsky-Korsakov"
+      ],
+      "answer": "Ferdinand David",
+      "difficulty": "Hard"
+    },
+    {
+      "question": "What is a 'counterweight' on a trombone?",
+      "options": [
+        "A weight on the tuning slide to balance the instrument",
+        "A type of mute",
+        "A part of the slide lock",
+        "A decorative element"
+      ],
+      "answer": "A weight on the tuning slide to balance the instrument",
+      "difficulty": "Medium"
+    },
+    {
+      "question": "What is a 'sackbut'?",
+      "options": [
+        "An early ancestor of the trombone",
+        "A type of trombone mute",
+        "A cleaning tool for the trombone",
+        "A famous trombone manufacturer"
+      ],
+      "answer": "An early ancestor of the trombone",
+      "difficulty": "Hard"
     }
   ],
   "Euphonium": [
@@ -1014,6 +1554,111 @@
       ],
       "answer": "To project sound outward",
       "difficulty": "Easy"
+    },
+    {
+      "question": "What does 'compensating system' mean on a euphonium?",
+      "options": [
+        "A system of extra tubing that improves intonation on lower notes",
+        "A system for automatically tuning the instrument",
+        "A type of mute",
+        "A special valve oil"
+      ],
+      "answer": "A system of extra tubing that improves intonation on lower notes",
+      "difficulty": "Hard"
+    },
+    {
+      "question": "Who is a famous euphonium soloist?",
+      "options": ["Steven Mead", "Wynton Marsalis", "Yo-Yo Ma", "James Galway"],
+      "answer": "Steven Mead",
+      "difficulty": "Medium"
+    },
+    {
+      "question": "What is the difference between a euphonium and a baritone horn?",
+      "options": [
+        "The euphonium has a more conical bore, resulting in a darker tone",
+        "The baritone horn has a slide instead of valves",
+        "The euphonium is a woodwind instrument",
+        "There is no difference"
+      ],
+      "answer": "The euphonium has a more conical bore, resulting in a darker tone",
+      "difficulty": "Medium"
+    },
+    {
+      "question": "What is a 'pedal tone' on the euphonium?",
+      "options": [
+        "The lowest fundamental note of the instrument",
+        "A note played with a foot pedal",
+        "A very high, piercing note",
+        "A note played with a special mute"
+      ],
+      "answer": "The lowest fundamental note of the instrument",
+      "difficulty": "Hard"
+    },
+    {
+      "question": "In which type of ensemble is the euphonium most commonly found?",
+      "options": [
+        "Brass band and concert band",
+        "Symphony orchestra",
+        "Jazz big band",
+        "String quartet"
+      ],
+      "answer": "Brass band and concert band",
+      "difficulty": "Easy"
+    },
+    {
+      "question": "What is a 'lip slur' on the euphonium?",
+      "options": [
+        "Changing notes without changing valve combinations, using only the embouchure",
+        "A mistake in buzzing",
+        "A type of articulation",
+        "A way to play faster"
+      ],
+      "answer": "Changing notes without changing valve combinations, using only the embouchure",
+      "difficulty": "Hard"
+    },
+    {
+      "question": "What is the typical range of a euphonium?",
+      "options": [
+        "From E below the bass clef staff to B-flat above it",
+        "From C in the middle of the bass clef to G at the top",
+        "Only the notes of the C major scale",
+        "The same range as a trumpet"
+      ],
+      "answer": "From E below the bass clef staff to B-flat above it",
+      "difficulty": "Medium"
+    },
+    {
+      "question": "Which composer wrote 'Holst's First Suite in E-flat', which features a prominent euphonium part?",
+      "options": [
+        "Gustav Holst",
+        "Percy Grainger",
+        "Ralph Vaughan Williams",
+        "Edward Elgar"
+      ],
+      "answer": "Gustav Holst",
+      "difficulty": "Hard"
+    },
+    {
+      "question": "What is the 'bore' of a euphonium?",
+      "options": [
+        "The interior diameter of the instrument's tubing",
+        "A type of cleaning brush",
+        "The bell of the instrument",
+        "The mouthpiece"
+      ],
+      "answer": "The interior diameter of the instrument's tubing",
+      "difficulty": "Medium"
+    },
+    {
+      "question": "What is a 'serpent'?",
+      "options": [
+        "An ancestor of the euphonium and tuba",
+        "A type of mute for the euphonium",
+        "A cleaning snake for the euphonium",
+        "A famous euphonium manufacturer"
+      ],
+      "answer": "An ancestor of the euphonium and tuba",
+      "difficulty": "Hard"
     }
   ]
 }

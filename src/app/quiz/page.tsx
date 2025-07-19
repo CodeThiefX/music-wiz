@@ -62,7 +62,7 @@ export default function QuizPage() {
         ];
       }
 
-      setQuestions(filteredQuestions);
+      setQuestions(filteredQuestions.slice(0, 30));
     }
   }, [selectedInstruments, difficulty, setQuestions]);
 
