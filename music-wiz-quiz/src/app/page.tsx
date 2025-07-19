@@ -90,10 +90,10 @@ export default function Home() {
             </div>
           </div>
         </CardContent>
-        <CardFooter>
+        <CardFooter className="flex justify-between">
           <Button
             onClick={handleStartQuiz}
-            className="w-full"
+            className="w-1/2"
             disabled={loading}
           >
             {loading ? (
@@ -101,6 +101,13 @@ export default function Home() {
             ) : (
               "Start Quiz"
             )}
+          </Button>
+          <Button
+            onClick={() => router.push("/leaderboard")}
+            className="w-1/2"
+            variant="outline"
+          >
+            View Leaderboard
           </Button>
         </CardFooter>
       </Card>

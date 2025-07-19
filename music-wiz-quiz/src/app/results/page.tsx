@@ -1,6 +1,6 @@
 "use client";
 
-import { useState, useRef } from "react";
+import { useState, useRef, useEffect } from "react";
 import { useRouter } from "next/navigation";
 import { Loader2 } from "lucide-react";
 import { toPng } from "html-to-image";
@@ -10,18 +10,38 @@ import { useStore } from "@/lib/store";
 
 const ResultsPage = () => {
   const router = useRouter();
-  const { name, questions, answers, reset } = useStore();
+  const { name, questions, answers, reset, selectedInstruments } = useStore();
   const [loading, setLoading] = useState(false);
   const [downloading, setDownloading] = useState(false);
   const resultsRef = useRef<HTMLDivElement>(null);
 
-  let score = 0;
+  const score = questions.reduce((acc, question, index) => {
+    return answers[index] === question.answer ? acc + 1 : acc;
+  }, 0);
+
+  useEffect(() => {
+    const saveScore = async () => {
+      try {
+        await fetch("/api/scores", {
+          method: "POST",
+          headers: {
+            "Content-Type": "application/json",
+          },
+          body: JSON.stringify({ name, score, instruments: selectedInstruments }),
+        });
+      } catch (error) {
+        console.error("Failed to save score", error);
+      }
+    };
+
+    if (name) {
+      saveScore();
+    }
+  }, [name, score, selectedInstruments]);
+
   const results = questions.map((question, index) => {
     const userAnswer = answers[index];
     const isCorrect = userAnswer === question.answer;
-    if (isCorrect) {
-      score++;
-    }
     return {
       ...question,
       userAnswer,
@@ -97,6 +117,9 @@ const ResultsPage = () => {
               ) : (
                 "Download Result"
               )}
+            </Button>
+            <Button onClick={() => router.push("/leaderboard")}>
+              View Leaderboard
             </Button>
           </div>
         </CardContent>
