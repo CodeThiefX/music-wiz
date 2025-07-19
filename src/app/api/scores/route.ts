@@ -9,6 +9,12 @@ type LeaderboardEntry = {
 };
 
 export async function POST(req: NextRequest) {
+  if (!process.env.BLOB_READ_WRITE_TOKEN) {
+    return NextResponse.json(
+      { error: "BLOB_READ_WRITE_TOKEN environment variable is not set." },
+      { status: 500 }
+    );
+  }
   const { name, score, instruments, difficulty } = await req.json();
 
   if (
@@ -70,6 +76,12 @@ export async function POST(req: NextRequest) {
 }
 
 export async function GET() {
+  if (!process.env.BLOB_READ_WRITE_TOKEN) {
+    return NextResponse.json(
+      { error: "BLOB_READ_WRITE_TOKEN environment variable is not set." },
+      { status: 500 }
+    );
+  }
   try {
     const blob = await head("leaderboard.json");
 
